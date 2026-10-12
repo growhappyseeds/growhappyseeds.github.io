@@ -8,6 +8,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<!-- Google Analytics 4 (G-Z51LD2VZH1) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z51LD2VZH1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-Z51LD2VZH1');
+</script>
+<!-- End Google Analytics 4 -->
 <!-- Meta Pixel (Dataset 1606389660991888) -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -373,6 +382,7 @@ document.addEventListener('DOMContentLoaded', function () {
       form.style.display = 'none';
       document.getElementById('wDone').style.display = 'block';
       if (window.fbq) fbq('track', 'Lead', {content_name: 'Wholesale pricing guide'});
+      if (window.gtag) gtag('event', 'generate_lead', {lead_source: 'wholesale_form', value: 0, currency: 'USD'});
       var a = document.createElement('a');
       a.href = 'Happy_Seeds_Wholesale_Pricing_Guide.pdf'; a.download = 'Happy_Seeds_Wholesale_Pricing_Guide.pdf';
       document.body.appendChild(a); a.click(); a.remove();
@@ -385,6 +395,21 @@ document.addEventListener('DOMContentLoaded', function () {
         err.style.display = 'block';
       });
   });
+})();
+</script>
+<script>
+(function(){
+  // Outbound Amazon clicks: the site's primary conversion. Fires to GA4 (amazon_click) and Meta (AmazonClick)
+  // with the on-page location of the button, so CRO can compare CTA placements.
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href*="amazon.com"]');
+    if (!a) return;
+    var sec = a.closest('section, header, footer');
+    var loc = (sec && (sec.id || sec.className || sec.tagName)) ? String(sec.id || sec.className || sec.tagName).split(' ')[0].toLowerCase() : 'page';
+    var label = (a.textContent || '').trim().slice(0, 40);
+    if (window.gtag) gtag('event', 'amazon_click', {link_location: loc, link_text: label, link_url: a.href, value: 24.99, currency: 'USD'});
+    if (window.fbq) fbq('trackCustom', 'AmazonClick', {link_location: loc, value: 24.99, currency: 'USD'});
+  }, true);
 })();
 </script>
 </body>
