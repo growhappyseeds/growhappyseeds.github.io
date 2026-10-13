@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Happy Seeds: Herb Garden Seed Kit | Coming Soon</title>
-<meta name="description" content="The Happy Seeds Herb Garden Kit: ten culinary herb varieties, 1,000+ seeds, a 24-page grow guide, and a keepsake box. Coming soon.">
+<meta name="description" content="The Happy Seeds Herb Garden Kit: ten culinary herb varieties, 1,000+ seeds, a 24-page grow guide, and a keepsake box. $24.99, coming soon. Wholesale pricing available.">
 <meta name="robots" content="noindex,nofollow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -155,16 +155,18 @@ gtag('config', 'G-Z51LD2VZH1');
     .top .btn{display:none}
     .vgrid{grid-template-columns:1fr}
   }
-</style>
-  body{background:var(--sun)}
+  body{background:#FCD007}
+  .hero-img img{filter:drop-shadow(0 18px 28px rgba(38,33,26,.22))}
+  .split img{width:100%;max-width:520px;margin:0 auto}
+  .split .wrap>*{min-width:0}
+  .split.alt .wrap{grid-template-columns:1fr}
+  .split.alt .wrap>div{max-width:760px}
   .wholesale{background:var(--sun-tint)}
-  .split .wrap{grid-template-columns:1fr}
-  .split .wrap>div{max-width:760px}
   .soon{display:inline-block;font-family:'Jost','Helvetica Neue',Arial,sans-serif;font-weight:600;font-size:19px;
     padding:16px 34px;border-radius:999px;background:var(--ink);color:var(--sun);letter-spacing:.01em}
   .props .prop{background:#FFFBF2}
-  .vgrid{grid-template-columns:1fr 1fr}
   .stickycta{display:none !important}
+  @media (max-width:640px){.top .soon{display:none}}
 
 </style>
 </head>
@@ -187,11 +189,12 @@ gtag('config', 'G-Z51LD2VZH1');
       </div>
       <div class="cta-row">
         <span class="soon">Coming soon</span>
+        <span class="price">$24.99 <small>$2.50 per packet</small></span>
       </div>
       <p class="assure">Wholesalers can reach us now. <a href="#wholesale" style="color:var(--ketchup)">Jump to the form</a>.</p>
     </div>
     <div class="hero-img">
-      <!-- TODO: herb kit box photo, pending from the Drive folder -->
+      <img src="media/herb/herb-kit-box.webp" width="640" height="893" alt="Happy Seeds Herb Garden kit box: green keepsake box with the yellow Happy Seeds logo">
     </div>
   </div>
 </section>
@@ -216,6 +219,7 @@ gtag('config', 'G-Z51LD2VZH1');
         <li><b>Slide-out keepsake box</b>: foam insert keeps every packet in place</li>
       </ul>
     </div>
+    <img src="media/herb/grow-guide.webp" width="900" height="900" loading="lazy" alt="The Happy Seeds grow guide booklet, with the history and growing instructions for each herb">
   </div>
 </section>
 
@@ -230,7 +234,7 @@ gtag('config', 'G-Z51LD2VZH1');
         <li><b>Sage</b> 'Broadleaf'</li>
         <li><b>Rosemary</b> 'Common'</li>
         <li><b>Chives</b> 'Common'</li>
-        <li><b>Italian Large Leaf</b></li>
+        <li><b>Parsley</b> 'Italian Large Leaf'</li>
         <li><b>Cilantro</b> 'Santo'</li>
         <li><b>Spearmint</b> 'Curly'</li>
         <li><b>Thyme</b> 'English (Winter)'</li>
@@ -245,13 +249,19 @@ gtag('config', 'G-Z51LD2VZH1');
     <div>
       <p class="eyebrow">For shops &amp; garden centers</p>
       <h2>Carry the Herb Garden Kit in your store</h2>
-      <p class="sub">Fill out the form and we'll reply to talk about ordering. The kit is coming soon, so tell us the timing you're planning for.</p>
-      <p class="assure" style="margin-top:18px">Questions? Email <a href="mailto:hello@growhappyseeds.com" style="color:var(--ketchup)">hello@growhappyseeds.com</a></p>
+      <p class="sub">A gift-ready herb kit that fits in the footprint of a paperback: no seed rack, no wall of packets. It's coming soon. Fill out the form to get our wholesale pricing guide and reserve an opening order.</p>
+      <ul class="terms">
+        <li><span>Suggested retail</span><b>$24.99</b></li>
+        <li><span>Wholesale</span><b>from $12.50 / unit</b></li>
+        <li><span>Minimum order</span><b>10 units</b></li>
+        <li><span>Delivery</span><b>at launch</b></li>
+      </ul>
+      <p class="assure">Questions? Email <a href="mailto:hello@growhappyseeds.com" style="color:var(--ketchup)">hello@growhappyseeds.com</a></p>
     </div>
     <div class="wform">
       <form id="wholesaleForm" novalidate>
-        <h3>Wholesale inquiry</h3>
-        <p class="hint">Takes a minute. We'll follow up within one business day.</p>
+        <h3>Get the herb kit pricing guide</h3>
+        <p class="hint">Takes a minute. Your PDF downloads instantly, and we'll follow up within one business day about your order.</p>
         <div class="fgrid">
           <div class="full"><label for="w_store">Store name <span class="req">*</span></label><input id="w_store" name="store" autocomplete="organization" required></div>
           <div><label for="w_name">Your name <span class="req">*</span></label><input id="w_name" name="name" autocomplete="name" required></div>
@@ -265,13 +275,14 @@ gtag('config', 'G-Z51LD2VZH1');
           <div class="full"><label for="w_msg">Anything else?</label><textarea id="w_msg" name="message" placeholder="Timing, quantities, questions…"></textarea></div>
           <div class="hp" aria-hidden="true"><label for="w_hp">Leave blank</label><input id="w_hp" name="website_url" tabindex="-1" autocomplete="off"></div>
         </div>
-        <button class="btn big" type="submit">Send inquiry</button>
+        <button class="btn big" type="submit">Send me the pricing guide</button>
         <p class="err" id="wErr" role="alert"></p>
         <p class="fine">We'll only use this to follow up about wholesale.</p>
       </form>
       <div class="wdone" id="wDone" aria-live="polite">
         <h3>Thank you! 🌱</h3>
-        <p>We got your inquiry and will be in touch within one business day.</p>
+        <p>Your pricing guide is downloading now. We'll be in touch within one business day to set up your order.</p>
+        <a class="btn" href="Happy_Seeds_Herb_Wholesale_Pricing_Guide.pdf" download>Download the pricing guide (PDF)</a>
       </div>
     </div>
   </div>
@@ -313,11 +324,14 @@ gtag('config', 'G-Z51LD2VZH1');
       form.style.display = 'none';
       document.getElementById('wDone').style.display = 'block';
       if (window.gtag) gtag('event', 'generate_lead', {lead_source: 'herb_kit_wholesale', value: 0, currency: 'USD'});
+      var a = document.createElement('a');
+      a.href = 'Happy_Seeds_Herb_Wholesale_Pricing_Guide.pdf'; a.download = 'Happy_Seeds_Herb_Wholesale_Pricing_Guide.pdf';
+      document.body.appendChild(a); a.click(); a.remove();
     };
     fetch(ENDPOINT, {method: 'POST', mode: 'no-cors', body: data})
       .then(done)
       .catch(function(){
-        btn.disabled = false; btn.textContent = 'Send inquiry';
+        btn.disabled = false; btn.textContent = 'Send me the pricing guide';
         err.innerHTML = 'Something went wrong. Please try again, or email <a href="mailto:hello@growhappyseeds.com">hello@growhappyseeds.com</a>.';
         err.style.display = 'block';
       });
