@@ -79,6 +79,45 @@
    "note": "Reworked per Jared (Oct 12, 23:20): packets now match the real packet design (pink Carrot 'Danvers 126', green Kale 'Red Russian'). Kraft wrap and ribbon are scenery.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/gift.jpg",
    "status": "Pending"
+  },
+  {
+   "key": "housewarming",
+   "ct": "CT-20261013-01",
+   "aq": "AQ-20261013-01",
+   "angle": "gift",
+   "hook": "A housewarming gift they'll actually plant.",
+   "time": "2026-10-14 11:30",
+   "caption": "A housewarming gift they'll actually plant.\nTen named seed packets and a 24-page grow guide in a keepsake box.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #anaheimchili",
+   "canva": "MAHX4sMa9qA",
+   "note": "Box text reads correctly (Happy Seeds, 10 Variety Mix, Veggie Garden, 10 Seed Packets, 1,000+ Seeds). Moving boxes are blank; bow, key and plant are scenery. No packets in frame.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/housewarming.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "seedling",
+   "ct": "CT-20261013-02",
+   "aq": "AQ-20261013-02",
+   "angle": "first_win",
+   "hook": "Your first tomato starts as a seed.",
+   "time": "2026-10-15 11:30",
+   "caption": "Your first tomato starts as a seed.\nTomato 'Floradade' is one of ten named packets, and the 24-page guide covers depth, spacing and watering.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #floradadetomato",
+   "canva": "MAHX4rkzADM",
+   "note": "Box text reads correctly. Only props are the pot, seedling and watering can (scenery, not in the box). No packets in frame; no words off the box.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/seedling.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "bookshelf",
+   "ct": "CT-20261013-03",
+   "aq": "AQ-20261013-03",
+   "angle": "glow_up",
+   "hook": "The seed kit that sits on your bookshelf.",
+   "time": "2026-10-16 11:30",
+   "caption": "The seed kit that sits on your bookshelf.\nA slide-out keepsake box with the footprint of a paperback.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #purpletopturnip",
+   "canva": "MAHX4g_xBZs",
+   "note": "Box text reads correctly. Book spines and covers are blank; plants and a small landscape picture are scenery. No packets in frame.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/bookshelf.jpg",
+   "status": "Pending"
   }
  ]
 }
