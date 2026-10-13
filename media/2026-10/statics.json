@@ -12,7 +12,8 @@
    "caption": "Seed packets just got a glow up.\nTen named varieties in a box that wraps like a book.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #blackbeautyeggplant",
    "canva": "MAHX15_JAoM",
    "note": "Box text reads correctly. No props beyond pots, watering can, window.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/glowup.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/glowup.jpg",
+   "status": "Pending"
   },
   {
    "key": "city",
@@ -24,7 +25,8 @@
    "caption": "No yard? Start here.\nFive of the ten packets grow on a sunny windowsill or balcony.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #redrussiankale",
    "canva": "MAHX2PffhOI",
    "note": "Was a 6-slide carousel; now one image. Box text correct; skyline, pots and watering can are scenery.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/city.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/city.jpg",
+   "status": "Pending"
   },
   {
    "key": "beet",
@@ -36,7 +38,8 @@
    "caption": "Beet 'Chioggia': the candy-striped one.\nCool-season, so it works on a windowsill or balcony.\nSave this for spring\n\n#seedstarting #balconygarden #giftideas #chioggiabeet",
    "canva": "MAHX2BK9IWQ",
    "note": "Packet reads CHIOGGIA (correct). Beet rings are the only trait shown. Small print on the packet is decorative, not legible.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/beet.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/beet.jpg",
+   "status": "Pending"
   },
   {
    "key": "inside",
@@ -48,7 +51,8 @@
    "caption": "What's actually in the box\nTen packets, 1,000+ seeds, a 24-page guide, one keepsake box.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #marketmore76",
    "canva": "MAHX2-C7sv0",
    "note": "Was a 5-slide carousel; now one image. Regenerated so the ten packets carry pictures only (first version had invented names). Tray layout is an illustration of the real insert, not a photo.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/inside.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/inside.jpg",
+   "status": "Pending"
   },
   {
    "key": "winter",
@@ -60,7 +64,8 @@
    "caption": "Your spring garden starts on paper.\nFive packets for the windowsill now, five that wait for spring.\nSave this for spring\n\n#seedstarting #balconygarden #giftideas #bloomsdalespinach",
    "canva": "MAHX2JlNnfU",
    "note": "New static from the CT-10 seasonal angle. The open booklet shows generic 'Plant / Water / Grow / Enjoy' art, not real guide pages; no claim made.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/winter.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/winter.jpg",
+   "status": "Pending"
   },
   {
    "key": "gift",
@@ -72,7 +77,8 @@
    "caption": "The gift that turns into dinner.\nTen named packets, a 24-page guide, a box they'll keep.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #floradadetomato",
    "canva": "MAHX21U6EcY",
    "note": "Was a 5-slide carousel; now one image. Regenerated so the packets carry pictures only (first version showed a 'lettuce' packet, not in the kit). Kraft wrap and ribbon are scenery, allowed by the styling rule.",
-   "url": "https://growhappyseeds.com/media/2026-10/statics/gift.jpg"
+   "url": "https://growhappyseeds.com/media/2026-10/statics/gift.jpg",
+   "status": "Hold"
   }
  ]
 }
