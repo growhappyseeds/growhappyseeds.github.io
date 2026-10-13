@@ -1,0 +1,12 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/1rxg0/DAHX2L1rxg0/-1/0/0002-6878641342347218758.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20261012%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T234045Z&X-Amz-Expires=19280&X-Amz-Signature=f0d2b064177e68b0b9d8477ce5433ac3879f2d8bfadd213e118c473886343cab&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2013%20Oct%202026%2005%3A02%3A05%20GMT",
+   "path": "media/2026-10/statics/gift.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/1rxg0/DAHX2L1rxg0/-1/0/0004-6878641342347218758.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20261012%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T072254Z&X-Amz-Expires=78105&X-Amz-Signature=aa62631790ae37bfb59b99270550462eb3fb85bb51346d6315a829021ccfcd55&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2013%20Oct%202026%2005%3A04%3A39%20GMT",
+   "path": "media/2026-10/statics/inside.jpg"
+  }
+ ]
+}

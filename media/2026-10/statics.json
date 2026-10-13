@@ -13,7 +13,7 @@
    "canva": "MAHX15_JAoM",
    "note": "Box text reads correctly. No props beyond pots, watering can, window.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/glowup.jpg",
-   "status": "Pending"
+   "status": "Approved"
   },
   {
    "key": "city",
@@ -26,7 +26,7 @@
    "canva": "MAHX2PffhOI",
    "note": "Was a 6-slide carousel; now one image. Box text correct; skyline, pots and watering can are scenery.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/city.jpg",
-   "status": "Pending"
+   "status": "Approved"
   },
   {
    "key": "beet",
@@ -39,7 +39,7 @@
    "canva": "MAHX2BK9IWQ",
    "note": "Packet reads CHIOGGIA (correct). Beet rings are the only trait shown. Small print on the packet is decorative, not legible.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/beet.jpg",
-   "status": "Pending"
+   "status": "Approved"
   },
   {
    "key": "inside",
@@ -49,8 +49,8 @@
    "hook": "What's actually in the box",
    "time": "2026-10-21 11:30",
    "caption": "What's actually in the box\nTen packets, 1,000+ seeds, a 24-page guide, one keepsake box.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #marketmore76",
-   "canva": "MAHX2-C7sv0",
-   "note": "Was a 5-slide carousel; now one image. Regenerated so the ten packets carry pictures only (first version had invented names). Tray layout is an illustration of the real insert, not a photo.",
+   "canva": "MAHX2418GZs",
+   "note": "Reworked per Jared (Oct 12, 23:20): drawer slides out of the short end with the black pull tab on that end; ten packets in the real designs; real grow guide cover.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/inside.jpg",
    "status": "Pending"
   },
@@ -65,7 +65,7 @@
    "canva": "MAHX2JlNnfU",
    "note": "New static from the CT-10 seasonal angle. The open booklet shows generic 'Plant / Water / Grow / Enjoy' art, not real guide pages; no claim made.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/winter.jpg",
-   "status": "Pending"
+   "status": "Approved"
   },
   {
    "key": "gift",
@@ -75,10 +75,10 @@
    "hook": "The gift that turns into dinner.",
    "time": "2026-10-27 11:30",
    "caption": "The gift that turns into dinner.\nTen named packets, a 24-page guide, a box they'll keep.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #floradadetomato",
-   "canva": "MAHX21U6EcY",
-   "note": "Was a 5-slide carousel; now one image. Regenerated so the packets carry pictures only (first version showed a 'lettuce' packet, not in the kit). Kraft wrap and ribbon are scenery, allowed by the styling rule.",
+   "canva": "MAHX224drIQ",
+   "note": "Reworked per Jared (Oct 12, 23:20): packets now match the real packet design (pink Carrot 'Danvers 126', green Kale 'Red Russian'). Kraft wrap and ribbon are scenery.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/gift.jpg",
-   "status": "Hold"
+   "status": "Pending"
   }
  ]
 }
