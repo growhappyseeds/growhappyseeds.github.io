@@ -1,0 +1,57 @@
+# Media hosting bridge.
+# The content system (Claude sessions) cannot reach Canva's download CDN directly,
+# so it pushes a small JSON queue file listing public URLs to fetch and the repo
+# path to store each file at. This workflow downloads them on GitHub's runners,
+# commits the files, removes the processed queue file, and GitHub Pages deploys
+# them at https://growhappyseeds.com/<path>.
+#
+# Queue file format (media/_queue/<name>.json):
+#   {"items": [{"url": "https://...", "path": "media/2026-10/statics/glowup.jpg"}]}
+name: Host media from queue
+on:
+  push:
+    branches: [main]
+    paths: ['media/_queue/*.json']
+permissions:
+  contents: write
+concurrency:
+  group: host-media
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Download queued files
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for q in media/_queue/*.json; do
+            echo "== $q"
+            n=$(jq '.items | length' "$q")
+            for i in $(seq 0 $((n-1))); do
+              url=$(jq -r ".items[$i].url" "$q")
+              path=$(jq -r ".items[$i].path" "$q")
+              case "$path" in media/*) ;; *) echo "refusing path outside media/: $path"; exit 1;; esac
+              case "$path" in *..*) echo "refusing path with ..: $path"; exit 1;; esac
+              mkdir -p "$(dirname "$path")"
+              echo "fetch -> $path"
+              curl -fsSL --retry 3 --max-time 120 -o "$path" "$url"
+              file "$path"
+            done
+            git rm -q "$q"
+          done
+      - name: Commit hosted files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "happy-seeds-bot"
+          git config user.email "hello@growhappyseeds.com"
+          git add -A media
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "Host queued media files (no site pages changed)"
+          git pull --rebase origin main
+          git push origin HEAD:main

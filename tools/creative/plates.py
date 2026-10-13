@@ -2,7 +2,7 @@
 
 Each plate is a 1080x1350 PNG with a transparent background: a cream label
 (headline in Jost 600, tomato red; sub-line in Jost 400, ink) in the top
-third, and a small red price pill at the bottom. The plate is layered over a
+third, with a small red price pill hanging off the label's corner. The plate is layered over a
 Canva-generated claymation scene (insert_fill at 0,0 1080x1350), so the
 typography stays exactly on brand no matter what Canva's text tools offer.
 
@@ -54,10 +54,10 @@ body{{position:relative;font-family:'Jost',sans-serif}}
 h1{{font-weight:600;font-size:70px;line-height:1.04;letter-spacing:-.01em;color:{KET}}}
 h1.long{{font-size:62px}}
 p{{margin-top:14px;font-weight:400;font-size:30px;line-height:1.25;color:{INK}}}
-.pill{{position:absolute;left:50%;bottom:66px;transform:translateX(-50%) rotate(1.5deg);
-  background:{KET};color:{CREAM};font-weight:600;font-size:31px;letter-spacing:.02em;
-  padding:16px 34px;border-radius:999px;white-space:nowrap;
-  box-shadow:0 10px 24px rgba(38,33,26,.28)}}
+.pill{{position:absolute;right:-16px;bottom:-30px;transform:rotate(2deg);
+  background:{KET};color:{CREAM};font-weight:600;font-size:27px;letter-spacing:.02em;
+  padding:12px 26px;border-radius:999px;white-space:nowrap;
+  box-shadow:0 8px 20px rgba(38,33,26,.28)}}
 """
 
 
@@ -65,8 +65,8 @@ def html(head, sub, pill, pos):
     cls = 'long' if len(head.replace('<br>', ' ')) > 34 else ''
     lab = 'label bottom' if pos == 'bottom' else 'label'
     return (f"<!doctype html><html><head><meta charset='utf-8'><style>{CSS}</style></head><body>"
-            f"<div class='{lab}'><h1 class='{cls}'>{head}</h1><p>{sub}</p></div>"
-            f"<div class='pill'>{pill}</div></body></html>")
+            f"<div class='{lab}'><h1 class='{cls}'>{head}</h1><p>{sub}</p><div class='pill'>{pill}</div></div>"
+            f"</body></html>")
 
 
 def render(keys):
