@@ -118,6 +118,45 @@
    "note": "Box text reads correctly. Book spines and covers are blank; plants and a small landscape picture are scenery. No packets in frame.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/bookshelf.jpg",
    "status": "Pending"
+  },
+  {
+   "key": "kale",
+   "ct": "CT-20261014-01",
+   "aq": "AQ-20261014-01",
+   "angle": "variety",
+   "hook": "Kale 'Red Russian' grows on a windowsill.",
+   "time": "2026-10-15 11:30",
+   "caption": "Kale 'Red Russian' grows on a windowsill.\nOne of ten named packets, and one of the cool-season five that suit a sunny windowsill or balcony planter.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #redrussiankale",
+   "canva": "MAHX-xflTZU",
+   "note": "Generated twice; the first take was used (the second cropped the box behind the pot). Box front reads correctly at full size (Happy Seeds, 10 VARIETY MIX, VEGGIE GARDEN, 10 SEED PACKETS, 1,000+ SEEDS); the side-panel logo is soft. Packet shows only a kale picture and blank label blocks, no words. Pot, watering can, window and framed print are scenery.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/kale.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "packets",
+   "ct": "CT-20261014-02",
+   "aq": "AQ-20261014-02",
+   "angle": "whats_inside",
+   "hook": "Ten named packets. One 24-page guide.",
+   "time": "2026-10-19 11:30",
+   "caption": "Ten named packets. One 24-page guide.\nTomato 'Floradade' to Melon 'Honeydew Orange', with planting depth, spacing and watering for each one.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #danvers126carrot",
+   "canva": "MAHX-zQd-PI",
+   "note": "Generated three times: takes 1 and 2 (MAHX-xqVOQQ, MAHX-9O0XAk) had the tray sliding out of the long side, against Jared's Oct 12 note, and were discarded; take 3 uses the corrected 'inside' composition as a reference and the tray leaves the short end with the pull tab on it. Packets are picture-only tiles per the manual's props rule, not the printed packet design; if Jared wants the real designs here, that is a regeneration. Box front reads correctly. Trowel and pots are scenery.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/packets.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "spinach",
+   "ct": "CT-20261014-03",
+   "aq": "AQ-20261014-03",
+   "angle": "seasonal",
+   "hook": "Spinach 'Bloomsdale' doesn't wait for spring.",
+   "time": "2026-10-20 11:30",
+   "caption": "Spinach 'Bloomsdale' doesn't wait for spring.\nOne of the five cool-season packets for a sunny windowsill or balcony planter this fall; the other five wait for spring.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #bloomsdalespinach",
+   "canva": "MAHX-1ELd2c",
+   "note": "Generated once. Box front reads correctly; side-panel logo is soft. No packets in frame. Planter, mug, shelf and houseplant are scenery and nothing suggests they come in the box.",
+   "url": "https://growhappyseeds.com/media/2026-10/statics/spinach.jpg",
+   "status": "Pending"
   }
  ]
 }
