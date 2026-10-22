@@ -53,6 +53,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .btn{display:inline-block;font-family:'Jost','Helvetica Neue',Arial,sans-serif;font-weight:600;font-size:18px;background:var(--ketchup);color:#fff;text-decoration:none;padding:15px 30px;border-radius:999px;border:0;cursor:pointer;text-align:center;box-shadow:0 5px 0 var(--ketchup-deep),0 12px 22px rgba(214,54,43,.22);transition:transform .12s ease}
   .btn:hover{transform:translateY(-2px)}
   .btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+  .cut{filter:drop-shadow(0 16px 22px rgba(38,33,26,.16))}
   .clay{border-radius:34px;box-shadow:inset 0 -6px 0 rgba(38,33,26,.06),inset 0 3px 0 rgba(255,255,255,.7),0 14px 30px rgba(38,33,26,.10)}
   /* header */
   header{position:sticky;top:0;z-index:20;background:rgba(255,251,242,.93);backdrop-filter:blur(6px)}
@@ -91,9 +92,10 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .lineup .img{background:#F5E2C4;overflow:hidden}
   .lineup .img img{width:100%;height:330px;object-fit:cover;object-position:50% 58%}
   .vgrid{list-style:none;display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:22px}
-  .vgrid li{background:var(--bg);border-radius:20px;padding:12px 14px;text-align:center;font-size:15px}
+  .vgrid li{background:var(--bg);border-radius:20px;padding:14px 14px 12px;text-align:center;font-size:15px}
   .vgrid b{display:block;font-size:17px}
   .vgrid span{color:var(--muted)}
+  .vgrid img{width:100%;max-width:130px;height:110px;object-fit:contain;margin:0 auto 8px;display:block}
   .gift{background:#FDEBE7}
   .herbband{background:var(--herb)}
   .herbband .eyebrow,.herbband .sub{color:var(--ink)}
@@ -178,7 +180,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
       </div>
       <p class="assure"><b>✓</b> Prime shipping&nbsp;&nbsp;<b>✓</b> 30-day Amazon returns&nbsp;&nbsp;<b>✓</b> Packed in the USA</p>
     </div>
-    <div class="art"><img class="clay" src="media/site/hero.webp" width="1200" height="900" alt="Claymation scene: the Happy Seeds Veggie Garden box on a sunny windowsill with seedlings and the tomato mascot"></div>
+    <div class="art"><img class="cut" src="media/site/hero.webp" width="1448" height="1086" alt="Claymation scene: the Happy Seeds Veggie Garden box in a garden bed with the tomato mascot, a watering can and fresh vegetables"></div>
   </div>
 </section>
 
@@ -209,8 +211,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
 <section class="band lineup">
   <div class="wrap">
     <div class="center"><p class="eyebrow">The lineup</p><h2>Ten varieties, from classic to conversation piece</h2></div>
-    <div class="img clay"><img src="media/site/lineup.webp" width="1600" height="800" loading="lazy" alt="Ten clay vegetables: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon"></div>
-    <ul class="vgrid"><li><b>Tomato</b> <span>'Floradade'</span></li><li><b>Carrot</b> <span>'Danvers 126'</span></li><li><b>Cucumber</b> <span>'Marketmore 76'</span></li><li><b>Kale</b> <span>'Red Russian'</span></li><li><b>Spinach</b> <span>'Bloomsdale'</span></li><li><b>Beet</b> <span>'Chioggia'</span></li><li><b>Turnip</b> <span>'Purple Top'</span></li><li><b>Eggplant</b> <span>'Black Beauty'</span></li><li><b>Pepper</b> <span>'Anaheim Chili'</span></li><li><b>Melon</b> <span>'Honeydew Orange'</span></li></ul>
+    <ul class="vgrid"><li><img class="cut" src="media/site/veg/tomato.webp" width="360" height="360" loading="lazy" alt=""><b>Tomato</b> <span>'Floradade'</span></li><li><img class="cut" src="media/site/veg/carrot.webp" width="360" height="360" loading="lazy" alt=""><b>Carrot</b> <span>'Danvers 126'</span></li><li><img class="cut" src="media/site/veg/cucumber.webp" width="360" height="360" loading="lazy" alt=""><b>Cucumber</b> <span>'Marketmore 76'</span></li><li><img class="cut" src="media/site/veg/kale.webp" width="360" height="360" loading="lazy" alt=""><b>Kale</b> <span>'Red Russian'</span></li><li><img class="cut" src="media/site/veg/spinach.webp" width="360" height="360" loading="lazy" alt=""><b>Spinach</b> <span>'Bloomsdale'</span></li><li><img class="cut" src="media/site/veg/beet.webp" width="360" height="360" loading="lazy" alt=""><b>Beet</b> <span>'Chioggia'</span></li><li><img class="cut" src="media/site/veg/turnip.webp" width="360" height="360" loading="lazy" alt=""><b>Turnip</b> <span>'Purple Top'</span></li><li><img class="cut" src="media/site/veg/eggplant.webp" width="360" height="360" loading="lazy" alt=""><b>Eggplant</b> <span>'Black Beauty'</span></li><li><img class="cut" src="media/site/veg/pepper.webp" width="360" height="360" loading="lazy" alt=""><b>Pepper</b> <span>'Anaheim Chili'</span></li><li><img class="cut" src="media/site/veg/melon.webp" width="360" height="360" loading="lazy" alt=""><b>Melon</b> <span>'Honeydew Orange'</span></li></ul>
   </div>
 </section>
 
@@ -222,7 +223,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
       <p class="sub">Housewarmings, holidays, and the friend whose apartment could use a windowsill garden.</p>
       <div class="cta-row"><a class="btn" href="https://www.amazon.com/dp/B0H1P1HGZW" target="_blank" rel="noopener">Gift the kit</a></div>
     </div>
-    <div class="art"><img class="clay" src="media/site/gift.webp" width="1200" height="900" loading="lazy" alt="Claymation scene: the box tied with a red ribbon as a gift"></div>
+    <div class="art"><img class="cut" src="media/site/gift.webp" width="1448" height="1086" loading="lazy" alt="Claymation scene: the Happy Seeds box tied with a red ribbon and a Happy Growing gift tag"></div>
   </div>
 </section>
 
@@ -251,7 +252,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
         <li><span>Delivery</span><b>within 14 days</b></li>
       </ul>
       <p class="assure">Questions? Email <a href="mailto:hello@growhappyseeds.com" style="color:var(--ketchup)">hello@growhappyseeds.com</a> · <a href="herb-kit.html" style="color:var(--ketchup)">Herb kit wholesale pricing</a></p>
-      <div class="art"><img class="clay" src="media/site/wholesale.webp" width="1200" height="900" loading="lazy" alt="Claymation scene: stacks of Happy Seeds boxes on a shop shelf"></div>
+      <div class="art"><img class="cut" src="media/site/wholesale.webp" width="1448" height="1086" loading="lazy" alt="Claymation scene: a farmer showing a shop shelf stocked with Happy Seeds boxes"></div>
     </div>
     <div class="wform">
       <form id="wholesaleForm" novalidate>
