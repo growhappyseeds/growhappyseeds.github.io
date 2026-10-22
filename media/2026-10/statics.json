@@ -213,15 +213,15 @@
   {
    "key": "tencolors",
    "ct": "CT-20261022-02",
-   "aq": "AQ-20261022-02",
+   "aq": "not queued",
    "angle": "whats_inside",
-   "hook": "Ten packets, ten colors, one drawer.",
+   "hook": "Beet pink, eggplant purple, melon blue.",
    "time": "2026-10-29 11:30",
-   "caption": "Ten packets, ten colors, one drawer.\nTomato 'Floradade' to Melon 'Honeydew Orange', with the 24-page grow guide tucked in the foam.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #honeydewmelon",
+   "caption": "Beet pink, eggplant purple, melon blue.\nTen packets, Tomato 'Floradade' to Melon 'Honeydew Orange', with the 24-page grow guide tucked in the foam.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #honeydewmelon",
    "canva": "MAHYuyJ82Hs",
-   "note": "Generated twice: the first take (MAHYu4msy8o, not hosted) showed carrot twice and no beet. Second take: drawer fully out of the bottom short end with the tab centered on its front, picture-only grow guide in black foam, ten packets in two rows, each a different bold color with one kit vegetable (tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper, melon), mascot sitting beside them. Box print reads correctly; no words on props.",
+   "note": "Generated twice: the first take (MAHYu4msy8o, not hosted) showed carrot twice and no beet. Second take: drawer fully out of the bottom short end with the tab centered on its front, picture-only grow guide in black foam, ten packets in two rows, each a different bold color with one kit vegetable (tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper, melon), mascot sitting beside them. Box print reads correctly; no words on props. Hook rewritten after round 1 (7/10: 'Ten packets, ten colors, one drawer.' echoed 'Ten named packets. One 24-page guide.'); image unchanged. Round 2 scored 7 again: 'eggplant purple' names a packet colour that is wrong for the real product (the real Black Beauty eggplant packet is lime green), and the clay tiles' colours do not follow the real packet set. Failed twice, so it stays Draft in Content (CT-20261022-02) and is not queued.",
    "url": "https://growhappyseeds.com/media/2026-10/statics/tencolors.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   }
  ]
 }
