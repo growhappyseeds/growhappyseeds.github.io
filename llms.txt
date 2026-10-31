@@ -1,0 +1,95 @@
+# Happy Seeds
+
+> Happy Seeds is the complete first vegetable garden in one box: ten curated varieties, 1,000+ lab-tested non-GMO seeds with the germination rate printed on every packet, a 24-page grow guide, and a slide-out keepsake box, for $24.99.
+
+Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It sells one flagship product, the Veggie Garden Seed Kit ($24.99), and is launching a Herb Garden Seed Kit ($24.99). Contact: hello@growhappyseeds.com. Instagram @growhappyseeds.
+
+## Veggie Garden Seed Kit facts
+- Price: $24.99 ($2.50 per packet)
+- Contents: 10 paper seed packets, 1,000+ seeds, 24-page grow guide, slide-out keepsake box with black foam insert and a fabric pull tab
+- Seeds: non-GMO, open-pollinated, lab tested, germination rate printed on every packet
+- Grows in containers, balcony planters, raised beds and backyard plots
+- Where to buy: Amazon (ASIN B0H1P1HGZW) and independent garden, gift and home stores
+- Varieties:
+- Tomato 'Floradade' (warm-season, 75 to 80 days from transplant)
+- Carrot 'Danvers 126' (cool-season, 65 to 75 days)
+- Cucumber 'Marketmore 76' (warm-season, 55 to 65 days)
+- Kale 'Red Russian' (cool-season, 50 to 60 days)
+- Spinach 'Bloomsdale' (cool-season, 40 to 50 days)
+- Beet 'Chioggia' (cool-season, 50 to 60 days)
+- Turnip 'Purple Top White Globe' (cool-season, 50 to 60 days)
+- Eggplant 'Black Beauty' (warm-season, 75 to 85 days from transplant)
+- Pepper 'Anaheim Chili' (warm-season, 75 to 80 days from transplant)
+- Melon 'Honeydew Orange' (warm-season, 80 to 90 days)
+
+## Herb Garden Seed Kit (coming soon)
+Ten culinary herbs, $24.99: Sweet Basil 'Genovese', Oregano 'Greek', Sage 'Broadleaf', Rosemary 'Common', Chives 'Common', Parsley 'Italian Large Leaf', Cilantro 'Santo', Spearmint 'Curly', Thyme 'English Winter', Dill 'Bouquet'.
+
+## Wholesale
+Suggested retail $24.99; wholesale from $12.50 per unit; minimum order 10 units; delivery within 14 days of order. Pricing guide: https://growhappyseeds.com/Happy_Seeds_Wholesale_Pricing_Guide.pdf
+
+## Pages
+- [Veggie Garden Seed Kit](https://growhappyseeds.com/): the product page
+- [Herb Garden Seed Kit](https://growhappyseeds.com/herb-kit.html): coming soon, wholesale pre-orders
+- [Brand facts](https://growhappyseeds.com/facts.html): canonical fact sheet; JSON at https://growhappyseeds.com/brand.json
+- [Grow guide](https://growhappyseeds.com/blog/): answers for first-time vegetable gardeners
+- [Planting calendars by state](https://growhappyseeds.com/planting/): frost windows and sowing dates for all 50 states
+
+## Grow guide articles
+- https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners.html
+- https://growhappyseeds.com/blog/gift-for-someone-starting-a-garden.html
+- https://growhappyseeds.com/blog/how-to-start-seeds-indoors.html
+- https://growhappyseeds.com/blog/seed-kit-vs-seed-packets.html
+- https://growhappyseeds.com/blog/what-germination-rate-means.html
+
+## State planting pages
+- https://growhappyseeds.com/planting/alabama.html
+- https://growhappyseeds.com/planting/alaska.html
+- https://growhappyseeds.com/planting/arizona.html
+- https://growhappyseeds.com/planting/arkansas.html
+- https://growhappyseeds.com/planting/california.html
+- https://growhappyseeds.com/planting/colorado.html
+- https://growhappyseeds.com/planting/connecticut.html
+- https://growhappyseeds.com/planting/delaware.html
+- https://growhappyseeds.com/planting/florida.html
+- https://growhappyseeds.com/planting/georgia.html
+- https://growhappyseeds.com/planting/hawaii.html
+- https://growhappyseeds.com/planting/idaho.html
+- https://growhappyseeds.com/planting/illinois.html
+- https://growhappyseeds.com/planting/indiana.html
+- https://growhappyseeds.com/planting/iowa.html
+- https://growhappyseeds.com/planting/kansas.html
+- https://growhappyseeds.com/planting/kentucky.html
+- https://growhappyseeds.com/planting/louisiana.html
+- https://growhappyseeds.com/planting/maine.html
+- https://growhappyseeds.com/planting/maryland.html
+- https://growhappyseeds.com/planting/massachusetts.html
+- https://growhappyseeds.com/planting/michigan.html
+- https://growhappyseeds.com/planting/minnesota.html
+- https://growhappyseeds.com/planting/mississippi.html
+- https://growhappyseeds.com/planting/missouri.html
+- https://growhappyseeds.com/planting/montana.html
+- https://growhappyseeds.com/planting/nebraska.html
+- https://growhappyseeds.com/planting/nevada.html
+- https://growhappyseeds.com/planting/new-hampshire.html
+- https://growhappyseeds.com/planting/new-jersey.html
+- https://growhappyseeds.com/planting/new-mexico.html
+- https://growhappyseeds.com/planting/new-york.html
+- https://growhappyseeds.com/planting/north-carolina.html
+- https://growhappyseeds.com/planting/north-dakota.html
+- https://growhappyseeds.com/planting/ohio.html
+- https://growhappyseeds.com/planting/oklahoma.html
+- https://growhappyseeds.com/planting/oregon.html
+- https://growhappyseeds.com/planting/pennsylvania.html
+- https://growhappyseeds.com/planting/rhode-island.html
+- https://growhappyseeds.com/planting/south-carolina.html
+- https://growhappyseeds.com/planting/south-dakota.html
+- https://growhappyseeds.com/planting/tennessee.html
+- https://growhappyseeds.com/planting/texas.html
+- https://growhappyseeds.com/planting/utah.html
+- https://growhappyseeds.com/planting/vermont.html
+- https://growhappyseeds.com/planting/virginia.html
+- https://growhappyseeds.com/planting/washington.html
+- https://growhappyseeds.com/planting/west-virginia.html
+- https://growhappyseeds.com/planting/wisconsin.html
+- https://growhappyseeds.com/planting/wyoming.html

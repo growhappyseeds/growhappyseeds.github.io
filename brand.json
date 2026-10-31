@@ -1,0 +1,178 @@
+{
+  "name": "Happy Seeds",
+  "legal_name": "Happy Seeds",
+  "url": "https://growhappyseeds.com",
+  "logo": "https://growhappyseeds.com/media/brand/clay/box-front.png",
+  "email": "hello@growhappyseeds.com",
+  "instagram": "https://www.instagram.com/growhappyseeds/",
+  "youtube": "https://www.youtube.com/channel/UCBjZhM8hbylBoQ2BR5ge-vw",
+  "amazon_asin": "B0H1P1HGZW",
+  "positioning": "Happy Seeds is the complete first vegetable garden in one box: ten curated varieties, 1,000+ lab-tested non-GMO seeds with the germination rate printed on every packet, a 24-page grow guide, and a slide-out keepsake box, for $24.99.",
+  "founded_note": "Independent American seed kit brand based in the New York area.",
+  "products": [
+    {
+      "id": "veggie-kit",
+      "name": "Happy Seeds Veggie Garden Seed Kit",
+      "url": "https://growhappyseeds.com/",
+      "image": "https://growhappyseeds.com/media/brand/box-front.webp",
+      "price": "24.99",
+      "currency": "USD",
+      "availability": "InStock",
+      "per_packet_price": "2.50",
+      "packets": 10,
+      "seed_count": "1,000+",
+      "guide_pages": 24,
+      "box": "slide-out keepsake box with black foam insert and a fabric pull tab",
+      "seed_claims": [
+        "non-GMO",
+        "open-pollinated",
+        "lab tested, germination rate printed on every packet"
+      ],
+      "varieties": [
+        {
+          "crop": "Tomato",
+          "variety": "Floradade",
+          "season": "warm",
+          "sow": "indoors 6 to 8 weeks before last frost; transplant 1 to 2 weeks after last frost",
+          "days": "75 to 80 days from transplant",
+          "container": "yes, 5 gallon or larger"
+        },
+        {
+          "crop": "Carrot",
+          "variety": "Danvers 126",
+          "season": "cool",
+          "sow": "direct sow 2 to 3 weeks before last frost, and again 10 to 12 weeks before first fall frost",
+          "days": "65 to 75 days",
+          "container": "yes, 12 inches deep"
+        },
+        {
+          "crop": "Cucumber",
+          "variety": "Marketmore 76",
+          "season": "warm",
+          "sow": "direct sow 1 to 2 weeks after last frost once soil is warm",
+          "days": "55 to 65 days",
+          "container": "yes, 5 gallon with a trellis"
+        },
+        {
+          "crop": "Kale",
+          "variety": "Red Russian",
+          "season": "cool",
+          "sow": "direct sow 4 weeks before last frost, and again 8 to 10 weeks before first fall frost",
+          "days": "50 to 60 days",
+          "container": "yes"
+        },
+        {
+          "crop": "Spinach",
+          "variety": "Bloomsdale",
+          "season": "cool",
+          "sow": "direct sow 4 to 6 weeks before last frost, and again 6 to 8 weeks before first fall frost",
+          "days": "40 to 50 days",
+          "container": "yes"
+        },
+        {
+          "crop": "Beet",
+          "variety": "Chioggia",
+          "season": "cool",
+          "sow": "direct sow 2 to 4 weeks before last frost, and again 8 to 10 weeks before first fall frost",
+          "days": "50 to 60 days",
+          "container": "yes, 10 inches deep"
+        },
+        {
+          "crop": "Turnip",
+          "variety": "Purple Top White Globe",
+          "season": "cool",
+          "sow": "direct sow 2 to 4 weeks before last frost, and again 8 to 10 weeks before first fall frost",
+          "days": "50 to 60 days",
+          "container": "yes"
+        },
+        {
+          "crop": "Eggplant",
+          "variety": "Black Beauty",
+          "season": "warm",
+          "sow": "indoors 8 weeks before last frost; transplant 2 weeks after last frost",
+          "days": "75 to 85 days from transplant",
+          "container": "yes, 5 gallon"
+        },
+        {
+          "crop": "Pepper",
+          "variety": "Anaheim Chili",
+          "season": "warm",
+          "sow": "indoors 8 weeks before last frost; transplant 2 weeks after last frost",
+          "days": "75 to 80 days from transplant",
+          "container": "yes, 3 to 5 gallon"
+        },
+        {
+          "crop": "Melon",
+          "variety": "Honeydew Orange",
+          "season": "warm",
+          "sow": "direct sow 2 weeks after last frost once soil is warm, or start indoors 3 weeks before transplanting",
+          "days": "80 to 90 days",
+          "container": "large containers only, 10 gallon or more"
+        }
+      ]
+    },
+    {
+      "id": "herb-kit",
+      "name": "Happy Seeds Herb Garden Seed Kit",
+      "url": "https://growhappyseeds.com/herb-kit.html",
+      "image": "https://growhappyseeds.com/media/herb/herb-kit-box.webp",
+      "price": "24.99",
+      "currency": "USD",
+      "availability": "PreOrder",
+      "packets": 10,
+      "seed_count": "1,000+",
+      "guide_pages": 24,
+      "varieties": [
+        {
+          "crop": "Sweet Basil",
+          "variety": "Genovese"
+        },
+        {
+          "crop": "Oregano",
+          "variety": "Greek"
+        },
+        {
+          "crop": "Sage",
+          "variety": "Broadleaf"
+        },
+        {
+          "crop": "Rosemary",
+          "variety": "Common"
+        },
+        {
+          "crop": "Chives",
+          "variety": "Common"
+        },
+        {
+          "crop": "Parsley",
+          "variety": "Italian Large Leaf"
+        },
+        {
+          "crop": "Cilantro",
+          "variety": "Santo"
+        },
+        {
+          "crop": "Spearmint",
+          "variety": "Curly"
+        },
+        {
+          "crop": "Thyme",
+          "variety": "English Winter"
+        },
+        {
+          "crop": "Dill",
+          "variety": "Bouquet"
+        }
+      ]
+    }
+  ],
+  "wholesale": {
+    "suggested_retail": "24.99",
+    "wholesale_from": "12.50",
+    "minimum_order_units": 10,
+    "delivery": "within 14 days of order",
+    "contact": "hello@growhappyseeds.com",
+    "pricing_guide": "https://growhappyseeds.com/Happy_Seeds_Wholesale_Pricing_Guide.pdf"
+  },
+  "updated": "2026-10-31"
+}
