@@ -1,0 +1,23 @@
+[
+ {"slug": "whats-in-the-box", "scenes": [
+   {"image": "media/2026-10/statics/glowup.jpg", "seconds": 3.0, "text": "Seed packets just got a glow up.", "style": "ketchup", "zoom": [1.0, 1.08], "panx": [0.5, 0.48]},
+   {"image": "media/2026-10/statics/pulltab.jpg", "seconds": 2.6, "text": "Pull the tab.", "style": "sun", "zoom": [1.1, 1.0], "panx": [0.5, 0.52], "pany": [0.5, 0.55]},
+   {"image": "media/2026-10/statics/foam.jpg", "seconds": 2.6, "text": "Ten packets slide out.", "style": "ketchup", "zoom": [1.0, 1.1], "pany": [0.45, 0.55]},
+   {"image": "media/2026-10/statics/packets-v3b.jpg", "seconds": 3.0, "text": "Ten named varieties. 1,000+ seeds.", "style": "sun", "zoom": [1.06, 1.0], "pany": [0.55, 0.5]},
+   {"image": "media/2026-10/statics/guide.jpg", "seconds": 3.2, "text": "One 24-page grow guide. Plant a packet this weekend.", "style": "ketchup", "zoom": [1.0, 1.08]}
+ ]},
+ {"slug": "no-yard-start-here", "scenes": [
+   {"image": "media/2026-10/statics/city.jpg", "seconds": 3.0, "text": "No yard? Start here.", "style": "ketchup", "zoom": [1.0, 1.08], "panx": [0.45, 0.55]},
+   {"image": "media/2026-11/statics/onepot.jpg", "seconds": 2.6, "text": "One packet. One pot. One windowsill.", "style": "sun", "zoom": [1.08, 1.0]},
+   {"image": "media/2026-10/statics/kale.jpg", "seconds": 2.6, "text": "Kale 'Red Russian': the purple-stemmed one.", "style": "ketchup", "zoom": [1.0, 1.1], "panx": [0.5, 0.54]},
+   {"image": "media/2026-10/statics/spinach.jpg", "seconds": 2.6, "text": "Spinach 'Bloomsdale' doesn't wait for spring.", "style": "sun", "zoom": [1.06, 1.0]},
+   {"image": "media/2026-11/statics/firstfrost.jpg", "seconds": 3.2, "text": "Five packets grow on a sunny windowsill. Save this for spring.", "style": "ketchup", "zoom": [1.0, 1.08], "panx": [0.52, 0.48]}
+ ]},
+ {"slug": "gift-that-turns-into-dinner", "scenes": [
+   {"image": "media/2026-10/statics/housewarming.jpg", "seconds": 3.0, "text": "The gift that turns into dinner.", "style": "ketchup", "zoom": [1.0, 1.08], "panx": [0.5, 0.47]},
+   {"image": "media/2026-10/statics/giftwrap.jpg", "seconds": 2.6, "text": "Wraps like a book.", "style": "sun", "zoom": [1.08, 1.0]},
+   {"image": "media/2026-11/statics/giftbag.jpg", "seconds": 2.6, "text": "Under the tree, then on the windowsill.", "style": "ketchup", "zoom": [1.0, 1.1], "pany": [0.5, 0.45]},
+   {"image": "media/2026-10/statics/seedling.jpg", "seconds": 2.6, "text": "Your first tomato starts as a seed.", "style": "sun", "zoom": [1.06, 1.0]},
+   {"image": "media/2026-11/statics/desk.jpg", "seconds": 3.2, "text": "Ten packets, a 24-page guide, a box they'll keep.", "style": "ketchup", "zoom": [1.0, 1.08]}
+ ]}
+]
