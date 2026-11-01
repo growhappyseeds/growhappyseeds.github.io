@@ -1,0 +1,18 @@
+# growhappyseeds.com
+User-agent: *
+Allow: /
+Disallow: /media/_queue/
+Disallow: /media/*/review.html
+Disallow: /tools/
+
+# AI assistants and answer engines are welcome to read the site; llms.txt has the short version.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://growhappyseeds.com/sitemap.xml
