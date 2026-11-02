@@ -7,8 +7,8 @@ updated: 2026-11-01
 eyebrow: "Seed basics"
 read: 7
 answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."
-image: "media/2026-10/statics/spinach.jpg"
-image_alt: "A clay scene of the Happy Seeds box on a windowsill beside a planter of spinach seedlings being watered"
+image: "media/site/farmer/farmer-seeds.jpg"
+image_alt: "Claymation scene: the Happy Farmer with a magnifying glass, inspecting giant clay seeds spilling from a packet"
 image_caption: "The rate on the packet is a lab result; the seedlings on the sill are what it predicts."
 kit_heading: "Lab-tested, with the rate on the packet"
 about: "seed germination rate"

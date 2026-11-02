@@ -7,8 +7,8 @@ updated: 2026-11-01
 eyebrow: "For beginners"
 read: 7
 answer: "The best vegetable seeds for beginners are fast, direct-sown crops such as radish, lettuce, spinach, kale, beets, turnips and bush beans, because they sprout in days and tolerate cool weather and uneven care. Tomatoes, peppers and cucumbers are the easiest warm-season crops once you plant them after the last frost."
-image: "media/2026-10/statics/tencolors.jpg"
-image_alt: "The open Happy Seeds Veggie Garden Kit box with ten clay seed-packet tiles laid out in front of it, one for each vegetable"
+image: "media/2026-11/statics/farmer-harvest.jpg"
+image_alt: "Claymation scene: the Happy Farmer celebrating on the rim of a harvest basket of giant clay tomatoes, carrots, a turnip, an eggplant, cucumbers and kale"
 image_caption: "Ten beginner crops in one box: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon."
 kit_heading: "Ten beginner crops, already chosen for you"
 about: "easy vegetables to grow from seed"
