@@ -2,8 +2,8 @@
 title: "What Does the Germination Rate on a Seed Packet Mean?"
 slug: "what-germination-rate-means"
 description: "Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last."
-date: 2026-10-31
-updated: 2026-10-31
+date: 2026-11-01
+updated: 2026-11-01
 eyebrow: "Seed basics"
 read: 7
 answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."

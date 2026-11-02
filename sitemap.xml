@@ -12,6 +12,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/tencolors.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/inside.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/what-germination-rate-means/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/spinach.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/best-seed-gifts/</loc>
     <lastmod>2026-11-01</lastmod>
     <priority>0.7</priority>
@@ -52,24 +70,6 @@
     <lastmod>2026-11-01</lastmod>
     <priority>0.7</priority>
     <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/winter.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/</loc>
-    <lastmod>2026-10-31</lastmod>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/tencolors.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/</loc>
-    <lastmod>2026-10-31</lastmod>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/inside.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://growhappyseeds.com/blog/what-germination-rate-means/</loc>
-    <lastmod>2026-10-31</lastmod>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/spinach.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://growhappyseeds.com/planting/</loc>

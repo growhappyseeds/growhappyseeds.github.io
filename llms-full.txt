@@ -38,6 +38,9 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Planting calendars by state](https://growhappyseeds.com/planting/): frost windows and sowing dates for all 50 states
 
 ## Guides
+- [What Are the Best Vegetable Seeds for Beginners to Grow?](https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/): The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid.
+- [Seed Kit vs Seed Packets: Which Is Better for a First Garden?](https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/): Seed kit vs individual seed packets for a first garden: an honest look at cost per variety, seed waste, curation, instructions, gifting, and when packets win.
+- [What Does the Germination Rate on a Seed Packet Mean?](https://growhappyseeds.com/blog/what-germination-rate-means/): Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last.
 - [Best seed gifts: 9 ideas that actually get planted](https://growhappyseeds.com/blog/best-seed-gifts/): The best seed gifts for 2026, from a complete vegetable seed kit to plantable paper and herb sets. What to look for, what to skip, and how to pick by the person.
 - [Best vegetables to grow on a balcony or windowsill](https://growhappyseeds.com/blog/best-vegetables-to-grow-on-a-balcony/): The best vegetables to grow on a balcony, with pot sizes by crop, a watering rhythm for containers, and what a shady north-facing balcony can still grow.
 - [Fall vegetables to plant in late summer: cool-season five](https://growhappyseeds.com/blog/fall-vegetables-to-plant-in-late-summer/): Kale, spinach, carrots, beets and turnips are the fall vegetables to plant in late summer. Here is how to count back from first frost so you sow in time.
@@ -45,9 +48,6 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [How to read a seed packet: every term explained](https://growhappyseeds.com/blog/how-to-read-a-seed-packet/): Learn how to read a seed packet: germination rate, non-GMO, open-pollinated vs hybrid vs heirloom, packed-for dates and how long seeds last. Sow smarter.
 - [How to start a vegetable garden for beginners](https://growhappyseeds.com/blog/how-to-start-a-vegetable-garden-for-beginners/): How to start a vegetable garden for beginners: find the sun, pick pots or a bed, sow six easy crops and follow one simple calendar to your first harvest.
 - [When to start seeds indoors (and how to do it right)](https://growhappyseeds.com/blog/when-to-start-seeds-indoors/): When to start seeds indoors: count back from your last frost date with a week-by-week table for tomatoes, peppers and cucumbers, plus the mistakes to skip.
-- [What Are the Best Vegetable Seeds for Beginners to Grow?](https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/): The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid.
-- [Seed Kit vs Seed Packets: Which Is Better for a First Garden?](https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/): Seed kit vs individual seed packets for a first garden: an honest look at cost per variety, seed waste, curation, instructions, gifting, and when packets win.
-- [What Does the Germination Rate on a Seed Packet Mean?](https://growhappyseeds.com/blog/what-germination-rate-means/): Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last.
 
 ## State planting pages
 - https://growhappyseeds.com/planting/alabama.html
@@ -108,6 +108,308 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 
 
 # Full article text
+
+
+---
+
+---
+title: "What Are the Best Vegetable Seeds for Beginners to Grow?"
+slug: "best-vegetable-seeds-for-beginners"
+description: "The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid."
+date: 2026-11-01
+updated: 2026-11-01
+eyebrow: "For beginners"
+read: 7
+answer: "The best vegetable seeds for beginners are fast, direct-sown crops such as radish, lettuce, spinach, kale, beets, turnips and bush beans, because they sprout in days and tolerate cool weather and uneven care. Tomatoes, peppers and cucumbers are the easiest warm-season crops once you plant them after the last frost."
+image: "media/2026-10/statics/tencolors.jpg"
+image_alt: "The open Happy Seeds Veggie Garden Kit box with ten clay seed-packet tiles laid out in front of it, one for each vegetable"
+image_caption: "Ten beginner crops in one box: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon."
+kit_heading: "Ten beginner crops, already chosen for you"
+about: "easy vegetables to grow from seed"
+faq:
+  - q: "What is the fastest vegetable to grow from seed?"
+    a: "Radishes are the fastest common vegetable, usually ready in 25 to 35 days from sowing. Leaf lettuce, spinach and baby kale follow at roughly 30 to 50 days. Fast crops are good for beginners because you see results before you have time to lose interest or make a season-ending mistake."
+  - q: "Which vegetables should a beginner start indoors?"
+    a: "Tomatoes, peppers and eggplant are the main crops a beginner should start indoors, 6 to 8 weeks before the last frost, because they need a long warm season. Almost everything else, including carrots, beets, spinach, kale, beans, cucumbers and squash, does better sown directly in the garden or container."
+  - q: "Can a beginner grow vegetables from seed in containers?"
+    a: "Yes. Leafy greens, radishes and turnips grow in almost any pot at least 6 inches deep, beets and carrots need 10 to 12 inches, and a single tomato, pepper or cucumber plant needs a 3 to 5 gallon container. Containers dry out faster than beds, so check them daily in summer."
+  - q: "Why do my seeds not come up?"
+    a: "The usual causes are sowing too deep, soil that is too cold for warm-season crops, or soil that dried out or stayed waterlogged during germination. Most vegetable seeds should be covered by only 2 to 3 times their own width and kept evenly moist until the seedlings appear."
+  - q: "How many vegetable varieties should a first garden have?"
+    a: "Five to ten varieties is plenty for a first garden. That is enough to learn the difference between cool-season and warm-season crops without spreading your attention too thin. A mix of two or three quick greens, two or three root crops and two or three summer fruiting crops works well."
+---
+
+Picking the right crops matters more than any tool or fertilizer when you are growing vegetables from seed for the first time. Some vegetables sprout in three days and shrug off cold nights and missed waterings. Others need two months of babysitting indoors before they can even go outside.
+
+The ranking below leans toward crops that forgive mistakes, because a first garden is as much about learning the rhythm of sowing and harvesting as it is about the harvest itself.
+
+## The easiest vegetables to grow from seed, ranked
+
+Radish, leaf lettuce, spinach, kale, beets and turnips are the easiest vegetables to grow from seed because they are sown directly in the soil, sprout in under two weeks, and produce food within one to two months. Warm-season fruiting crops are a step harder, mainly because of timing, not skill.
+
+The table ranks common first-garden crops from easiest to hardest. Days to harvest are typical ranges; the days listed "from transplant" assume you started seedlings indoors or bought them.
+
+| Crop | Direct sow or transplant | Days to harvest | Container-friendly | Difficulty |
+| --- | --- | --- | --- | --- |
+| Radish | Direct sow | 25 to 35 | Yes, 6 inches deep | Easiest |
+| Leaf lettuce | Direct sow | 30 to 50 | Yes | Easiest |
+| Spinach | Direct sow | 40 to 50 | Yes | Easy |
+| Kale | Direct sow | 50 to 60 | Yes | Easy |
+| Turnip | Direct sow | 50 to 60 | Yes | Easy |
+| Beet | Direct sow | 50 to 60 | Yes, 10 inches deep | Easy |
+| Bush bean | Direct sow after frost | 50 to 60 | Yes, 8 inches deep | Easy |
+| Zucchini | Direct sow after frost | 45 to 55 | Large containers only | Easy |
+| Cucumber | Direct sow after frost | 55 to 65 | Yes, 5 gallon with a trellis | Moderate |
+| Carrot | Direct sow | 65 to 75 | Yes, 12 inches deep | Moderate |
+| Tomato | Transplant | 60 to 80 from transplant | Yes, 5 gallon or larger | Moderate |
+| Pepper | Transplant | 70 to 85 from transplant | Yes, 3 to 5 gallon | Moderate |
+| Eggplant | Transplant | 75 to 85 from transplant | Yes, 5 gallon | Moderate |
+| Melon | Direct sow after soil warms | 80 to 90 | 10 gallon or more | Harder |
+
+Carrots sit in the middle of the list not because they are fussy once growing, but because their seed is tiny and slow, often taking 14 to 21 days to appear. Beginners frequently give up on a carrot row or let it dry out in the second week. Keep the soil surface damp and they will come.
+
+Melons are last because they need a long, hot season and a lot of room. In a short-summer state they are a stretch for a first garden; in Texas or inland California they are much easier. Check the window for your state on the [planting calendar pages](/planting/) before committing space to them.
+
+## Why cool-season crops forgive mistakes
+
+Cool-season crops forgive mistakes because they germinate in cool soil, tolerate light frost, and give you a harvest before summer heat and pests arrive. Spinach, kale, beets, turnips, radishes and lettuce can all go in the ground two to six weeks before your last spring frost.
+
+That early window is a safety net. If a sowing fails, you have time to sow again, and in most of the country you get a second chance in late summer for a fall crop. Spinach will bolt (send up a flower stalk and turn bitter) once days get long and hot, so treat it as a spring and fall vegetable rather than a summer one.
+
+Cool-season crops also tend to be eaten as leaves or roots, not fruit. You do not have to wait for flowers, pollination and ripening; you simply pick when the plant is big enough. That removes several of the steps where a warm-season crop can go wrong.
+
+## What to start indoors (and what not to)
+
+Start tomatoes, peppers and eggplant indoors 6 to 8 weeks before your last frost, and direct sow nearly everything else. Those three crops need a long warm season that most of the US cannot supply if the seed goes straight in the ground in May.
+
+Everything else on the beginner list prefers direct sowing. Root crops such as carrots, beets and turnips dislike being moved and fork or stall if their roots are disturbed. Beans, cucumbers, zucchini and melons grow so fast that an indoor head start saves little, and their seedlings resent transplanting.
+
+If you do start seeds indoors, the keys are a bright light source a few inches above the seedlings, warmth for germination, and a week of hardening off outdoors before planting. The full method is in [How to Start Seeds Indoors](/blog/when-to-start-seeds-indoors/).
+
+## The three mistakes beginners make
+
+The three mistakes that end most first gardens are sowing seed too deep, overwatering, and planting warm-season crops before the soil has warmed. Each is easy to avoid once you know to look for it.
+
+**Sowing too deep.** A seed should be covered by only 2 to 3 times its own width. Lettuce and carrot seed want barely a dusting of soil; bean and squash seed can go an inch down. Buried too deep, small seeds run out of energy before they reach the light, and the packet gets blamed for poor germination.
+
+**Overwatering.** Seedlings need the soil evenly moist, not soggy. Constant wetness starves roots of oxygen and invites damping off, the fungal collapse of seedlings at the soil line. Water when the top half inch is dry, and water less often but more deeply as plants grow.
+
+**Planting warm crops too early.** Tomatoes, peppers, cucumbers and melons sulk or die in cold soil, even if the air feels warm. Wait until one to two weeks after your last frost date, when soil is reliably warm, and you will often catch up to or pass plants that went in a month earlier. Your state's dates are on pages such as [New Jersey](/planting/new-jersey.html), [Texas](/planting/texas.html) and [California](/planting/california.html).
+
+## A simple first-season plan
+
+A good first garden has two or three quick greens, two or three root crops, and two or three warm-season fruiting crops, sown in that order across the spring. That spread teaches the full rhythm of a season while keeping the plant count manageable.
+
+The ten varieties in the Happy Seeds kit were chosen on that logic: cool-season carrot, kale, spinach, beet and turnip, then warm-season tomato, cucumber, pepper, eggplant and melon, with a 24-page grow guide that walks through the timing. If you would rather assemble your own mix from individual packets, [this comparison](/blog/seed-kit-vs-seed-packets/) weighs the two approaches honestly.
+
+Whichever route you take, read the germination rate on each packet before you plant. [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/) explains how to use that number to decide how thickly to sow.
+
+Start with the forgiving crops at the top of the table, get one full cycle of sowing and eating under your belt, and the harder ones will feel far less intimidating next year.
+
+
+---
+
+---
+title: "Seed Kit vs Seed Packets: Which Is Better for a First Garden?"
+slug: "seed-kit-vs-seed-packets"
+description: "Seed kit vs individual seed packets for a first garden: an honest look at cost per variety, seed waste, curation, instructions, gifting, and when packets win."
+date: 2026-11-01
+updated: 2026-11-01
+eyebrow: "Buying guide"
+read: 6
+answer: "A seed kit is the better choice for a first garden because it bundles a curated set of beginner crops with instructions, at a lower cost per variety than buying ten packets one by one. Individual packets are better once you know which specific varieties you want, or you are planting a large plot."
+image: "media/2026-10/statics/inside.jpg"
+image_alt: "The Happy Seeds Veggie Garden Kit drawer slid open to show ten colored seed packets beside the grow guide"
+image_caption: "One kit, ten named varieties and the guide that explains each one."
+kit_heading: "One box instead of ten packets"
+about: "seed kits versus seed packets"
+faq:
+  - q: "Is a seed kit cheaper than buying seed packets?"
+    a: "Usually, per variety. A kit that includes ten packets for $24.99 works out to about $2.50 per packet, and you avoid paying shipping on several small orders or driving to find packets in stock. Per seed, large individual packets can be cheaper, but only if you actually plant that many seeds."
+  - q: "Do seed kits have fewer seeds than regular packets?"
+    a: "Kit packets are often smaller than full retail packets, which suits a small garden. A standard retail packet can hold hundreds of lettuce or carrot seeds, far more than a raised bed or balcony uses in a season. A kit with 1,000 or more seeds across ten crops covers a first garden with seed left over."
+  - q: "Are seed kit varieties any good?"
+    a: "Good kits use the same named, open-pollinated varieties you would find in a catalog, such as Marketmore 76 cucumber or Bloomsdale spinach, and are held to the same US germination standards. Check that the kit names its varieties and prints a germination rate; avoid kits that list only the crop."
+  - q: "When should I buy individual seed packets instead of a kit?"
+    a: "Buy individual packets when you want a specific variety, you are planting a large plot that needs hundreds of seeds of one crop, or you already have a few seasons behind you and know what grows well in your spot. Packets also make sense for refilling one or two crops."
+  - q: "Can I save leftover seeds from a kit or packet for next year?"
+    a: "Yes. Store opened packets sealed in a jar in a cool, dry, dark place. Most vegetable seed stays viable for 2 to 5 years, though onion, parsnip and some lettuce decline faster. Do a quick paper-towel test before planting older seed so you know how thickly to sow."
+---
+
+Every first-time gardener hits the same fork: buy a boxed seed kit, or build a garden from individual packets off a rack or a catalog. Both can grow a fine first garden. The right answer depends on how much you already know, how much space you have, and whether anyone is giving this as a gift.
+
+This comparison treats the two options fairly, including the cases where packets are clearly the smarter buy.
+
+## How a seed kit compares to individual packets
+
+A seed kit wins on curation, instructions, cost per variety and gifting, while individual packets win on choice, seed quantity per crop and flexibility for experienced gardeners. The table lays out the trade-offs for a typical first garden of about ten crops.
+
+| Criterion | Seed kit | Individual packets |
+| --- | --- | --- |
+| Cost for ten varieties | One price; Happy Seeds is $24.99, about $2.50 per packet | Ten separate purchases, often plus shipping or a trip to the store |
+| Seed quantity | Sized for a small garden; 1,000+ seeds across ten crops | Often hundreds of seeds per packet, more than a small garden uses |
+| Variety choice | Fixed, pre-selected | Unlimited; thousands of varieties available |
+| Curation for beginners | Crops chosen to work together across a season | You do the research on what suits your climate |
+| Instructions | Usually a booklet covering the whole set | A few lines on the back of each packet |
+| Gifting | Ready to wrap, no extra effort | Loose packets need a container or a card |
+| Best for | First gardens, small spaces, gifts | Specific varieties, large plots, repeat gardeners |
+
+Neither column is "better" in the abstract. The question is which trade-offs you are happy to make this year.
+
+## Cost per variety, not cost per seed
+
+Cost per variety is the fair way to compare, because a first garden needs ten different crops, not a thousand carrots. A kit priced at $24.99 for ten packets comes to roughly $2.50 per variety, and you pay once.
+
+Buying ten packets individually means ten line items. Prices for single packets vary widely by company and crop, so we will not quote competitor numbers here, but anyone who has filled a cart at a big catalog seed company knows the total climbs quickly once shipping is added.
+
+Cost per seed tells a different story. A full retail packet of lettuce or carrot can contain several hundred seeds, so the per-seed price is tiny. That only matters if you can use them, which brings us to waste.
+
+## Most packets hold far more seed than a small garden uses
+
+A standard retail seed packet usually contains far more seed than a raised bed or balcony garden plants in a season, and the surplus often expires before it is used. A single 4-by-8-foot bed might take 30 carrot seeds, a dozen beets, 10 kale plants and 2 or 3 tomatoes.
+
+Leftover seed does keep. Stored cool, dry and dark, most vegetable seed remains viable for 2 to 5 years, as explained in [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/). But many beginners do not store seed well, and a half-used packet of spinach in a hot garage is simply money gone.
+
+Kits sidestep this by sizing packets for a small garden. Across ten crops, 1,000-plus seeds is still more than a first garden needs, but the waste per crop is much smaller.
+
+## Curation is the quiet advantage
+
+Curation matters because the hardest part of a first garden is not planting, it is choosing. A rack of 300 packets offers no signal about which 10 will work together in your climate across a season.
+
+A good kit solves that by pairing cool-season crops you sow in early spring (spinach, kale, beets, turnips, carrots) with warm-season crops you plant after frost (tomato, cucumber, pepper, eggplant, melon). You get a staggered season, early wins from the greens, and the summer fruiting crops that make the garden feel worth it. For the reasoning behind that mix, see [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/)
+
+The flip side is that curation removes choice. If you want a specific heirloom tomato or a purple carrot, a kit will not have it.
+
+## Instructions: a booklet versus the back of a packet
+
+Instructions are where kits pull furthest ahead, because a packet has room for a few lines and a kit can include a real guide. The back of a packet typically gives depth, spacing, days to maturity and a one-line sowing window.
+
+That is enough for someone who already knows the difference between "direct sow" and "transplant." It is not enough for a first season. A kit guide, such as the 24-page grow guide in the Happy Seeds box, has space to explain timing relative to your frost date, what a seedling should look like at two weeks, and when to give up on a sowing and try again.
+
+If you go the packet route, plan to supplement with a state planting calendar. The [planting pages](/planting/) on this site give sowing windows by state, including [New Jersey](/planting/new-jersey.html), [Texas](/planting/texas.html) and [California](/planting/california.html).
+
+## Gifting: kits are built for it
+
+Kits make better gifts because they arrive complete, look intentional, and ask nothing of the recipient at the moment of giving. A box with a guide inside can sit under a tree in December and be opened in March with everything the person needs to begin.
+
+Ten loose packets in an envelope, however carefully chosen, read as a project rather than a present. If you are shopping for someone else, [The Best Gift for Someone Who Wants to Start a Garden](/blog/gifts-for-new-gardeners/) covers what to pair with seeds and what to write in the card.
+
+## When individual packets are the better choice
+
+Individual packets are the better choice for experienced gardeners, anyone who wants a specific variety, and anyone planting a large plot. In those cases a kit's curation is a limitation, not a help.
+
+- You already know what grows well in your yard and want to repeat it.
+- You want a particular variety for flavor, color, disease resistance or a short season.
+- You are planting rows, not a bed, and need hundreds of seeds of one crop.
+- You only need to refill one or two crops to round out seed you already own.
+
+There is also a middle path. Many gardeners start with a kit in year one, learn which crops they actually eat and which thrive in their spot, and then switch to individual packets for the crops they want more of. That is a sensible way to spend a first season without overbuying.
+
+## The short version
+
+Choose a kit if this is your first garden, your space is small, or the seeds are a gift. Choose packets if you have gardened before, want specific varieties, or need volume. Either way, buy seed that names its varieties and prints a germination rate, and check your sowing dates against a local frost calendar before anything goes in the ground.
+
+
+---
+
+---
+title: "What Does the Germination Rate on a Seed Packet Mean?"
+slug: "what-germination-rate-means"
+description: "Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last."
+date: 2026-11-01
+updated: 2026-11-01
+eyebrow: "Seed basics"
+read: 7
+answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."
+image: "media/2026-10/statics/spinach.jpg"
+image_alt: "A clay scene of the Happy Seeds box on a windowsill beside a planter of spinach seedlings being watered"
+image_caption: "The rate on the packet is a lab result; the seedlings on the sill are what it predicts."
+kit_heading: "Lab-tested, with the rate on the packet"
+about: "seed germination rate"
+faq:
+  - q: "What is a good germination rate for vegetable seeds?"
+    a: "Anything at or above the federal minimum for that crop is acceptable, and most fresh vegetable seed tests between 80 and 95 percent. Rates in the 70s are fine for direct-sown crops if you sow a little thicker. Below about 50 percent, it is usually cheaper and less frustrating to buy fresh seed."
+  - q: "Does germination rate change over time?"
+    a: "Yes, it falls as seed ages, and the decline speeds up with heat and humidity. The rate on a packet reflects the test done before packing, so a three-year-old packet will usually sprout at a lower percentage than printed. A home paper-towel test tells you where it stands now."
+  - q: "What does 'packed for' mean on a seed packet?"
+    a: "The packed-for date is the season the seed was tested and packaged to be sold in, for example 'Packed for 2026.' It is not an expiration date. Seed packed for a past season is often still good, but its germination rate will have drifted below the printed figure."
+  - q: "How do I test old seeds to see if they are still good?"
+    a: "Place 10 seeds on a damp paper towel, fold it over, seal it in a plastic bag, and keep it somewhere warm for 5 to 14 days depending on the crop. Count the sprouted seeds and multiply by 10 to get a rough percentage. Six or more sprouting means the seed is still usable."
+  - q: "Why do my seeds germinate below the rate on the packet?"
+    a: "Garden conditions are harsher than a lab. Cold soil, sowing too deep, crusted or dry soil, waterlogging and hungry insects all reduce emergence. A packet rate of 90 percent is a ceiling under ideal conditions; 60 to 80 percent emergence outdoors is normal and not a sign of bad seed."
+---
+
+That small percentage on the back of a seed packet is the most useful number printed there, and most beginners skip right past it. It tells you how many seeds to plant per spot, whether an old packet is worth sowing, and whether a seed company is being straight with you.
+
+Here is what the number means, where it comes from, and how to check it yourself at the kitchen table.
+
+## What germination rate means
+
+Germination rate is the share of seeds that sprouted when a sample from the seed lot was tested under controlled temperature and moisture, expressed as a percentage. If a lab places 400 seeds on moist paper in a warm chamber and 352 produce a normal seedling, the lot's germination rate is 88 percent.
+
+The test measures the seed itself, not your garden. In real soil, with cold snaps, crusting and insects, emergence will be lower than the printed rate. Think of the number as the ceiling, not a promise.
+
+The practical use is simple. At 90 percent, sowing two seeds per spot and thinning to one is plenty. At 65 percent, sow three or four. For transplants, where every cell matters, sow two seeds per cell and snip the weaker one.
+
+## Why US seed packets have to meet a minimum
+
+US seed laws set minimum germination standards for vegetable seed, and seed that tests below the standard for its crop must be labeled as substandard or cannot be sold as ordinary seed. The Federal Seed Act and state seed laws also require truthful labeling of the kind and variety, the lot, and the test date or packed-for season.
+
+The minimums vary by crop because some seeds are naturally harder to sprout than others. The standards are set at a level that assumes a reasonable, fresh lot, so a packet that meets them from a reputable source should perform well.
+
+Most companies test above the minimum, and many print their actual tested rate rather than simply meeting the law. Happy Seeds prints the lab-tested germination rate on every packet in its kit, which lets you adjust your sowing density crop by crop instead of guessing.
+
+## How to read a seed packet
+
+A seed packet carries five pieces of information that matter: the lot number, the packed-for date, the germination rate, days to maturity, and planting depth. Everything else is nice to have.
+
+| Field | What it tells you | How to use it |
+| --- | --- | --- |
+| Lot number | Which batch of seed this is | Reference if you have a problem; lots are tracked by the seller |
+| Packed for | The season the seed was tested and packaged for | Not an expiry date; expect lower germination each year after |
+| Germination % | Lab-tested sprouting percentage for the lot | Sow more seeds per spot as the rate falls |
+| Days to maturity | Days from sowing (or from transplant) to first harvest | Check that your season is long enough; see the planting calendars |
+| Planting depth | How deep to cover the seed | Usually 2 to 3 times the seed's width; shallow for tiny seed |
+
+Days to maturity needs one caution. For crops normally transplanted, such as tomatoes and peppers, the number usually counts from transplant, not from sowing, so add the 6 to 8 indoor weeks when planning. The state pages under [planting calendars](/planting/) handle that math for you.
+
+Variety name matters too. A packet that says only "Tomato" tells you nothing about size, days or disease resistance; one that says "Floradade" or "Marketmore 76" lets you look up exactly what to expect.
+
+## How to do a paper-towel germination test at home
+
+A paper-towel test takes ten seeds, a damp towel, a plastic bag and about a week, and it gives you a usable germination percentage for any packet you own. It is the same principle a seed lab uses, just at kitchen scale.
+
+1. Count out 10 seeds (20 if you have plenty and want a finer result).
+2. Dampen a paper towel so it is wet but not dripping, and lay the seeds on half of it.
+3. Fold the towel over the seeds, slide it into a zip bag or lidded container, and label it with the crop and date.
+4. Keep it somewhere warm, roughly 70 to 80 degrees F; the top of a refrigerator works.
+5. Check daily, re-wetting the towel if it dries, and remove any seed that molds.
+6. After the expected time, count the sprouted seeds and multiply by 10 for your percentage.
+
+Expected times differ. Radish, lettuce, cucumber and brassicas show roots in 3 to 7 days. Tomatoes, beets and beans take 5 to 10. Peppers, carrots, parsley and spinach can take 10 to 14, so do not call them dead early.
+
+Six or more out of ten is worth sowing, just a little thicker. Below five, buy fresh seed for anything you care about. You can even plant the sprouted test seeds if you handle the roots gently.
+
+## How long seeds stay viable, by crop
+
+Most vegetable seeds remain viable for 1 to 5 years, with onions and parsnips at the short end and tomatoes, cucumbers and brassicas at the long end. The ranges below assume cool, dry, dark storage; a hot garage or a humid basement can cut them in half.
+
+| Crop | Typical viability | Notes |
+| --- | --- | --- |
+| Onion, leek, parsnip | 1 to 2 years | Buy fresh each season if you can |
+| Pepper, spinach, sweet corn | 2 to 3 years | Test before year three |
+| Carrot, bean, pea | 2 to 4 years | Carrot germination drops noticeably after year two |
+| Lettuce, beet, turnip, eggplant | 3 to 5 years | Beet and turnip are reliable keepers |
+| Tomato, cucumber, melon, squash | 4 to 5 years | Among the longest-lived garden seeds |
+| Kale, cabbage, broccoli, radish | 4 to 5 years | Store well in a sealed jar |
+
+Storage is the variable you control. Fold the packet closed, put it in a sealed jar or tin with a packet of silica gel or a spoonful of dry rice, and keep it in a cool closet or the refrigerator. Seed kept this way will outperform the table; seed left in a shed will not.
+
+## Putting the number to work
+
+Use the germination rate to set your sowing density, use a paper-towel test to update it for older seed, and keep the packets you did not finish in a sealed jar for next year. Those three habits remove most of the mystery from "my seeds did not come up."
+
+If you are choosing seed for a first garden, favor packets that name the variety and print a real tested rate; that transparency usually travels with other good practices. The crops that tolerate uneven germination best are covered in [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/), and if you plan to start any of them indoors, the [step-by-step guide](/blog/when-to-start-seeds-indoors/) shows how to give each seed its best shot.
 
 
 ---
@@ -694,304 +996,3 @@ Seed starting
  Sunburn after planting out. White, papery patches on leaves the day after transplanting mean the hardening off was rushed. 
  
  Peppers are slow. Eggplant is slower. That is normal, and it is the whole reason an indoor head start exists.
-
----
-
----
-title: "What Are the Best Vegetable Seeds for Beginners to Grow?"
-slug: "best-vegetable-seeds-for-beginners"
-description: "The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid."
-date: 2026-10-31
-updated: 2026-10-31
-eyebrow: "For beginners"
-read: 7
-answer: "The best vegetable seeds for beginners are fast, direct-sown crops such as radish, lettuce, spinach, kale, beets, turnips and bush beans, because they sprout in days and tolerate cool weather and uneven care. Tomatoes, peppers and cucumbers are the easiest warm-season crops once you plant them after the last frost."
-image: "media/2026-10/statics/tencolors.jpg"
-image_alt: "The open Happy Seeds Veggie Garden Kit box with ten clay seed-packet tiles laid out in front of it, one for each vegetable"
-image_caption: "Ten beginner crops in one box: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon."
-kit_heading: "Ten beginner crops, already chosen for you"
-about: "easy vegetables to grow from seed"
-faq:
-  - q: "What is the fastest vegetable to grow from seed?"
-    a: "Radishes are the fastest common vegetable, usually ready in 25 to 35 days from sowing. Leaf lettuce, spinach and baby kale follow at roughly 30 to 50 days. Fast crops are good for beginners because you see results before you have time to lose interest or make a season-ending mistake."
-  - q: "Which vegetables should a beginner start indoors?"
-    a: "Tomatoes, peppers and eggplant are the main crops a beginner should start indoors, 6 to 8 weeks before the last frost, because they need a long warm season. Almost everything else, including carrots, beets, spinach, kale, beans, cucumbers and squash, does better sown directly in the garden or container."
-  - q: "Can a beginner grow vegetables from seed in containers?"
-    a: "Yes. Leafy greens, radishes and turnips grow in almost any pot at least 6 inches deep, beets and carrots need 10 to 12 inches, and a single tomato, pepper or cucumber plant needs a 3 to 5 gallon container. Containers dry out faster than beds, so check them daily in summer."
-  - q: "Why do my seeds not come up?"
-    a: "The usual causes are sowing too deep, soil that is too cold for warm-season crops, or soil that dried out or stayed waterlogged during germination. Most vegetable seeds should be covered by only 2 to 3 times their own width and kept evenly moist until the seedlings appear."
-  - q: "How many vegetable varieties should a first garden have?"
-    a: "Five to ten varieties is plenty for a first garden. That is enough to learn the difference between cool-season and warm-season crops without spreading your attention too thin. A mix of two or three quick greens, two or three root crops and two or three summer fruiting crops works well."
----
-
-Picking the right crops matters more than any tool or fertilizer when you are growing vegetables from seed for the first time. Some vegetables sprout in three days and shrug off cold nights and missed waterings. Others need two months of babysitting indoors before they can even go outside.
-
-The ranking below leans toward crops that forgive mistakes, because a first garden is as much about learning the rhythm of sowing and harvesting as it is about the harvest itself.
-
-## The easiest vegetables to grow from seed, ranked
-
-Radish, leaf lettuce, spinach, kale, beets and turnips are the easiest vegetables to grow from seed because they are sown directly in the soil, sprout in under two weeks, and produce food within one to two months. Warm-season fruiting crops are a step harder, mainly because of timing, not skill.
-
-The table ranks common first-garden crops from easiest to hardest. Days to harvest are typical ranges; the days listed "from transplant" assume you started seedlings indoors or bought them.
-
-| Crop | Direct sow or transplant | Days to harvest | Container-friendly | Difficulty |
-| --- | --- | --- | --- | --- |
-| Radish | Direct sow | 25 to 35 | Yes, 6 inches deep | Easiest |
-| Leaf lettuce | Direct sow | 30 to 50 | Yes | Easiest |
-| Spinach | Direct sow | 40 to 50 | Yes | Easy |
-| Kale | Direct sow | 50 to 60 | Yes | Easy |
-| Turnip | Direct sow | 50 to 60 | Yes | Easy |
-| Beet | Direct sow | 50 to 60 | Yes, 10 inches deep | Easy |
-| Bush bean | Direct sow after frost | 50 to 60 | Yes, 8 inches deep | Easy |
-| Zucchini | Direct sow after frost | 45 to 55 | Large containers only | Easy |
-| Cucumber | Direct sow after frost | 55 to 65 | Yes, 5 gallon with a trellis | Moderate |
-| Carrot | Direct sow | 65 to 75 | Yes, 12 inches deep | Moderate |
-| Tomato | Transplant | 60 to 80 from transplant | Yes, 5 gallon or larger | Moderate |
-| Pepper | Transplant | 70 to 85 from transplant | Yes, 3 to 5 gallon | Moderate |
-| Eggplant | Transplant | 75 to 85 from transplant | Yes, 5 gallon | Moderate |
-| Melon | Direct sow after soil warms | 80 to 90 | 10 gallon or more | Harder |
-
-Carrots sit in the middle of the list not because they are fussy once growing, but because their seed is tiny and slow, often taking 14 to 21 days to appear. Beginners frequently give up on a carrot row or let it dry out in the second week. Keep the soil surface damp and they will come.
-
-Melons are last because they need a long, hot season and a lot of room. In a short-summer state they are a stretch for a first garden; in Texas or inland California they are much easier. Check the window for your state on the [planting calendar pages](/planting/) before committing space to them.
-
-## Why cool-season crops forgive mistakes
-
-Cool-season crops forgive mistakes because they germinate in cool soil, tolerate light frost, and give you a harvest before summer heat and pests arrive. Spinach, kale, beets, turnips, radishes and lettuce can all go in the ground two to six weeks before your last spring frost.
-
-That early window is a safety net. If a sowing fails, you have time to sow again, and in most of the country you get a second chance in late summer for a fall crop. Spinach will bolt (send up a flower stalk and turn bitter) once days get long and hot, so treat it as a spring and fall vegetable rather than a summer one.
-
-Cool-season crops also tend to be eaten as leaves or roots, not fruit. You do not have to wait for flowers, pollination and ripening; you simply pick when the plant is big enough. That removes several of the steps where a warm-season crop can go wrong.
-
-## What to start indoors (and what not to)
-
-Start tomatoes, peppers and eggplant indoors 6 to 8 weeks before your last frost, and direct sow nearly everything else. Those three crops need a long warm season that most of the US cannot supply if the seed goes straight in the ground in May.
-
-Everything else on the beginner list prefers direct sowing. Root crops such as carrots, beets and turnips dislike being moved and fork or stall if their roots are disturbed. Beans, cucumbers, zucchini and melons grow so fast that an indoor head start saves little, and their seedlings resent transplanting.
-
-If you do start seeds indoors, the keys are a bright light source a few inches above the seedlings, warmth for germination, and a week of hardening off outdoors before planting. The full method is in [How to Start Seeds Indoors](/blog/when-to-start-seeds-indoors/).
-
-## The three mistakes beginners make
-
-The three mistakes that end most first gardens are sowing seed too deep, overwatering, and planting warm-season crops before the soil has warmed. Each is easy to avoid once you know to look for it.
-
-**Sowing too deep.** A seed should be covered by only 2 to 3 times its own width. Lettuce and carrot seed want barely a dusting of soil; bean and squash seed can go an inch down. Buried too deep, small seeds run out of energy before they reach the light, and the packet gets blamed for poor germination.
-
-**Overwatering.** Seedlings need the soil evenly moist, not soggy. Constant wetness starves roots of oxygen and invites damping off, the fungal collapse of seedlings at the soil line. Water when the top half inch is dry, and water less often but more deeply as plants grow.
-
-**Planting warm crops too early.** Tomatoes, peppers, cucumbers and melons sulk or die in cold soil, even if the air feels warm. Wait until one to two weeks after your last frost date, when soil is reliably warm, and you will often catch up to or pass plants that went in a month earlier. Your state's dates are on pages such as [New Jersey](/planting/new-jersey.html), [Texas](/planting/texas.html) and [California](/planting/california.html).
-
-## A simple first-season plan
-
-A good first garden has two or three quick greens, two or three root crops, and two or three warm-season fruiting crops, sown in that order across the spring. That spread teaches the full rhythm of a season while keeping the plant count manageable.
-
-The ten varieties in the Happy Seeds kit were chosen on that logic: cool-season carrot, kale, spinach, beet and turnip, then warm-season tomato, cucumber, pepper, eggplant and melon, with a 24-page grow guide that walks through the timing. If you would rather assemble your own mix from individual packets, [this comparison](/blog/seed-kit-vs-seed-packets/) weighs the two approaches honestly.
-
-Whichever route you take, read the germination rate on each packet before you plant. [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/) explains how to use that number to decide how thickly to sow.
-
-Start with the forgiving crops at the top of the table, get one full cycle of sowing and eating under your belt, and the harder ones will feel far less intimidating next year.
-
-
----
-
----
-title: "Seed Kit vs Seed Packets: Which Is Better for a First Garden?"
-slug: "seed-kit-vs-seed-packets"
-description: "Seed kit vs individual seed packets for a first garden: an honest look at cost per variety, seed waste, curation, instructions, gifting, and when packets win."
-date: 2026-10-31
-updated: 2026-10-31
-eyebrow: "Buying guide"
-read: 6
-answer: "A seed kit is the better choice for a first garden because it bundles a curated set of beginner crops with instructions, at a lower cost per variety than buying ten packets one by one. Individual packets are better once you know which specific varieties you want, or you are planting a large plot."
-image: "media/2026-10/statics/inside.jpg"
-image_alt: "The Happy Seeds Veggie Garden Kit drawer slid open to show ten colored seed packets beside the grow guide"
-image_caption: "One kit, ten named varieties and the guide that explains each one."
-kit_heading: "One box instead of ten packets"
-about: "seed kits versus seed packets"
-faq:
-  - q: "Is a seed kit cheaper than buying seed packets?"
-    a: "Usually, per variety. A kit that includes ten packets for $24.99 works out to about $2.50 per packet, and you avoid paying shipping on several small orders or driving to find packets in stock. Per seed, large individual packets can be cheaper, but only if you actually plant that many seeds."
-  - q: "Do seed kits have fewer seeds than regular packets?"
-    a: "Kit packets are often smaller than full retail packets, which suits a small garden. A standard retail packet can hold hundreds of lettuce or carrot seeds, far more than a raised bed or balcony uses in a season. A kit with 1,000 or more seeds across ten crops covers a first garden with seed left over."
-  - q: "Are seed kit varieties any good?"
-    a: "Good kits use the same named, open-pollinated varieties you would find in a catalog, such as Marketmore 76 cucumber or Bloomsdale spinach, and are held to the same US germination standards. Check that the kit names its varieties and prints a germination rate; avoid kits that list only the crop."
-  - q: "When should I buy individual seed packets instead of a kit?"
-    a: "Buy individual packets when you want a specific variety, you are planting a large plot that needs hundreds of seeds of one crop, or you already have a few seasons behind you and know what grows well in your spot. Packets also make sense for refilling one or two crops."
-  - q: "Can I save leftover seeds from a kit or packet for next year?"
-    a: "Yes. Store opened packets sealed in a jar in a cool, dry, dark place. Most vegetable seed stays viable for 2 to 5 years, though onion, parsnip and some lettuce decline faster. Do a quick paper-towel test before planting older seed so you know how thickly to sow."
----
-
-Every first-time gardener hits the same fork: buy a boxed seed kit, or build a garden from individual packets off a rack or a catalog. Both can grow a fine first garden. The right answer depends on how much you already know, how much space you have, and whether anyone is giving this as a gift.
-
-This comparison treats the two options fairly, including the cases where packets are clearly the smarter buy.
-
-## How a seed kit compares to individual packets
-
-A seed kit wins on curation, instructions, cost per variety and gifting, while individual packets win on choice, seed quantity per crop and flexibility for experienced gardeners. The table lays out the trade-offs for a typical first garden of about ten crops.
-
-| Criterion | Seed kit | Individual packets |
-| --- | --- | --- |
-| Cost for ten varieties | One price; Happy Seeds is $24.99, about $2.50 per packet | Ten separate purchases, often plus shipping or a trip to the store |
-| Seed quantity | Sized for a small garden; 1,000+ seeds across ten crops | Often hundreds of seeds per packet, more than a small garden uses |
-| Variety choice | Fixed, pre-selected | Unlimited; thousands of varieties available |
-| Curation for beginners | Crops chosen to work together across a season | You do the research on what suits your climate |
-| Instructions | Usually a booklet covering the whole set | A few lines on the back of each packet |
-| Gifting | Ready to wrap, no extra effort | Loose packets need a container or a card |
-| Best for | First gardens, small spaces, gifts | Specific varieties, large plots, repeat gardeners |
-
-Neither column is "better" in the abstract. The question is which trade-offs you are happy to make this year.
-
-## Cost per variety, not cost per seed
-
-Cost per variety is the fair way to compare, because a first garden needs ten different crops, not a thousand carrots. A kit priced at $24.99 for ten packets comes to roughly $2.50 per variety, and you pay once.
-
-Buying ten packets individually means ten line items. Prices for single packets vary widely by company and crop, so we will not quote competitor numbers here, but anyone who has filled a cart at a big catalog seed company knows the total climbs quickly once shipping is added.
-
-Cost per seed tells a different story. A full retail packet of lettuce or carrot can contain several hundred seeds, so the per-seed price is tiny. That only matters if you can use them, which brings us to waste.
-
-## Most packets hold far more seed than a small garden uses
-
-A standard retail seed packet usually contains far more seed than a raised bed or balcony garden plants in a season, and the surplus often expires before it is used. A single 4-by-8-foot bed might take 30 carrot seeds, a dozen beets, 10 kale plants and 2 or 3 tomatoes.
-
-Leftover seed does keep. Stored cool, dry and dark, most vegetable seed remains viable for 2 to 5 years, as explained in [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/). But many beginners do not store seed well, and a half-used packet of spinach in a hot garage is simply money gone.
-
-Kits sidestep this by sizing packets for a small garden. Across ten crops, 1,000-plus seeds is still more than a first garden needs, but the waste per crop is much smaller.
-
-## Curation is the quiet advantage
-
-Curation matters because the hardest part of a first garden is not planting, it is choosing. A rack of 300 packets offers no signal about which 10 will work together in your climate across a season.
-
-A good kit solves that by pairing cool-season crops you sow in early spring (spinach, kale, beets, turnips, carrots) with warm-season crops you plant after frost (tomato, cucumber, pepper, eggplant, melon). You get a staggered season, early wins from the greens, and the summer fruiting crops that make the garden feel worth it. For the reasoning behind that mix, see [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/)
-
-The flip side is that curation removes choice. If you want a specific heirloom tomato or a purple carrot, a kit will not have it.
-
-## Instructions: a booklet versus the back of a packet
-
-Instructions are where kits pull furthest ahead, because a packet has room for a few lines and a kit can include a real guide. The back of a packet typically gives depth, spacing, days to maturity and a one-line sowing window.
-
-That is enough for someone who already knows the difference between "direct sow" and "transplant." It is not enough for a first season. A kit guide, such as the 24-page grow guide in the Happy Seeds box, has space to explain timing relative to your frost date, what a seedling should look like at two weeks, and when to give up on a sowing and try again.
-
-If you go the packet route, plan to supplement with a state planting calendar. The [planting pages](/planting/) on this site give sowing windows by state, including [New Jersey](/planting/new-jersey.html), [Texas](/planting/texas.html) and [California](/planting/california.html).
-
-## Gifting: kits are built for it
-
-Kits make better gifts because they arrive complete, look intentional, and ask nothing of the recipient at the moment of giving. A box with a guide inside can sit under a tree in December and be opened in March with everything the person needs to begin.
-
-Ten loose packets in an envelope, however carefully chosen, read as a project rather than a present. If you are shopping for someone else, [The Best Gift for Someone Who Wants to Start a Garden](/blog/gifts-for-new-gardeners/) covers what to pair with seeds and what to write in the card.
-
-## When individual packets are the better choice
-
-Individual packets are the better choice for experienced gardeners, anyone who wants a specific variety, and anyone planting a large plot. In those cases a kit's curation is a limitation, not a help.
-
-- You already know what grows well in your yard and want to repeat it.
-- You want a particular variety for flavor, color, disease resistance or a short season.
-- You are planting rows, not a bed, and need hundreds of seeds of one crop.
-- You only need to refill one or two crops to round out seed you already own.
-
-There is also a middle path. Many gardeners start with a kit in year one, learn which crops they actually eat and which thrive in their spot, and then switch to individual packets for the crops they want more of. That is a sensible way to spend a first season without overbuying.
-
-## The short version
-
-Choose a kit if this is your first garden, your space is small, or the seeds are a gift. Choose packets if you have gardened before, want specific varieties, or need volume. Either way, buy seed that names its varieties and prints a germination rate, and check your sowing dates against a local frost calendar before anything goes in the ground.
-
-
----
-
----
-title: "What Does the Germination Rate on a Seed Packet Mean?"
-slug: "what-germination-rate-means"
-description: "Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last."
-date: 2026-10-31
-updated: 2026-10-31
-eyebrow: "Seed basics"
-read: 7
-answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."
-image: "media/2026-10/statics/spinach.jpg"
-image_alt: "A clay scene of the Happy Seeds box on a windowsill beside a planter of spinach seedlings being watered"
-image_caption: "The rate on the packet is a lab result; the seedlings on the sill are what it predicts."
-kit_heading: "Lab-tested, with the rate on the packet"
-about: "seed germination rate"
-faq:
-  - q: "What is a good germination rate for vegetable seeds?"
-    a: "Anything at or above the federal minimum for that crop is acceptable, and most fresh vegetable seed tests between 80 and 95 percent. Rates in the 70s are fine for direct-sown crops if you sow a little thicker. Below about 50 percent, it is usually cheaper and less frustrating to buy fresh seed."
-  - q: "Does germination rate change over time?"
-    a: "Yes, it falls as seed ages, and the decline speeds up with heat and humidity. The rate on a packet reflects the test done before packing, so a three-year-old packet will usually sprout at a lower percentage than printed. A home paper-towel test tells you where it stands now."
-  - q: "What does 'packed for' mean on a seed packet?"
-    a: "The packed-for date is the season the seed was tested and packaged to be sold in, for example 'Packed for 2026.' It is not an expiration date. Seed packed for a past season is often still good, but its germination rate will have drifted below the printed figure."
-  - q: "How do I test old seeds to see if they are still good?"
-    a: "Place 10 seeds on a damp paper towel, fold it over, seal it in a plastic bag, and keep it somewhere warm for 5 to 14 days depending on the crop. Count the sprouted seeds and multiply by 10 to get a rough percentage. Six or more sprouting means the seed is still usable."
-  - q: "Why do my seeds germinate below the rate on the packet?"
-    a: "Garden conditions are harsher than a lab. Cold soil, sowing too deep, crusted or dry soil, waterlogging and hungry insects all reduce emergence. A packet rate of 90 percent is a ceiling under ideal conditions; 60 to 80 percent emergence outdoors is normal and not a sign of bad seed."
----
-
-That small percentage on the back of a seed packet is the most useful number printed there, and most beginners skip right past it. It tells you how many seeds to plant per spot, whether an old packet is worth sowing, and whether a seed company is being straight with you.
-
-Here is what the number means, where it comes from, and how to check it yourself at the kitchen table.
-
-## What germination rate means
-
-Germination rate is the share of seeds that sprouted when a sample from the seed lot was tested under controlled temperature and moisture, expressed as a percentage. If a lab places 400 seeds on moist paper in a warm chamber and 352 produce a normal seedling, the lot's germination rate is 88 percent.
-
-The test measures the seed itself, not your garden. In real soil, with cold snaps, crusting and insects, emergence will be lower than the printed rate. Think of the number as the ceiling, not a promise.
-
-The practical use is simple. At 90 percent, sowing two seeds per spot and thinning to one is plenty. At 65 percent, sow three or four. For transplants, where every cell matters, sow two seeds per cell and snip the weaker one.
-
-## Why US seed packets have to meet a minimum
-
-US seed laws set minimum germination standards for vegetable seed, and seed that tests below the standard for its crop must be labeled as substandard or cannot be sold as ordinary seed. The Federal Seed Act and state seed laws also require truthful labeling of the kind and variety, the lot, and the test date or packed-for season.
-
-The minimums vary by crop because some seeds are naturally harder to sprout than others. The standards are set at a level that assumes a reasonable, fresh lot, so a packet that meets them from a reputable source should perform well.
-
-Most companies test above the minimum, and many print their actual tested rate rather than simply meeting the law. Happy Seeds prints the lab-tested germination rate on every packet in its kit, which lets you adjust your sowing density crop by crop instead of guessing.
-
-## How to read a seed packet
-
-A seed packet carries five pieces of information that matter: the lot number, the packed-for date, the germination rate, days to maturity, and planting depth. Everything else is nice to have.
-
-| Field | What it tells you | How to use it |
-| --- | --- | --- |
-| Lot number | Which batch of seed this is | Reference if you have a problem; lots are tracked by the seller |
-| Packed for | The season the seed was tested and packaged for | Not an expiry date; expect lower germination each year after |
-| Germination % | Lab-tested sprouting percentage for the lot | Sow more seeds per spot as the rate falls |
-| Days to maturity | Days from sowing (or from transplant) to first harvest | Check that your season is long enough; see the planting calendars |
-| Planting depth | How deep to cover the seed | Usually 2 to 3 times the seed's width; shallow for tiny seed |
-
-Days to maturity needs one caution. For crops normally transplanted, such as tomatoes and peppers, the number usually counts from transplant, not from sowing, so add the 6 to 8 indoor weeks when planning. The state pages under [planting calendars](/planting/) handle that math for you.
-
-Variety name matters too. A packet that says only "Tomato" tells you nothing about size, days or disease resistance; one that says "Floradade" or "Marketmore 76" lets you look up exactly what to expect.
-
-## How to do a paper-towel germination test at home
-
-A paper-towel test takes ten seeds, a damp towel, a plastic bag and about a week, and it gives you a usable germination percentage for any packet you own. It is the same principle a seed lab uses, just at kitchen scale.
-
-1. Count out 10 seeds (20 if you have plenty and want a finer result).
-2. Dampen a paper towel so it is wet but not dripping, and lay the seeds on half of it.
-3. Fold the towel over the seeds, slide it into a zip bag or lidded container, and label it with the crop and date.
-4. Keep it somewhere warm, roughly 70 to 80 degrees F; the top of a refrigerator works.
-5. Check daily, re-wetting the towel if it dries, and remove any seed that molds.
-6. After the expected time, count the sprouted seeds and multiply by 10 for your percentage.
-
-Expected times differ. Radish, lettuce, cucumber and brassicas show roots in 3 to 7 days. Tomatoes, beets and beans take 5 to 10. Peppers, carrots, parsley and spinach can take 10 to 14, so do not call them dead early.
-
-Six or more out of ten is worth sowing, just a little thicker. Below five, buy fresh seed for anything you care about. You can even plant the sprouted test seeds if you handle the roots gently.
-
-## How long seeds stay viable, by crop
-
-Most vegetable seeds remain viable for 1 to 5 years, with onions and parsnips at the short end and tomatoes, cucumbers and brassicas at the long end. The ranges below assume cool, dry, dark storage; a hot garage or a humid basement can cut them in half.
-
-| Crop | Typical viability | Notes |
-| --- | --- | --- |
-| Onion, leek, parsnip | 1 to 2 years | Buy fresh each season if you can |
-| Pepper, spinach, sweet corn | 2 to 3 years | Test before year three |
-| Carrot, bean, pea | 2 to 4 years | Carrot germination drops noticeably after year two |
-| Lettuce, beet, turnip, eggplant | 3 to 5 years | Beet and turnip are reliable keepers |
-| Tomato, cucumber, melon, squash | 4 to 5 years | Among the longest-lived garden seeds |
-| Kale, cabbage, broccoli, radish | 4 to 5 years | Store well in a sealed jar |
-
-Storage is the variable you control. Fold the packet closed, put it in a sealed jar or tin with a packet of silica gel or a spoonful of dry rice, and keep it in a cool closet or the refrigerator. Seed kept this way will outperform the table; seed left in a shed will not.
-
-## Putting the number to work
-
-Use the germination rate to set your sowing density, use a paper-towel test to update it for older seed, and keep the packets you did not finish in a sealed jar for next year. Those three habits remove most of the mystery from "my seeds did not come up."
-
-If you are choosing seed for a first garden, favor packets that name the variety and print a real tested rate; that transparency usually travels with other good practices. The crops that tolerate uneven germination best are covered in [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/), and if you plan to start any of them indoors, the [step-by-step guide](/blog/when-to-start-seeds-indoors/) shows how to give each seed its best shot.
