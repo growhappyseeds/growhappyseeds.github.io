@@ -266,6 +266,27 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
     .vcard img{width:110px}
     .stickycta{display:block}.stickycta .btn{display:block}
   }
+
+  /* Full-bleed scenes (Jared, Nov 2 2026). Rules: the Happy Farmer is never under the copy card; on phones the image is never cropped. */
+  .bleed{padding:0!important;background:none!important}
+  .bleed .wrap{display:block;max-width:none;padding:0;position:relative}
+  .bleed .art{margin:0}
+  .bleed .art a{display:block}
+  .bleed .art img{width:100%;height:auto;max-width:none;border-radius:0;filter:none;box-shadow:none;display:block}
+  .bleed .copy{background:#fff;padding:28px 24px 36px}
+  .hero.bleed .copy h1{margin-top:4px}
+  .hero.bleed .cta-row{margin-top:14px}
+  @media (min-width:901px){
+    .bleed .art img{height:78vh;min-height:540px;max-height:900px;object-fit:cover}
+    .hero.bleed .art img{height:84vh;object-position:center 42%}            /* farmer right of centre */
+    .farmerband.bleed .art img{object-position:center 62%}                   /* farmer bottom-left */
+    .gift.bleed .art img{object-position:center 58%}                         /* farmer left */
+    .herbband.bleed .art img{object-position:center 60%}                     /* farmer centre-left */
+    .bleed .copy{position:absolute;bottom:48px;max-width:520px;width:40vw;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);padding:30px 32px;border-radius:26px;box-shadow:0 18px 40px rgba(38,33,26,.18)}
+    .hero.bleed .copy{left:5vw;max-width:560px;width:42vw}                   /* farmer is on the right */
+    .farmerband.bleed .copy,.gift.bleed .copy,.herbband.bleed .copy{right:5vw;left:auto}  /* farmer is on the left */
+  }
+  @media (min-width:901px) and (max-width:1180px){.bleed .copy{width:44vw;bottom:32px}}
 </style>
 </head>
 <body>
@@ -275,9 +296,9 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   <nav class="navlinks" aria-label="Main"><a class="tlink" href="herb-kit.html">Herb Kit <span class="newpill">NEW</span></a><a class="tlink" href="blog/">Blog</a><a class="tlink" href="planting/">Planting<span class="navlong"> by State</span></a><a class="tlink ws" href="#wholesale">Wholesale</a></nav>
 </div></header>
 
-<section class="hero">
+<section class="hero bleed">
   <div class="wrap">
-    <div>
+    <div class="copy">
       <p class="eyebrow">Veggie Garden Kit · 10 Seed Packets</p>
       <h1>Your first garden, <em>one box.</em></h1>
       <p class="sub">10 curated varieties, 1,000+ seeds, and a 24-page grow guide that walks you from packet to plate, in a keepsake box made to be gifted. The Happy Farmer will show you the way.</p>
@@ -298,9 +319,9 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   </div>
 </section>
 
-<section class="band farmerband" id="happy-farmer">
-  <div class="wrap split">
-    <div>
+<section class="band farmerband bleed" id="happy-farmer">
+  <div class="wrap">
+    <div class="copy">
       <p class="eyebrow">Meet the Happy Farmer</p>
       <h2>Small farmer. Big plants.</h2>
       <p class="sub">He is the little clay farmer from our logo, hummingbird and all, and he lives inside the world of the plants: sowing, watering, and admiring whatever is coming up. Every packet in the box starts the same way his garden does, with one seed and a little patience.</p>
@@ -332,9 +353,9 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   </div>
 </section>
 
-<section class="band gift" id="gift">
-  <div class="wrap split flip">
-    <div>
+<section class="band gift bleed" id="gift">
+  <div class="wrap">
+    <div class="copy">
       <p class="eyebrow">For giving</p>
       <h2>The gift that turns into dinner.</h2>
       <p class="sub">Housewarmings, holidays, and the friend whose apartment could use a windowsill garden. Not sure? Read our guide to <a href="blog/best-seed-gifts/" style="color:var(--ketchup)">the best seed gifts</a>.</p>
@@ -343,10 +364,10 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   </div>
 </section>
 
-<section class="band herbband" id="herb-kit">
-  <div class="wrap split">
+<section class="band herbband bleed" id="herb-kit">
+  <div class="wrap">
     <div class="art"><a href="herb-kit.html"><img class="clay" src="media/site/farmer/farmer-herbs.webp" width="900" height="900" loading="lazy" alt="Claymation scene: the Happy Farmer walking between giant potted herbs: basil, chives, dill, rosemary and mint"></a></div>
-    <div>
+    <div class="copy">
       <p class="eyebrow">New · Coming soon</p>
       <h2>Meet the Herb Garden Kit</h2>
       <p class="sub">Ten culinary herbs in the same keepsake box. Perfect to grow year round, and easy apartment growing.</p>
