@@ -11,3 +11,6 @@ Every creative, site image and email header is a stop-motion claymation scene wi
 
 ## The box (Jared, Nov 2 2026): always portrait
 When the box appears it is ALWAYS portrait oriented (standing tall, never landscape). The drawer slides out of a SHORT end, the black pull tab is centered on that short end (never on a long side), and the ten packets and the grow guide are displayed in portrait inside it. Packets are multi-colored like the real product, no readable words. Current open-box image: media/site/farmer/farmer-inside.jpg (Canva MAHZxhqXxE8, DAHZvdUR5_Y page 11).
+
+## Box lettering (Jared, Nov 2 2026): the logo is never messed up
+Generators invent lettering on any box face they cannot copy. Rule: the box is shown square to the camera so only the FRONT face (the real Happy Seeds artwork, from reference MAHY1RbhAIs / MAHX10pD-6o) is visible; any sliver of side or top is plain yellow with no letters, words or marks. Any garbled, mirrored or invented text anywhere on the box, packets or guide fails review. Current wholesale image: media/site/farmer/farmer-wholesale.jpg (Canva MAHZyH8ei6c, DAHZvdUR5_Y page 8) replaced MAHZxX2Hgqw, which had scrambled text on the box side.
