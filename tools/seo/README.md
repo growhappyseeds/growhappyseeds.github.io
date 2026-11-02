@@ -82,16 +82,19 @@ One-time setup (Jared, about ten minutes):
 
 The empty GA4 property "Grow Happy Seeds" (558607627) has no data stream and no data; it can be deleted or ignored. The live property is "Happy Seeds" (558625133, tag G-Z51LD2VZH1).
 
-## The agents (all scheduled Claude tasks; nothing goes live without Jared)
+## The agents (all scheduled Claude tasks; articles go live only on Jared's emailed approval)
 
 | Agent | When (ET) | Reads | Produces | Jared's approval |
 | --- | --- | --- | --- | --- |
 | SEO data pull (GitHub Action) | daily 05:20/06:20 | Search Console, GA4 | `tools/seo/data/*.json` on main | none needed (read-only data) |
 | SEO Analyst | daily 07:10 | data files, yesterday's report | `tools/seo/reports/daily-*.md`, `tools/seo/queue/recommendations.md`, one short email | none needed (reports only) |
-| SEO Writer | Mon/Wed/Fri 05:17 | topic queue, brand.json | one article as a `seo/<slug>` pull request | merge the PR |
-| SEO Optimizer | Thu 06:33 | recommendations.md, data | one `seo/optimize-<date>` pull request of on-page fixes | merge the PR |
+| SEO Writer | Mon/Wed/Fri 05:17 | topic queue, brand.json, `_pending/`, `_rejected/` | one article parked at `content/blog/_pending/<slug>.md` on main (not built, not live) + an email of the full article from hello@ | reply APPROVED to that email (or reply with changes to hold it) |
+| SEO Optimizer | Thu 06:33 | recommendations.md, data | one commit of on-page fixes pushed to main after its reviewer pass | none (Jared, Nov 2 2026); email lists the changes and the revert command |
+| Executor (social + articles) | daily 09:26/11:26/15:26 | Approval Queue, `_pending/`, hello@ inbox | publishes Approved social rows; moves an email-approved article from `_pending/` to `content/blog/`, builds, pushes main; moves a held one to `_rejected/` with `jared_note:` | the email reply above |
 | Mention Builder | Tue 10:47 | latest AEO report, queue | `tools/seo/queue/<date>-offsite.md` + email of texts to paste | Jared posts them himself |
 | AI Visibility Monitor | Mon 14:41 | 12 buyer prompts, site health | `tools/seo/reports/aeo-*.md`, `aeo-log.json`, one email | none needed |
-| Content Run (social) | weekdays 06:54 | sitemap + llms.txt for live posts, Approval Queue | Instagram statics incl. one blog promo per live post, queued Pending | set the row to Approved |
+| Content Run (social) | daily 06:54 | sitemap + llms.txt for live posts, Approval Queue | Instagram statics incl. one blog promo per live post, queued Pending | set the row to Approved |
+
+Jared asked on Nov 2 2026 not to merge pull requests (a bottleneck): the Writer emails him the article and he replies; the Executor acts on the reply. `content/blog/_pending/` and `content/blog/_rejected/` are ignored by `build.py` (it globs `content/blog/*.md` only), so a parked article is never live. The Writer reads every `jared_note:` in `_rejected/` as a rule.
 
 Coordination is through the repo, not messages between agents: the sitemap says what is live, `recommendations.md` carries findings from the Analyst to the Optimizer, the Approval Queue column N (`BLOG:<slug>`) says which posts already have a social promo, and every report cites the data file it came from.
