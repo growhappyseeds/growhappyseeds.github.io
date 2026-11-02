@@ -153,7 +153,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
   h1,h2,h3{font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;line-height:1.06}
   h1{font-size:clamp(42px,5.6vw,74px);margin:14px 0 16px}
-  h1 em{font-style:normal;color:var(--ketchup)}
+  h1 em{font-style:normal;color:var(--ink);background:linear-gradient(transparent 58%,var(--sun) 58%,var(--sun) 92%,transparent 92%);padding:0 .08em}
   h2{font-size:clamp(31px,3.8vw,48px);margin-bottom:14px}
   .eyebrow{font-weight:600;letter-spacing:.18em;text-transform:uppercase;font-size:13px;color:var(--leaf)}
   .sub{font-size:19px;color:var(--muted);max-width:540px}
@@ -181,7 +181,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .assure b{color:var(--leaf)}
   .art img{border-radius:40px}
   /* values */
-  .values{padding:10px 0 80px}
+  .values{padding:56px 0}
   .values .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
   .vcard{background:var(--tile);padding:18px 18px 24px;text-align:center}
   .vcard img{width:160px;margin:0 auto -6px}
@@ -278,15 +278,26 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .hero.bleed .cta-row{margin-top:14px}
   @media (min-width:901px){
     .bleed .art img{height:78vh;min-height:540px;max-height:900px;object-fit:cover}
-    .hero.bleed .art img{height:84vh;object-position:center 42%}            /* farmer right of centre */
+    .hero.bleed .art{position:relative;overflow:hidden;background:#BFE3F5}
+    .hero.bleed .art::before{content:"";position:absolute;inset:-40px;background:url(media/site/farmer/farmer-hero.webp) center/cover no-repeat;filter:blur(28px) saturate(1.1);transform:scale(1.08)}
+    .hero.bleed .art img{position:relative;height:calc(100vh - 72px);min-height:560px;max-height:1086px;object-fit:contain}  /* whole scene fits: sunflower, tomatoes, sprouts; farmer right */
     .farmerband.bleed .art img{object-position:center 62%}                   /* farmer bottom-left */
     .gift.bleed .art img{object-position:center 58%}                         /* farmer left */
     .herbband.bleed .art img{object-position:center 60%}                     /* farmer centre-left */
-    .bleed .copy{position:absolute;bottom:48px;max-width:520px;width:40vw;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);padding:30px 32px;border-radius:26px;box-shadow:0 18px 40px rgba(38,33,26,.18)}
+    .bleed .copy{position:absolute;z-index:2;bottom:48px;max-width:520px;width:40vw;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);padding:30px 32px;border-radius:26px;box-shadow:0 18px 40px rgba(38,33,26,.18)}
     .hero.bleed .copy{left:5vw;max-width:560px;width:42vw}                   /* farmer is on the right */
     .farmerband.bleed .copy,.gift.bleed .copy,.herbband.bleed .copy{right:5vw;left:auto}  /* farmer is on the left */
   }
   @media (min-width:901px) and (max-width:1180px){.bleed .copy{width:44vw;bottom:32px}}
+
+  .steps{padding:72px 0;background:#fff}
+  .steps .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:26px}
+  .steps .step{background:var(--tile);border-radius:26px;padding:0 0 22px;text-align:center;overflow:hidden}
+  .steps .step img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;margin-bottom:16px}
+  .steps .step b{display:block;font-size:20px;margin:0 18px 4px}
+  .steps .step p{color:var(--muted);font-size:15px;margin:0 18px}
+  .steps .num{display:inline-block;background:var(--sun);color:var(--ink);font-weight:700;border-radius:999px;padding:2px 12px;font-size:13px;margin-bottom:8px}
+  @media (max-width:900px){.steps{padding:48px 0}.steps .grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -300,7 +311,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   <div class="wrap">
     <div class="copy">
       <p class="eyebrow">Veggie Garden Kit · 10 Seed Packets</p>
-      <h1>Your first garden, <em>one box.</em></h1>
+      <h1>Grow something <em>happy.</em></h1>
       <p class="sub">10 curated varieties, 1,000+ seeds, and a 24-page grow guide that walks you from packet to plate, in a keepsake box made to be gifted. The Happy Farmer will show you the way.</p>
       <div class="cta-row">
         <span class="price">$24.99 <small>$2.50 per packet</small></span>
@@ -361,6 +372,17 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
       <p class="sub">Housewarmings, holidays, and the friend whose apartment could use a windowsill garden. Not sure? Read our guide to <a href="blog/best-seed-gifts/" style="color:var(--ketchup)">the best seed gifts</a>.</p>
     </div>
     <div class="art"><img class="cut" src="media/site/farmer/farmer-gift.webp" width="1448" height="1086" loading="lazy" alt="Claymation scene: the Happy Farmer carrying a small wrapped gift toward giant potted seedlings by a snowy window"></div>
+  </div>
+</section>
+
+<section class="steps" id="how-it-works">
+  <div class="wrap">
+    <div class="center"><p class="eyebrow">Packet to plate</p><h2>Three steps. No green thumb needed.</h2></div>
+    <div class="grid">
+      <div class="step"><img src="media/site/farmer/farmer-sowing.webp" width="1200" height="900" loading="lazy" alt="The Happy Farmer sowing seeds into a garden row"><span class="num">1</span><b>Sow a packet</b><p>Pick a variety, follow the depth and spacing in the guide, and water it in.</p></div>
+      <div class="step"><img src="media/site/farmer/farmer-sprout-wide.webp" width="1200" height="900" loading="lazy" alt="The Happy Farmer looking up at a first sprout"><span class="num">2</span><b>Watch it sprout</b><p>Most seeds show in 5 to 14 days. The free Grow Helper reminds you what comes next.</p></div>
+      <div class="step"><img src="media/2026-11/statics/farmer-harvest.jpg" width="1080" height="1350" loading="lazy" alt="The Happy Farmer with a basket of harvested vegetables"><span class="num">3</span><b>Pick dinner</b><p>Ten varieties, from the first kale leaves to a ripe tomato off the vine.</p></div>
+    </div>
   </div>
 </section>
 
