@@ -74,7 +74,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   h2{font-size:clamp(31px,3.8vw,48px);margin-bottom:14px}
   .eyebrow{font-weight:600;letter-spacing:.18em;text-transform:uppercase;font-size:13px;color:#B8820F}
   .sub{font-size:19px;color:var(--muted);max-width:540px}
-  .btn{display:inline-block;font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;letter-spacing:.02em;font-size:21px;background:var(--sun);color:var(--ink);text-decoration:none;padding:14px 30px 15px;border-radius:999px;border:0;cursor:pointer;text-align:center;box-shadow:0 5px 0 #C98F13,0 12px 22px rgba(246,190,53,.35);transition:transform .12s ease}
+  .btn{display:inline-block;font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;letter-spacing:.02em;font-size:21px;background:#2E6B34;color:#fff;text-decoration:none;padding:14px 30px 15px;border-radius:999px;border:0;cursor:pointer;text-align:center;box-shadow:0 5px 0 #1F4D25,0 12px 22px rgba(46,107,52,.25);transition:transform .12s ease}
   .btn:hover{transform:translateY(-2px)}
   .btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
   .cut{filter:drop-shadow(0 16px 22px rgba(38,33,26,.16))}
@@ -87,7 +87,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .navlinks .tlink{color:var(--ink);text-decoration:none;font-weight:600}
   .navlinks .tlink:hover{color:var(--ink)}
   .newpill{font-size:11px;font-weight:600;letter-spacing:.06em;background:var(--sun);color:var(--ink);border-radius:999px;padding:2px 8px;margin-left:4px;vertical-align:2px}
-  .top .btn{font-size:17px;padding:9px 20px 10px;box-shadow:0 4px 0 #C98F13}
+  .top .btn{font-size:17px;padding:9px 20px 10px;box-shadow:0 4px 0 #1F4D25}
   /* hero */
   .hero{padding:24px 0 70px}
   .hero .wrap{display:grid;grid-template-columns:1fr 1.05fr;gap:48px;align-items:center}
@@ -162,7 +162,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .final .logo{display:block;width:min(380px,80%);margin:0 auto 14px;color:var(--sun)}
   .final .logo svg{width:100%;height:auto;display:block}
   .final p{max-width:460px;margin:0 auto 22px;opacity:.95}
-  .final .btn{background:#FFF6E3;color:var(--ink);box-shadow:0 5px 0 rgba(0,0,0,.2)}
+  .final .btn{background:#2E6B34;color:#fff;box-shadow:0 5px 0 #1F4D25}
   footer{background:var(--ketchup);color:#FFE9D6;text-align:center;font-size:13.5px;padding:0 24px 100px}
   footer a{color:inherit}
   .stickycta{position:fixed;left:0;right:0;bottom:0;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(255,255,255,.95);border-top:1px solid var(--line);display:none;z-index:50}
@@ -191,6 +191,24 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   .hgrid b{display:block;font-size:17px}.hgrid span{color:var(--muted)}
   .hgrid img{width:100%;max-width:130px;height:110px;object-fit:contain;margin:0 auto 8px;display:block}
   @media (max-width:900px){.hgrid{grid-template-columns:repeat(2,1fr)}}
+
+  /* Full-bleed scenes (Jared, Nov 2 2026): farmer never under the copy card; no cropping on phones. */
+  .bleed{padding:0!important;background:none!important;border-radius:0!important;margin-bottom:0!important}
+  .bleed .wrap{display:block;max-width:none;padding:0;position:relative}
+  .bleed .art{margin:0}
+  .bleed .art img{width:100%;height:auto;max-width:none;border-radius:0;filter:none;box-shadow:none;display:block}
+  .bleed .copy{background:#fff;padding:28px 24px 36px}
+  .hero.bleed .copy h1{margin-top:4px}
+  .hero.bleed .eyebrow,.hero.bleed .sub{color:var(--ink)}
+  @media (min-width:901px){
+    .bleed .art img{height:78vh;min-height:540px;max-height:900px;object-fit:cover}
+    .hero.bleed .art img{height:auto;max-height:none;aspect-ratio:2/1;object-fit:cover;object-position:center}
+    .gift.bleed .art img{object-position:center 42%}                         /* veggie scene: farmer right */
+    .bleed .copy{position:absolute;z-index:2;bottom:48px;max-width:520px;width:40vw;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);padding:30px 32px;border-radius:26px;box-shadow:0 18px 40px rgba(38,33,26,.18)}
+    .hero.bleed .copy{left:5vw;max-width:560px;width:42vw}                   /* herb panorama: farmer right of centre */
+    .gift.bleed .copy{left:5vw}                                              /* veggie scene: farmer on the right */
+  }
+  @media (min-width:901px) and (max-width:1180px){.bleed .copy{width:44vw;bottom:32px}}
 </style>
 </head>
 <body>
@@ -200,9 +218,9 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   <nav class="navlinks" aria-label="Main"><a class="tlink" href="/">Veggie<span class="navlong"> Garden</span> Kit</a><a class="tlink" href="blog/">Blog</a><a class="tlink" href="planting/">Planting<span class="navlong"> by State</span></a><a class="tlink ws" href="#wholesale">Wholesale</a><a class="btn" href="/">See the Veggie Kit</a></nav>
 </div></header>
 
-<section class="hero herohero">
+<section class="hero bleed">
   <div class="wrap">
-    <div>
+    <div class="copy">
       <p class="eyebrow">Herb Garden Kit · 10 Seed Packets</p>
       <h1>Fresh herbs, <em>year round.</em></h1>
       <p class="sub">Ten culinary herb varieties, 1,000+ seeds and a 24-page grow guide, in the same slide-out keepsake box as the Veggie Garden Kit.</p>
@@ -212,15 +230,15 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
       </div>
       <p class="assure">Shops can order ahead now: <a href="#wholesale" style="color:var(--ink)">get the wholesale pricing guide</a>. Growing vegetables already? <a href="/" style="color:var(--ink)">See the Veggie Garden Kit</a>.</p>
     </div>
-    <div class="art"><img class="cut" src="media/site/farmer/farmer-herbs.webp" srcset="media/site/farmer/farmer-herbs.webp 1x, media/site/farmer/farmer-herbs@2x.webp 2x" width="900" height="900" alt="Claymation scene: the Happy Farmer, a tiny clay farmer with a hummingbird on his hat, walking between giant potted basil, chives, dill, rosemary and mint on a sunny windowsill" fetchpriority="high"></div>
+    <div class="art"><picture><source media="(min-width:901px)" srcset="media/site/farmer/farmer-herbs-wide-1x.webp 1x, media/site/farmer/farmer-herbs-wide.webp 2x" width="3200" height="1600"><img class="cut" src="media/site/farmer/farmer-herbs.webp" srcset="media/site/farmer/farmer-herbs.webp 1x, media/site/farmer/farmer-herbs@2x.webp 2x" width="900" height="900" alt="Claymation scene: the Happy Farmer, a tiny clay farmer with a hummingbird on his hat, walking between giant potted basil, chives, dill, rosemary and mint on a sunny windowsill" fetchpriority="high"></picture></div>
   </div>
 </section>
 
 <section class="values" aria-label="What you get">
   <div class="wrap grid">
-    <div class="vcard clay"><img src="media/site/icon-varieties.webp" width="320" height="320" alt="" loading="lazy"><div class="n">10</div><p>Culinary herbs</p></div>
-    <div class="vcard clay"><img src="media/site/icon-guide.webp" width="320" height="320" alt="" loading="lazy"><div class="n">24</div><p>Page grow guide</p></div>
-    <div class="vcard clay"><img src="media/site/icon-box.webp" width="320" height="320" alt="" loading="lazy"><div class="n">1</div><p>Keepsake box</p></div>
+    <div class="vcard clay"><img src="media/site/icon-herbs.webp" width="320" height="320" alt="" loading="lazy"><div class="n">10</div><p>Culinary herbs</p></div>
+    <div class="vcard clay"><div class="n" style="margin-top:28px">24</div><p>Page grow guide</p></div>
+    <div class="vcard clay"><div class="n" style="margin-top:28px">1</div><p>Keepsake box</p></div>
     <div class="vcard clay"><img src="media/site/icon-seeds.webp" width="320" height="320" alt="" loading="lazy"><div class="n">1,000+</div><p>Seeds</p></div>
   </div>
 </section>
@@ -237,7 +255,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
         <li><b>Year-round sowing</b>: cool-season and warm-season herbs, so there is always something to start</li>
       </ul>
     </div>
-    <div class="art"><img class="cut" src="media/brand/clay/grow-guide.png" width="1254" height="1254" loading="lazy" alt="Claymation model of the Happy Seeds grow guide booklet"></div>
+    <div class="art"><img class="cut" src="media/site/icon-herbs.webp" width="640" height="640" loading="lazy" alt="Clay models of basil, chives and rosemary" style="max-width:420px;margin:0 auto"></div>
   </div>
 </section>
 
@@ -259,10 +277,10 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   </div>
 </section>
 
-<section class="band gift">
-  <div class="wrap split">
+<section class="band gift bleed">
+  <div class="wrap">
     <div class="art"><img class="cut" src="media/site/farmer/farmer-hero.webp" srcset="media/site/farmer/farmer-hero.webp 1x, media/site/farmer/farmer-hero@2x.webp 2x" width="1448" height="1086" loading="lazy" alt="Claymation scene: the Happy Farmer watering seedlings under giant tomato plants, kale and a sunflower"></div>
-    <div>
+    <div class="copy">
       <p class="eyebrow">Already growing?</p>
       <h2>Start with the <em>Veggie Garden Kit.</em></h2>
       <p class="sub">The herb kit is on its way. The Veggie Garden Kit is here now: ten vegetable varieties, 1,000+ lab-tested non-GMO seeds, a 24-page grow guide and the same keepsake box. $24.99.</p>
@@ -283,7 +301,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
         <li><span>Minimum order</span><b>10 units</b></li>
         <li><span>Delivery</span><b>at launch</b></li>
       </ul>
-      <div class="art"><img class="cut" src="media/site/farmer/farmer-wholesale.webp" srcset="media/site/farmer/farmer-wholesale.webp 1x, media/site/farmer/farmer-wholesale@2x.webp 2x" width="1448" height="1086" loading="lazy" alt="Claymation scene: three Happy Seeds boxes on a garden-shop counter while the Happy Farmer admires giant potted seedlings"></div>
+      <div class="art"><img class="cut" src="media/site/farmer/farmer-herb-wholesale.webp" srcset="media/site/farmer/farmer-herb-wholesale.webp 1x, media/site/farmer/farmer-herb-wholesale@2x.webp 2x" width="1448" height="1086" loading="lazy" alt="Claymation scene: the Happy Farmer on a garden-shop counter admiring a row of giant potted clay herbs"></div>
       <p class="assure">Questions? Email <a href="mailto:hello@growhappyseeds.com" style="color:var(--ink)">hello@growhappyseeds.com</a></p>
     </div>
     <div class="wform">
