@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://growhappyseeds.com/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://growhappyseeds.com/media/site/og.jpg</image:loc></image:image>
@@ -54,5 +54,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/seedling.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/best-seed-gifts/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/giftbag.jpg</image:loc></image:image>
   </url>
 </urlset>
