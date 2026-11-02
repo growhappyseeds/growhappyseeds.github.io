@@ -13,7 +13,7 @@
    "canva": "MAHY1Us7O0k",
    "note": "Independent reviewer, round 2: 9/10 (round 1: 7, hook 'Stock ten packets in one yellow box.' too close to the used 'Garden shops: ten packets, one shelf-ready box.'; hook rewritten, image unchanged). Three boxes upright, tab centered on the bottom short end of the front box, print correct, chalkboard blank, bell and plants are scenery; claims in Product facts (MOQ 10, 14-day delivery, packed in the USA), no wholesale price stated; wholesale email CTA intentional. Nit: spine lettering on the two rear boxes is partly garbled and out of focus.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/shopcounter.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "eggplant",
@@ -26,7 +26,7 @@
    "canva": "MAHY1QtovMg",
    "note": "Independent reviewer, round 1: 9/10. Box upright, tab centered on the bottom short end, print correct; the single packet is bold lime green with one eggplant picture and no words (matches the real Eggplant 'Black Beauty' packet); clay eggplants are a kit vegetable; basil and framed tomato picture are scenery; claims in Product facts; hook 6 words, unused. Reservation: continues the \"Variety 'Cultivar': the [adjective] one\" series.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/eggplant.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "onepot",
@@ -39,7 +39,7 @@
    "canva": "MAHY1fTop3I",
    "note": "Independent reviewer, round 1: 8/10. Box upright, tab centered on the bottom short end, print correct; dark green kale packet with one leaf and no words matches the real packet; pot, watering can and basil are scenery; claims in Product facts; hook 6 words, unused. Reservation: the kale-on-a-windowsill idea has run twice before and the city-windowsill scene is close to the October city static; least fresh of the batch.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/onepot.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "desk",
@@ -52,7 +52,7 @@
    "canva": "MAHY1a-zOxU",
    "note": "Independent reviewer, round 1: 8/10. Box upright on a desk, tab centered on the bottom short end, print correct; mug, laptop, books, lamp, blank note and houseplant are wordless scenery; claims in Product facts; hook 6 words, unused. Reservation: the supporting line sells the slide-out box and foam insert while the image shows the box closed.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/desk.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "giftbag",
@@ -65,7 +65,7 @@
    "canva": "MAHY1VK_IKQ",
    "note": "Independent reviewer, round 2: 8/10 (round 1: 7, hook 'Wrap it. They'll grow it.' too close to the queued 'Gift a box. They grow the rest.'; hook rewritten, image unchanged). Box upright in front of a kraft gift bag, tab centered on the bottom short end, print correct; bow, tissue, cocoa mug, pine sprig, stocking and fireplace are wordless holiday styling; claims in Product facts (Prime shipping, 30-day returns included); hook 7 words, unused. Notes: 'windowsill' now appears in seven hooks and should be rested; no literal tree or windowsill in frame.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/giftbag.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "fan",
@@ -78,7 +78,7 @@
    "canva": "MAHY1Zu3aIA",
    "note": "Independent reviewer, round 1: 8/10. Drawer slides lengthwise out of the short end, full width, black foam, grow guide picture-only, tab centered on the drawer's short front (matches the real frames); print correct; four fanned packets each a different bold colour (purple turnip, green leaf, pink Chioggia beet, orange carrot), one vegetable each, no words; claims in Product facts; hook 5 words. Reservation: 'Ten named packets' is lifted from a used hook and the line reads a little like a spec sheet.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/fan.jpg",
-   "status": "Approved"
+   "status": "Rejected"
   },
   {
    "key": "shopshelf-v4",
@@ -91,7 +91,7 @@
    "canva": "MAHZGwiH8Vg",
    "note": "Independent reviewer, round 2: 8/10 (round 1: 7, invented red script on the front box's long side, long supporting line, hook too close to used hooks; image regenerated with plain box sides, copy rewritten). Claims all in Product facts (MOQ 10, delivery within 14 days, Carrot 'Danvers 126', Tomato 'Floradade', ten packets, packed in the USA); no price, no emoji; hook 7 words and new. Image: no added text, no invented words, box sides plain, only kit vegetables; each of the three upright boxes has its black pull tab centred on the bottom short end, no drawer shown. Marked down: at full size '1,000+ SEEDS' and the 'VARIETY MIX' badge text are soft smudges, and the boxes render as flat panels without the raised clay relief of the foundation art. Reservation: wholesale email CTA instead of a standards-table CTA (as on the two earlier wholesale posts).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/shopshelf-v4.jpg",
-   "status": "Pending"
+   "status": "Rejected"
   },
   {
    "key": "firstfrost",
@@ -104,7 +104,7 @@
    "canva": "MAHZMm7ti4E",
    "note": "Independent reviewer, round 1: 9/10. Image 1080x1350, no added text; only readable words are the real box print, all legible and matching the foundation box art including the garland; black pull tab centered on the bottom short end, box upright, no drawer; clay style matches the foundation; mascot, watering can, trowel and frost carry no words; no packets, no non-kit vegetables. Hook 6 words, unused; claims in Product facts; standard CTA; 4 hashtags with a variety tag. Nit: the supporting line is long and 'Spring takes the full kit' echoes the used hook 'Missed fall sowing? Spring takes all ten.' EX-02 amazon_cta.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/firstfrost.jpg",
-   "status": "Pending"
+   "status": "Rejected"
   },
   {
    "key": "farmer-tomato",
@@ -131,6 +131,162 @@
    "note": "Happy Farmer standard (Jared, Nov 1): farmer seated on the pot rim, kale and spinach tower over him (~15%), admiring, no box, no text on image; 1080x1350 (Canva MAHZvPsBV9s, design DAHY1SD7IiY page 13). Claims in Product facts (Kale 'Red Russian', Spinach 'Bloomsdale', cool-season, five windowsill packets). Hook 4 words, unused; 'windowsill' rested from the hook. EX-02 save_cta.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-windowsill.jpg",
    "status": "Approved"
+  },
+  {
+   "key": "farmer-carrot",
+   "ct": "CT-20261102-01",
+   "aq": "AQ-20261102-01",
+   "angle": "variety",
+   "hook": "Worth the wait, says the Happy Farmer.",
+   "time": "2026-11-04 11:30",
+   "caption": "Worth the wait, says the Happy Farmer.\nCarrot 'Danvers 126' is one of the five cool-season packets; direct sow it and let it take its time. The 24-page guide covers depth, spacing and watering.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #danverscarrot",
+   "canva": "MAHZvaTJIA4",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer kneeling, carrot taller than he is, rows of tops tower over him; hummingbird on the hat; no box, no text. Claims in Product facts (Carrot 'Danvers 126', cool-season, direct sow, guide contents). Canva MAHZvaTJIA4, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-carrot.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-cucumber",
+   "ct": "CT-20261102-02",
+   "aq": "AQ-20261102-02",
+   "angle": "variety",
+   "hook": "He climbs. The cucumbers climb higher.",
+   "time": "2026-11-05 11:30",
+   "caption": "He climbs. The cucumbers climb higher.\nCucumber 'Marketmore 76' is a warm-season packet that sows in spring; give it something to climb and the guide covers the rest.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #marketmore76",
+   "canva": "MAHZvU1ATOM",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer at the foot of a trellis, cucumbers above him larger than he is; hummingbird on the hat; no box, no text. Claims in Product facts (Cucumber 'Marketmore 76', warm season, container with trellis). Canva MAHZvU1ATOM, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-cucumber.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-beet",
+   "ct": "CT-20261102-03",
+   "aq": "AQ-20261102-03",
+   "angle": "variety",
+   "hook": "Candy stripes, grown from a packet.",
+   "time": "2026-11-06 11:30",
+   "caption": "Candy stripes, grown from a packet.\nBeet 'Chioggia' shows its rings when you slice it, and it is one of the five cool-season packets for a sunny window or balcony planter.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #chioggiabeet",
+   "canva": "MAHZvafAUDM",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Clay cutting board, beet halves bigger than the farmer, whole clay beets behind; hummingbird on the hat; no box, no text. Regenerated once at Jared's note (first pass too photoreal). Claims in Product facts. Canva MAHZvafAUDM, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-beet.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-eggplant",
+   "ct": "CT-20261102-04",
+   "aq": "AQ-20261102-04",
+   "angle": "variety",
+   "hook": "Glossy enough to see himself in.",
+   "time": "2026-11-07 11:30",
+   "caption": "Glossy enough to see himself in.\nEggplant 'Black Beauty' sows in spring and is one of ten named packets; depth, spacing and watering are in the 24-page guide.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #blackbeautyeggplant",
+   "canva": "MAHZvZlQT8Y",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer patting an eggplant twice his height; hummingbird on the hat; no box, no text. Claims in Product facts (Eggplant 'Black Beauty', spring sowing, guide). Canva MAHZvZlQT8Y, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-eggplant.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-pepper",
+   "ct": "CT-20261102-05",
+   "aq": "AQ-20261102-05",
+   "angle": "variety",
+   "hook": "The pepper is taller than the farmer.",
+   "time": "2026-11-08 11:30",
+   "caption": "The pepper is taller than the farmer.\nPepper 'Anaheim Chili' is a warm-season packet that sows in spring, one of ten named varieties in the kit.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #anaheimchili",
+   "canva": "MAHZvcMI3-Y",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer in a terracotta pot beside peppers longer than he is; hummingbird on the hat; no box, no text. Claims in Product facts (Pepper 'Anaheim Chili', warm season). Canva MAHZvcMI3-Y, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-pepper.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-melon",
+   "ct": "CT-20261102-06",
+   "aq": "AQ-20261102-06",
+   "angle": "variety",
+   "hook": "His biggest harvest yet.",
+   "time": "2026-11-09 11:30",
+   "caption": "His biggest harvest yet.\nMelon 'Honeydew Orange' is the surprise among the ten packets: a spring sowing, full sun and room to sprawl.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #honeydewmelon",
+   "canva": "MAHZvZsfuGU",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer leaning on a melon three times his height; hummingbird on the hat; no box, no text. Claims in Product facts (Melon 'Honeydew Orange', warm season, spring sowing). Canva MAHZvZsfuGU, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-melon.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-sprout",
+   "ct": "CT-20261102-07",
+   "aq": "AQ-20261102-07",
+   "angle": "grow_helper",
+   "hook": "Day one of something good.",
+   "time": "2026-11-10 11:30",
+   "caption": "Day one of something good.\nEvery packet starts like this. Log your first sprout in the free Happy Grow Helper and we'll remind you what to look for next.\nFree Grow Helper, link in bio\n\n#seedstarting #balconygarden #giftideas #happygrowhelper",
+   "canva": "MAHZvWlEIRY",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer kneeling in a seed tray beside a seedling as tall as he is; hummingbird on the hat; no box, no text. CTA points to growhappyseeds.com/grow (BLOG/tool promotion slot; Jared keeps the link in bio). Canva MAHZvWlEIRY, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-sprout.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-harvest",
+   "ct": "CT-20261102-08",
+   "aq": "AQ-20261102-08",
+   "angle": "whats_inside",
+   "hook": "The whole kit, picked.",
+   "time": "2026-11-11 11:30",
+   "caption": "The whole kit, picked.\nTomato, carrot, turnip, eggplant, cucumber and kale, all from the ten named packets in one keepsake box.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #floradadetomato",
+   "canva": "MAHZvWpys4M",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer on the basket rim, every vegetable larger than he is, all kit vegetables; hummingbird on the hat; no box, no text. Claims in Product facts (ten named packets, keepsake box). Canva MAHZvWpys4M, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-harvest.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-turnip",
+   "ct": "CT-20261102-09",
+   "aq": "AQ-20261102-09",
+   "angle": "variety",
+   "hook": "Turnip 'Purple Top': bigger than he is.",
+   "time": "2026-11-12 11:30",
+   "caption": "Turnip 'Purple Top': bigger than he is.\nOne of the five cool-season packets for a sunny window or balcony planter; the 24-page guide covers depth, spacing and watering.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #purpletopturnip",
+   "canva": "MAHZvQfXFr4",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer hugging a turnip bigger than he is, leafy tops high above; hummingbird on the hat; no box, no text. Claims in Product facts (Turnip 'Purple Top', cool season, guide). Hook follows the \"Variety 'Cultivar': ...\" series once more. Canva MAHZvQfXFr4, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-turnip.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-spinach",
+   "ct": "CT-20261102-10",
+   "aq": "AQ-20261102-10",
+   "angle": "first_win",
+   "hook": "Lost in the spinach.",
+   "time": "2026-11-13 11:30",
+   "caption": "Lost in the spinach.\nSpinach 'Bloomsdale' is one of the five cool-season packets for a sunny window or balcony planter; the guide covers depth, spacing and watering.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #bloomsdalespinach",
+   "canva": "MAHZvX1FZYU",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Farmer walking between spinach leaves three times his height; hummingbird on the hat; no box, no text. Claims in Product facts (Spinach 'Bloomsdale', cool season). Canva MAHZvX1FZYU, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-spinach.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-cooking",
+   "ct": "CT-20261102-11",
+   "aq": "AQ-20261102-11",
+   "angle": "cooking",
+   "hook": "From the packet to the pan.",
+   "time": "2026-11-14 11:30",
+   "caption": "From the packet to the pan.\nTomato 'Floradade', Kale 'Red Russian' and Cucumber 'Marketmore 76', three of the ten packets, on one cutting board.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #floradadetomato",
+   "canva": "MAHZvTlnkbQ",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Clay kitchen, tomato slices bigger than the farmer; hummingbird on the hat; no box, no text. Regenerated once at Jared's note (first pass too photoreal). Claims in Product facts (three named varieties, ten packets). Canva MAHZvTlnkbQ, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-cooking.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-eating",
+   "ct": "CT-20261102-12",
+   "aq": "AQ-20261102-12",
+   "angle": "cooking",
+   "hook": "This is the whole point.",
+   "time": "2026-11-15 11:30",
+   "caption": "This is the whole point.\nMelon 'Honeydew Orange', tomato and cucumber, eaten in the garden they grew in. Ten named packets, one box, a 24-page guide.\nKit's on Amazon, link in bio\n\n#seedstarting #balconygarden #giftideas #honeydewmelon",
+   "canva": "MAHZvftwuLE",
+   "note": "Happy Farmer standard (Jared, Nov 1-2): farmer from the mascot badge with the hummingbird, in the plant world, admiring the plants, 10-20% of plant height; stronger clay look per Jared's Nov 2 note. Clay picnic, farmer eating a melon slice as big as he is, plants towering behind; hummingbird on the hat; no box, no text. Regenerated once at Jared's note (first pass too photoreal). Claims in Product facts. Canva MAHZvftwuLE, design DAHY1SD7IiY.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-eating.jpg",
+   "status": "Pending"
   }
  ]
 }
