@@ -7,8 +7,8 @@ updated: 2026-11-01
 eyebrow: "Buying guide"
 read: 6
 answer: "A seed kit is the better choice for a first garden because it bundles a curated set of beginner crops with instructions, at a lower cost per variety than buying ten packets one by one. Individual packets are better once you know which specific varieties you want, or you are planting a large plot."
-image: "media/2026-10/statics/inside.jpg"
-image_alt: "The Happy Seeds Veggie Garden Kit drawer slid open to show ten colored seed packets beside the grow guide"
+image: "media/site/farmer/farmer-inside.jpg"
+image_alt: "The Happy Seeds Veggie Garden Kit standing upright with its drawer pulled out of the short end, ten colored seed packets and the grow guide inside, the Happy Farmer admiring"
 image_caption: "One kit, ten named varieties and the guide that explains each one."
 kit_heading: "One box instead of ten packets"
 about: "seed kits versus seed packets"

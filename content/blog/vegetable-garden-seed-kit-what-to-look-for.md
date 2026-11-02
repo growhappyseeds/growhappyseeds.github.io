@@ -7,8 +7,8 @@ updated: 2026-11-02
 eyebrow: "Buying guide"
 read: 7
 answer: "A good vegetable garden seed kit names every variety, prints a germination rate on each packet, holds enough seed for a small garden, and includes a real grow guide. Also check that the seed is non-GMO and open-pollinated, that the kit gives a pot size for each crop, and that the box is ready to give."
-image: "media/2026-11/statics/fan.jpg"
-image_alt: "A clay tomato character kneels beside the open Happy Seeds Veggie Garden box, holding up a purple turnip packet with spinach, beet and carrot packets fanned on the table"
+image: "media/site/farmer/farmer-wholesale.jpg"
+image_alt: "Claymation scene: three Happy Seeds boxes on a garden-shop counter while the Happy Farmer admires giant potted seedlings"
 image_caption: "Read the packets before you buy the box: variety names and a germination rate are the two lines that matter most."
 subtitle: "Seven things to check on the box and the packets before you buy, and why each one matters for a first garden."
 kit_heading: "A kit that passes all seven checks"

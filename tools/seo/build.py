@@ -77,6 +77,17 @@ def head(title, desc, canonical, ld, og_image=None, extra=""):
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z51LD2VZH1"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-Z51LD2VZH1');</script>
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
+<!-- Meta Pixel (Dataset 1606389660991888) -->
+<script>
+!function(f,b,e,v,n,t,s){{if(f.fbq)return;n=f.fbq=function(){{n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)}};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1606389660991888');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></noscript>
 {extra}</head>
 <body>
 <header><div class="wrap top">
@@ -86,6 +97,26 @@ def head(title, desc, canonical, ld, og_image=None, extra=""):
 """
 
 FOOT = f"""
+<!-- Happy Seeds Grow Club signup (Laylo drop 6Bcp7, email + SMS) -->
+<section class="growclub" id="grow-club" style="padding:56px 24px;background:#FFF6E3">
+  <div class="wrap" style="max-width:720px;margin:0 auto;text-align:center">
+    <p style="margin:0 0 6px;font-size:14px;letter-spacing:.08em;text-transform:uppercase;opacity:.7">Happy Seeds Grow Club</p>
+    <h2 style="margin:0 0 10px">Grow with us, all year.</h2>
+    <p style="margin:0 0 22px;max-width:560px;margin-left:auto;margin-right:auto">Monthly grow-alongs, first access to new kits, member pricing, and a place to show off what you grew. Email or text, your call.</p>
+    <script src="https://embed.laylo.com/laylo-sdk.js"></script>
+<iframe
+  id="laylo-drop-6Bcp7"
+  title="Join the Happy Seeds Grow Club"
+  frameborder="0"
+  scrolling="no"
+  allow="web-share"
+  allowtransparency="true"
+  style="width: 1px; min-width: 100%; max-width: 1000px"
+  src="https://embed.laylo.com?dropId=6Bcp7&color=6cc97a&minimal=false&theme=light&customTitle=Join%20The%20Community%20%F0%9F%8C%B1&submitButtonText=Let's%20Grow">
+</iframe>
+  </div>
+</section>
+
 <footer><div class="wrap">© {datetime.date.today().year} Happy Seeds · growhappyseeds.com · <a href="mailto:hello@growhappyseeds.com">hello@growhappyseeds.com</a>
 <nav><a href="/">Veggie Garden Kit</a><a href="/herb-kit.html">Herb Garden Kit</a><a href="/blog/">Blog</a><a href="/planting/">Planting by state</a><a href="/facts.html">Brand facts</a><a href="/#wholesale">Wholesale</a></nav></div></footer>
 </body>
@@ -148,7 +179,7 @@ def faq_html(faq):
 md = markdown.Markdown(extensions=["tables", "toc", "sane_lists"])
 TEMPLATE = (ROOT / "tools/blog/_template.html").read_text()
 BLOG_DIR = ROOT / "blog"
-DEFAULT_IMAGE = "media/2026-10/statics/inside.jpg"
+DEFAULT_IMAGE = "media/site/farmer/farmer-inside.jpg"
 DEFAULT_ALT = "The open Happy Seeds Veggie Garden Kit box showing ten colored seed packets and the grow guide"
 
 def human_date(d):
@@ -333,6 +364,7 @@ def render_planting_index():
   <p class="eyebrow">Planting calendars</p>
   <h1>When to plant vegetables, <em>state by state.</em></h1>
   <p class="sub">Frost windows, USDA zones and a sowing calendar for the ten vegetables in the Happy Seeds kit, for every US state.</p>
+  <figure style="margin:22px 0 28px;border-radius:24px;overflow:hidden;border:3px solid #26211A;box-shadow:0 8px 0 #C9B48A"><img src="/media/site/farmer/farmer-sowing.webp" width="1200" height="900" alt="Claymation scene: the Happy Farmer, a tiny clay farmer with a hummingbird on his hat, sowing seeds into a garden furrow under giant kale and carrot tops" style="display:block;width:100%;height:auto" fetchpriority="high"></figure>
   <h2>How to use these calendars</h2>
   <p>Every planting date comes from two numbers: your area's average last spring frost and first fall frost. Each state page gives the typical window for both, then counts forward and back from them for ten common vegetables.</p>
   <p>Cool-season crops (spinach, kale, carrots, beets, turnips) go in the ground 2 to 6 weeks before the last frost and again in late summer for a fall harvest. Warm-season crops (tomatoes, peppers, eggplant, cucumbers, melons) wait until the soil is warm, 1 to 2 weeks after the last frost; tomatoes, peppers and eggplant are usually started indoors 6 to 8 weeks earlier.</p>
