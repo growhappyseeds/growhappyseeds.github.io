@@ -46,7 +46,7 @@ updated: 2026-10-31
 eyebrow: "..."
 read: 6
 answer: "..."         # two sentences, max 60 words; shown as "The short answer"
-image: "media/2026-10/statics/inside.jpg"   # hero, 1080x1350, an approved claymation static from media/*/statics/
+image: "media/site/farmer/farmer-inside.jpg"   # hero, 1080x1350, an approved claymation static from media/*/statics/
 image_alt: "..."      # describe what is actually in the picture
 image_caption: "..."  # optional, one line under the hero
 subtitle: "..."       # optional, one sentence under the H1; defaults to description

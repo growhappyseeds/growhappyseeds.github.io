@@ -179,7 +179,7 @@ def faq_html(faq):
 md = markdown.Markdown(extensions=["tables", "toc", "sane_lists"])
 TEMPLATE = (ROOT / "tools/blog/_template.html").read_text()
 BLOG_DIR = ROOT / "blog"
-DEFAULT_IMAGE = "media/2026-10/statics/inside.jpg"
+DEFAULT_IMAGE = "media/site/farmer/farmer-inside.jpg"
 DEFAULT_ALT = "The open Happy Seeds Veggie Garden Kit box showing ten colored seed packets and the grow guide"
 
 def human_date(d):
