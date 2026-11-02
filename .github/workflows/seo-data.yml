@@ -1,0 +1,39 @@
+# Daily Search Console + GA4 pull for the SEO agents.
+# Reads only. Writes tools/seo/data/*.json to main; GitHub Pages does not link to tools/.
+# Needs the repository secret GOOGLE_SA_JSON (a Google service account key) whose account is
+# a user on Search Console property sc-domain:growhappyseeds.com and a Viewer on GA4 property 558625133.
+name: SEO data pull
+on:
+  schedule:
+    - cron: '20 10 * * *'   # 10:20 UTC = 05:20/06:20 ET, before the 06:54 ET Content Run and the 07:10 ET Analyst
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: seo-data
+  cancel-in-progress: false
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q google-auth requests
+      - name: Pull Search Console and GA4
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+        run: |
+          if [ -z "$GOOGLE_SA_JSON" ]; then echo "GOOGLE_SA_JSON secret is not set; see tools/seo/README.md (Analytics data)"; exit 1; fi
+          python3 tools/seo/pull_data.py
+      - name: Commit data
+        run: |
+          git config user.name "seo-data-bot"
+          git config user.email "seo-data-bot@users.noreply.github.com"
+          git add tools/seo/data
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "SEO data $(date -u +%F)"
+          git push
