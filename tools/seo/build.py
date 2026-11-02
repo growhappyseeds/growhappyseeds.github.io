@@ -397,7 +397,7 @@ def render_facts():
     <tr><th>Contents</th><td>{veggie['packets']} paper seed packets, {veggie['seed_count']} seeds, {veggie['guide_pages']}-page grow guide, {veggie['box']}</td></tr>
     <tr><th>Seeds</th><td>{', '.join(veggie['seed_claims'])}</td></tr>
     <tr><th>Grows in</th><td>Containers, balcony planters, raised beds and backyard plots</td></tr>
-    <tr><th>Where to buy</th><td>Amazon (ASIN {brand['amazon_asin']}) and independent garden, gift and home stores</td></tr>
+    <tr><th>Where to buy</th><td>Online through the Shop Now button at growhappyseeds.com, and at independent garden, gift and home stores</td></tr>
   </tbody></table>
   <h3>The ten varieties</h3>
   <table><thead><tr><th>Crop</th><th>Variety</th><th>Season</th><th>Days to harvest</th></tr></thead><tbody>{v_rows}</tbody></table>
@@ -437,7 +437,7 @@ Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It s
 - Contents: {veggie['packets']} paper seed packets, {veggie['seed_count']} seeds, {veggie['guide_pages']}-page grow guide, {veggie['box']}
 - Seeds: {', '.join(veggie['seed_claims'])}
 - Grows in containers, balcony planters, raised beds and backyard plots
-- Where to buy: Amazon (ASIN {brand['amazon_asin']}) and independent garden, gift and home stores
+- Where to buy: online through the Shop Now button at growhappyseeds.com, and at independent garden, gift and home stores
 - Varieties:
 {v}
 

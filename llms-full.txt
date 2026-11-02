@@ -9,7 +9,7 @@ Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It s
 - Contents: 10 paper seed packets, 1,000+ seeds, 24-page grow guide, slide-out keepsake box with black foam insert and a fabric pull tab
 - Seeds: non-GMO, open-pollinated, lab tested, germination rate printed on every packet
 - Grows in containers, balcony planters, raised beds and backyard plots
-- Where to buy: Amazon (ASIN B0H1P1HGZW) and independent garden, gift and home stores
+- Where to buy: online through the Shop Now button at growhappyseeds.com, and at independent garden, gift and home stores
 - Varieties:
 - Tomato 'Floradade' (warm-season, 75 to 80 days from transplant)
 - Carrot 'Danvers 126' (cool-season, 65 to 75 days)
@@ -123,8 +123,8 @@ updated: 2026-11-02
 eyebrow: "Buying guide"
 read: 7
 answer: "A good vegetable garden seed kit names every variety, prints a germination rate on each packet, holds enough seed for a small garden, and includes a real grow guide. Also check that the seed is non-GMO and open-pollinated, that the kit gives a pot size for each crop, and that the box is ready to give."
-image: "media/2026-11/statics/fan.jpg"
-image_alt: "A clay tomato character kneels beside the open Happy Seeds Veggie Garden box, holding up a purple turnip packet with spinach, beet and carrot packets fanned on the table"
+image: "media/site/farmer/farmer-wholesale.jpg"
+image_alt: "Claymation scene: three Happy Seeds boxes on a garden-shop counter while the Happy Farmer admires giant potted seedlings"
 image_caption: "Read the packets before you buy the box: variety names and a germination rate are the two lines that matter most."
 subtitle: "Seven things to check on the box and the packets before you buy, and why each one matters for a first garden."
 kit_heading: "A kit that passes all seven checks"
@@ -249,8 +249,8 @@ updated: 2026-11-01
 eyebrow: "For beginners"
 read: 7
 answer: "The best vegetable seeds for beginners are fast, direct-sown crops such as radish, lettuce, spinach, kale, beets, turnips and bush beans, because they sprout in days and tolerate cool weather and uneven care. Tomatoes, peppers and cucumbers are the easiest warm-season crops once you plant them after the last frost."
-image: "media/2026-10/statics/tencolors.jpg"
-image_alt: "The open Happy Seeds Veggie Garden Kit box with ten clay seed-packet tiles laid out in front of it, one for each vegetable"
+image: "media/2026-11/statics/farmer-harvest.jpg"
+image_alt: "Claymation scene: the Happy Farmer celebrating on the rim of a harvest basket of giant clay tomatoes, carrots, a turnip, an eggplant, cucumbers and kale"
 image_caption: "Ten beginner crops in one box: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon."
 kit_heading: "Ten beginner crops, already chosen for you"
 about: "easy vegetables to grow from seed"
@@ -346,8 +346,8 @@ updated: 2026-11-01
 eyebrow: "Buying guide"
 read: 6
 answer: "A seed kit is the better choice for a first garden because it bundles a curated set of beginner crops with instructions, at a lower cost per variety than buying ten packets one by one. Individual packets are better once you know which specific varieties you want, or you are planting a large plot."
-image: "media/2026-10/statics/inside.jpg"
-image_alt: "The Happy Seeds Veggie Garden Kit drawer slid open to show ten colored seed packets beside the grow guide"
+image: "media/site/farmer/farmer-inside.jpg"
+image_alt: "The Happy Seeds Veggie Garden Kit standing upright with its drawer pulled out of the short end, ten colored seed packets and the grow guide inside, the Happy Farmer admiring"
 image_caption: "One kit, ten named varieties and the guide that explains each one."
 kit_heading: "One box instead of ten packets"
 about: "seed kits versus seed packets"
@@ -449,8 +449,8 @@ updated: 2026-11-01
 eyebrow: "Seed basics"
 read: 7
 answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."
-image: "media/2026-10/statics/spinach.jpg"
-image_alt: "A clay scene of the Happy Seeds box on a windowsill beside a planter of spinach seedlings being watered"
+image: "media/site/farmer/farmer-seeds.jpg"
+image_alt: "Claymation scene: the Happy Farmer with a magnifying glass, inspecting giant clay seeds spilling from a packet"
 image_caption: "The rate on the packet is a lab result; the seedlings on the sill are what it predicts."
 kit_heading: "Lab-tested, with the rate on the packet"
 about: "seed germination rate"
