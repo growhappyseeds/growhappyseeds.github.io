@@ -1,5 +1,5 @@
 @font-face{font-family:'Lilita One';src:url('/fonts/LilitaOne.ttf') format('truetype');font-display:swap}
-:root{--sun:#F6BE35;--sun-tint:#FFF3D6;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--bg:#FFFBF2;--card:#FFFFFF;--line:#EFE4CC;--ink:#26211A;--muted:#6B6254;--tile:#FAEBD3}
+:root{--sun:#F6BE35;--sun-tint:#FFF3D6;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--bg:#FFFFFF;--card:#FFFFFF;--line:#ECE6DA;--ink:#26211A;--muted:#6B6254;--tile:#F6F1E6}
 *{margin:0;padding:0;box-sizing:border-box}
 img{max-width:100%;height:auto;display:block}
 body{font-family:'Source Serif 4',Georgia,serif;background:var(--bg);color:var(--ink);font-size:18px;line-height:1.7}
@@ -21,7 +21,7 @@ strong{font-weight:600}
 .btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 .clay{border-radius:34px;box-shadow:inset 0 -6px 0 rgba(38,33,26,.06),inset 0 3px 0 rgba(255,255,255,.7),0 14px 30px rgba(38,33,26,.10)}
 /* header */
-header{position:sticky;top:0;z-index:20;background:rgba(255,251,242,.93);backdrop-filter:blur(6px)}
+header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.93);backdrop-filter:blur(6px)}
 .top{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;font-family:'Jost',sans-serif}
 .brand{display:block;text-decoration:none}
 .brand img{height:40px;width:auto}

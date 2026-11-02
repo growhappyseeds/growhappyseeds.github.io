@@ -1,7 +1,7 @@
 /* Happy Seeds shared stylesheet for blog, planting and facts pages.
    Mirrors the tokens in index.html so every page reads as one site. */
 @font-face{font-family:'Lilita One';src:url('/fonts/LilitaOne.ttf') format('truetype');font-display:swap}
-:root{--sun:#F6BE35;--sun-tint:#FFF3D6;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--bg:#FFFBF2;--card:#FFFFFF;--line:#EFE4CC;--ink:#26211A;--muted:#6B6254;--tile:#FAEBD3}
+:root{--sun:#F6BE35;--sun-tint:#FFF3D6;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--bg:#FFFFFF;--card:#FFFFFF;--line:#ECE6DA;--ink:#26211A;--muted:#6B6254;--tile:#F6F1E6}
 *{margin:0;padding:0;box-sizing:border-box}
 img{max-width:100%;height:auto;display:block}
 body{font-family:'Jost','Helvetica Neue',Arial,sans-serif;background:var(--bg);color:var(--ink);font-size:17px;line-height:1.65}
@@ -19,7 +19,7 @@ a{color:var(--ketchup)}
 .btn{display:inline-block;font-weight:600;font-size:17px;background:var(--ketchup);color:#fff;text-decoration:none;padding:13px 26px;border-radius:999px;box-shadow:0 5px 0 var(--ketchup-deep),0 12px 22px rgba(214,54,43,.22);transition:transform .12s ease}
 .btn:hover{transform:translateY(-2px)}
 .btn:focus-visible,a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
-header{position:sticky;top:0;z-index:20;background:rgba(255,251,242,.93);backdrop-filter:blur(6px)}
+header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.93);backdrop-filter:blur(6px)}
 .top{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;flex-wrap:wrap}
 .brand img{height:40px;width:auto;display:block}
 .navlinks{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
