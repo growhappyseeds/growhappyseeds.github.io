@@ -16,7 +16,7 @@ a{color:var(--ketchup)}
 strong{font-weight:600}
 .eyebrow{font-family:'Jost',sans-serif;font-weight:600;letter-spacing:.18em;text-transform:uppercase;font-size:13px;color:var(--leaf)}
 .sub{font-family:'Jost',sans-serif;font-size:19px;color:var(--muted);max-width:640px}
-.btn{display:inline-block;font-family:'Jost','Helvetica Neue',Arial,sans-serif;font-weight:600;font-size:17px;background:var(--ketchup);color:#fff;text-decoration:none;padding:14px 28px;border-radius:999px;box-shadow:0 5px 0 var(--ketchup-deep),0 12px 22px rgba(214,54,43,.22);transition:transform .12s ease}
+.btn{display:inline-block;font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;letter-spacing:.02em;font-size:20px;background:var(--leaf);color:#fff;text-decoration:none;padding:12px 28px 13px;border-radius:999px;box-shadow:0 5px 0 #1F4D25,0 12px 22px rgba(46,107,52,.25)}
 .btn:hover{transform:translateY(-2px)}
 .btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 .clay{border-radius:34px;box-shadow:inset 0 -6px 0 rgba(38,33,26,.06),inset 0 3px 0 rgba(255,255,255,.7),0 14px 30px rgba(38,33,26,.10)}

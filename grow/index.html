@@ -39,6 +39,7 @@ gtag('config', 'G-Z51LD2VZH1', {content_group: 'grow-helper'});
 ]}
 </script>
 <style>
+@font-face{font-family:'Lilita One';src:url('/fonts/LilitaOne.ttf') format('truetype');font-display:swap}
 :root{--sun:#F6BE35;--sun-tint:#FFF3D6;--sun-deep:#E0A41C;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--leaf-light:#5B9A5F;--sprout:#A7D58F;--soil:#6B4A2B;--bg:#FFFFFF;--card:#FFFFFF;--line:#ECE6DA;--ink:#26211A;--muted:#6B6254;--sky:#BFE3F7;--clay-shadow:0 10px 0 -2px rgba(107,74,43,.18),0 18px 30px -12px rgba(38,33,26,.28)}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -59,7 +60,7 @@ header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.95);backdro
 /* clay primitives */
 .clay{background:var(--card);border:3px solid var(--ink);border-radius:28px 32px 26px 30px/30px 26px 32px 28px;box-shadow:var(--clay-shadow);position:relative}
 .clay.sun{background:var(--sun)}.clay.tint{background:var(--sun-tint)}.clay.leaf{background:var(--leaf);color:#fff}.clay.sky{background:var(--sky)}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:600 1rem Jost,sans-serif;color:#fff;background:var(--ketchup);border:3px solid var(--ink);border-radius:18px 22px 20px 24px/22px 18px 24px 20px;padding:12px 22px;cursor:pointer;text-decoration:none;box-shadow:0 5px 0 0 var(--ink);transition:transform .08s,box-shadow .08s;user-select:none}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:400 1.15rem 'Lilita One',Georgia,serif;letter-spacing:.02em;color:#fff;background:var(--leaf);border:3px solid var(--ink);border-radius:18px 22px 20px 24px/22px 18px 24px 20px;padding:12px 22px;cursor:pointer;text-decoration:none;box-shadow:0 5px 0 0 var(--ink);transition:transform .08s,box-shadow .08s;user-select:none}
 .btn:hover{transform:translateY(-1px)}.btn:active{transform:translateY(3px);box-shadow:0 2px 0 0 var(--ink)}
 .btn.sun{background:var(--sun);color:var(--ink)}.btn.leaf{background:var(--leaf)}.btn.ghost{background:#fff;color:var(--ink)}.btn.small{padding:8px 14px;font-size:.9rem;border-width:2px;box-shadow:0 3px 0 0 var(--ink)}
 .btn:disabled{opacity:.5;cursor:default;transform:none}
