@@ -7,6 +7,9 @@ updated: 2026-10-31
 eyebrow: "Buying guide"
 read: 6
 answer: "A seed kit is the better choice for a first garden because it bundles a curated set of beginner crops with instructions, at a lower cost per variety than buying ten packets one by one. Individual packets are better once you know which specific varieties you want, or you are planting a large plot."
+image: "media/2026-10/statics/inside.jpg"
+image_alt: "The Happy Seeds Veggie Garden Kit drawer slid open to show ten colored seed packets beside the grow guide"
+image_caption: "One kit, ten named varieties and the guide that explains each one."
 kit_heading: "One box instead of ten packets"
 about: "seed kits versus seed packets"
 faq:
@@ -54,7 +57,7 @@ Cost per seed tells a different story. A full retail packet of lettuce or carrot
 
 A standard retail seed packet usually contains far more seed than a raised bed or balcony garden plants in a season, and the surplus often expires before it is used. A single 4-by-8-foot bed might take 30 carrot seeds, a dozen beets, 10 kale plants and 2 or 3 tomatoes.
 
-Leftover seed does keep. Stored cool, dry and dark, most vegetable seed remains viable for 2 to 5 years, as explained in [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means.html). But many beginners do not store seed well, and a half-used packet of spinach in a hot garage is simply money gone.
+Leftover seed does keep. Stored cool, dry and dark, most vegetable seed remains viable for 2 to 5 years, as explained in [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/). But many beginners do not store seed well, and a half-used packet of spinach in a hot garage is simply money gone.
 
 Kits sidestep this by sizing packets for a small garden. Across ten crops, 1,000-plus seeds is still more than a first garden needs, but the waste per crop is much smaller.
 
@@ -62,7 +65,7 @@ Kits sidestep this by sizing packets for a small garden. Across ten crops, 1,000
 
 Curation matters because the hardest part of a first garden is not planting, it is choosing. A rack of 300 packets offers no signal about which 10 will work together in your climate across a season.
 
-A good kit solves that by pairing cool-season crops you sow in early spring (spinach, kale, beets, turnips, carrots) with warm-season crops you plant after frost (tomato, cucumber, pepper, eggplant, melon). You get a staggered season, early wins from the greens, and the summer fruiting crops that make the garden feel worth it. For the reasoning behind that mix, see [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners.html)
+A good kit solves that by pairing cool-season crops you sow in early spring (spinach, kale, beets, turnips, carrots) with warm-season crops you plant after frost (tomato, cucumber, pepper, eggplant, melon). You get a staggered season, early wins from the greens, and the summer fruiting crops that make the garden feel worth it. For the reasoning behind that mix, see [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/)
 
 The flip side is that curation removes choice. If you want a specific heirloom tomato or a purple carrot, a kit will not have it.
 
@@ -78,7 +81,7 @@ If you go the packet route, plan to supplement with a state planting calendar. T
 
 Kits make better gifts because they arrive complete, look intentional, and ask nothing of the recipient at the moment of giving. A box with a guide inside can sit under a tree in December and be opened in March with everything the person needs to begin.
 
-Ten loose packets in an envelope, however carefully chosen, read as a project rather than a present. If you are shopping for someone else, [The Best Gift for Someone Who Wants to Start a Garden](/blog/gift-for-someone-starting-a-garden.html) covers what to pair with seeds and what to write in the card.
+Ten loose packets in an envelope, however carefully chosen, read as a project rather than a present. If you are shopping for someone else, [The Best Gift for Someone Who Wants to Start a Garden](/blog/gifts-for-new-gardeners/) covers what to pair with seeds and what to write in the card.
 
 ## When individual packets are the better choice
 

@@ -7,6 +7,9 @@ updated: 2026-10-31
 eyebrow: "Seed basics"
 read: 7
 answer: "Germination rate is the percentage of seeds in a tested sample that sprouted under controlled lab conditions, so a packet marked 85 percent means roughly 85 of every 100 seeds should come up. Use it to decide how thickly to sow: the lower the rate, the more seeds you plant per spot."
+image: "media/2026-10/statics/spinach.jpg"
+image_alt: "A clay scene of the Happy Seeds box on a windowsill beside a planter of spinach seedlings being watered"
+image_caption: "The rate on the packet is a lab result; the seedlings on the sill are what it predicts."
 kit_heading: "Lab-tested, with the rate on the packet"
 about: "seed germination rate"
 faq:
@@ -92,4 +95,4 @@ Storage is the variable you control. Fold the packet closed, put it in a sealed 
 
 Use the germination rate to set your sowing density, use a paper-towel test to update it for older seed, and keep the packets you did not finish in a sealed jar for next year. Those three habits remove most of the mystery from "my seeds did not come up."
 
-If you are choosing seed for a first garden, favor packets that name the variety and print a real tested rate; that transparency usually travels with other good practices. The crops that tolerate uneven germination best are covered in [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners.html), and if you plan to start any of them indoors, the [step-by-step guide](/blog/how-to-start-seeds-indoors.html) shows how to give each seed its best shot.
+If you are choosing seed for a first garden, favor packets that name the variety and print a real tested rate; that transparency usually travels with other good practices. The crops that tolerate uneven germination best are covered in [What Are the Best Vegetable Seeds for Beginners?](/blog/best-vegetable-seeds-for-beginners/), and if you plan to start any of them indoors, the [step-by-step guide](/blog/when-to-start-seeds-indoors/) shows how to give each seed its best shot.

@@ -7,6 +7,9 @@ updated: 2026-10-31
 eyebrow: "For beginners"
 read: 7
 answer: "The best vegetable seeds for beginners are fast, direct-sown crops such as radish, lettuce, spinach, kale, beets, turnips and bush beans, because they sprout in days and tolerate cool weather and uneven care. Tomatoes, peppers and cucumbers are the easiest warm-season crops once you plant them after the last frost."
+image: "media/2026-10/statics/tencolors.jpg"
+image_alt: "The open Happy Seeds Veggie Garden Kit box with ten clay seed-packet tiles laid out in front of it, one for each vegetable"
+image_caption: "Ten beginner crops in one box: tomato, carrot, cucumber, kale, spinach, beet, turnip, eggplant, pepper and melon."
 kit_heading: "Ten beginner crops, already chosen for you"
 about: "easy vegetables to grow from seed"
 faq:
@@ -67,7 +70,7 @@ Start tomatoes, peppers and eggplant indoors 6 to 8 weeks before your last frost
 
 Everything else on the beginner list prefers direct sowing. Root crops such as carrots, beets and turnips dislike being moved and fork or stall if their roots are disturbed. Beans, cucumbers, zucchini and melons grow so fast that an indoor head start saves little, and their seedlings resent transplanting.
 
-If you do start seeds indoors, the keys are a bright light source a few inches above the seedlings, warmth for germination, and a week of hardening off outdoors before planting. The full method is in [How to Start Seeds Indoors](/blog/how-to-start-seeds-indoors.html).
+If you do start seeds indoors, the keys are a bright light source a few inches above the seedlings, warmth for germination, and a week of hardening off outdoors before planting. The full method is in [How to Start Seeds Indoors](/blog/when-to-start-seeds-indoors/).
 
 ## The three mistakes beginners make
 
@@ -83,8 +86,8 @@ The three mistakes that end most first gardens are sowing seed too deep, overwat
 
 A good first garden has two or three quick greens, two or three root crops, and two or three warm-season fruiting crops, sown in that order across the spring. That spread teaches the full rhythm of a season while keeping the plant count manageable.
 
-The ten varieties in the Happy Seeds kit were chosen on that logic: cool-season carrot, kale, spinach, beet and turnip, then warm-season tomato, cucumber, pepper, eggplant and melon, with a 24-page grow guide that walks through the timing. If you would rather assemble your own mix from individual packets, [this comparison](/blog/seed-kit-vs-seed-packets.html) weighs the two approaches honestly.
+The ten varieties in the Happy Seeds kit were chosen on that logic: cool-season carrot, kale, spinach, beet and turnip, then warm-season tomato, cucumber, pepper, eggplant and melon, with a 24-page grow guide that walks through the timing. If you would rather assemble your own mix from individual packets, [this comparison](/blog/seed-kit-vs-seed-packets/) weighs the two approaches honestly.
 
-Whichever route you take, read the germination rate on each packet before you plant. [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means.html) explains how to use that number to decide how thickly to sow.
+Whichever route you take, read the germination rate on each packet before you plant. [What Does Germination Rate Mean on a Seed Packet?](/blog/what-germination-rate-means/) explains how to use that number to decide how thickly to sow.
 
 Start with the forgiving crops at the top of the table, get one full cycle of sowing and eating under your belt, and the harder ones will feel far less intimidating next year.

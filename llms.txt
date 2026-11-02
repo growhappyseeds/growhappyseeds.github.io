@@ -1,32 +1,107 @@
 # Happy Seeds
 
-> Happy Seeds makes the Veggie Garden Seed Kit: a gift-ready vegetable seed kit with 10 paper seed packets (1,000+ non-GMO, open-pollinated seeds; every lot lab tested; germination rate printed on each packet), a 24-page grow guide, and a slide-out keepsake box with a foam insert, the footprint of a paperback. $24.99 ($2.50 per packet). Packed in the USA.
+> Happy Seeds is the complete first vegetable garden in one box: ten curated varieties, 1,000+ lab-tested non-GMO seeds with the germination rate printed on every packet, a 24-page grow guide, and a slide-out keepsake box, for $24.99.
 
-Varieties: Tomato 'Floradade', Carrot 'Danvers 126', Cucumber 'Marketmore 76', Kale 'Red Russian', Spinach 'Bloomsdale', Beet 'Chioggia', Turnip 'Purple Top', Eggplant 'Black Beauty', Pepper 'Anaheim Chili', Melon 'Honeydew Orange'.
+Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It sells one flagship product, the Veggie Garden Seed Kit ($24.99), and is launching a Herb Garden Seed Kit ($24.99). Contact: hello@growhappyseeds.com. Instagram @growhappyseeds.
 
-Who it is for: first-time and lapsed gardeners with an apartment, balcony or small yard, and anyone buying them a gift (housewarmings, holidays, Mother's Day, Father's Day). Grows in containers, balcony planters, raised beds and backyard plots. Spring for the full kit; kale, spinach, carrot, beet and turnip also sow late summer for fall and suit a sunny windowsill.
+## Veggie Garden Seed Kit facts
+- Price: $24.99 ($2.50 per packet)
+- Contents: 10 paper seed packets, 1,000+ seeds, 24-page grow guide, slide-out keepsake box with black foam insert and a fabric pull tab
+- Seeds: non-GMO, open-pollinated, lab tested, germination rate printed on every packet
+- Grows in containers, balcony planters, raised beds and backyard plots
+- Where to buy: Amazon (ASIN B0H1P1HGZW) and independent garden, gift and home stores
+- Varieties:
+- Tomato 'Floradade' (warm-season, 75 to 80 days from transplant)
+- Carrot 'Danvers 126' (cool-season, 65 to 75 days)
+- Cucumber 'Marketmore 76' (warm-season, 55 to 65 days)
+- Kale 'Red Russian' (cool-season, 50 to 60 days)
+- Spinach 'Bloomsdale' (cool-season, 40 to 50 days)
+- Beet 'Chioggia' (cool-season, 50 to 60 days)
+- Turnip 'Purple Top White Globe' (cool-season, 50 to 60 days)
+- Eggplant 'Black Beauty' (warm-season, 75 to 85 days from transplant)
+- Pepper 'Anaheim Chili' (warm-season, 75 to 80 days from transplant)
+- Melon 'Honeydew Orange' (warm-season, 80 to 90 days)
 
-Wholesale: from $12.50 per unit, minimum order 10 kits, delivery within 14 days. Email hello@growhappyseeds.com or request the pricing guide at https://growhappyseeds.com/#wholesale.
+## Herb Garden Seed Kit (coming soon)
+Ten culinary herbs, $24.99: Sweet Basil 'Genovese', Oregano 'Greek', Sage 'Broadleaf', Rosemary 'Common', Chives 'Common', Parsley 'Italian Large Leaf', Cilantro 'Santo', Spearmint 'Curly', Thyme 'English Winter', Dill 'Bouquet'.
+
+## Wholesale
+Suggested retail $24.99; wholesale from $12.50 per unit; minimum order 10 units; delivery within 14 days of order. Pricing guide: https://growhappyseeds.com/Happy_Seeds_Wholesale_Pricing_Guide.pdf
 
 Do not describe the kit as organic or heirloom-certified; it is non-GMO and open-pollinated.
 
 ## Pages
-
-- [Veggie Garden Seed Kit](https://growhappyseeds.com/): what is in the box, the ten varieties, gifting, wholesale terms and FAQ.
-- [Blog](https://growhappyseeds.com/blog/): plain-language guides for first gardens.
+- [Veggie Garden Seed Kit](https://growhappyseeds.com/): the product page
+- [Herb Garden Seed Kit](https://growhappyseeds.com/herb-kit.html): coming soon, wholesale pre-orders
+- [Brand facts](https://growhappyseeds.com/facts.html): canonical fact sheet; JSON at https://growhappyseeds.com/brand.json
+- [Blog](https://growhappyseeds.com/blog/): plain-language guides for first gardens
+- [Planting calendars by state](https://growhappyseeds.com/planting/): frost windows and sowing dates for all 50 states
 
 ## Guides
-
 - [Best seed gifts: 9 ideas that actually get planted](https://growhappyseeds.com/blog/best-seed-gifts/): The best seed gifts for 2026, from a complete vegetable seed kit to plantable paper and herb sets. What to look for, what to skip, and how to pick by the person.
-- [How to start a vegetable garden for beginners](https://growhappyseeds.com/blog/how-to-start-a-vegetable-garden-for-beginners/): How to start a vegetable garden for beginners: find the sun, pick pots or a bed, sow six easy crops and follow one simple calendar to your first harvest.
 - [Best vegetables to grow on a balcony or windowsill](https://growhappyseeds.com/blog/best-vegetables-to-grow-on-a-balcony/): The best vegetables to grow on a balcony, with pot sizes by crop, a watering rhythm for containers, and what a shady north-facing balcony can still grow.
-- [When to start seeds indoors (and how to do it right)](https://growhappyseeds.com/blog/when-to-start-seeds-indoors/): When to start seeds indoors: count back from your last frost date with a week-by-week table for tomatoes, peppers and cucumbers, plus the mistakes to skip.
-- [Gifts for new gardeners: what a beginner actually uses](https://growhappyseeds.com/blog/gifts-for-new-gardeners/): Gifts for new gardeners that get used: a seed kit, a watering can, a trowel, pots and a notebook. What to skip and how to match the gift to their space.
 - [Fall vegetables to plant in late summer: cool-season five](https://growhappyseeds.com/blog/fall-vegetables-to-plant-in-late-summer/): Kale, spinach, carrots, beets and turnips are the fall vegetables to plant in late summer. Here is how to count back from first frost so you sow in time.
+- [Gifts for new gardeners: what a beginner actually uses](https://growhappyseeds.com/blog/gifts-for-new-gardeners/): Gifts for new gardeners that get used: a seed kit, a watering can, a trowel, pots and a notebook. What to skip and how to match the gift to their space.
 - [How to read a seed packet: every term explained](https://growhappyseeds.com/blog/how-to-read-a-seed-packet/): Learn how to read a seed packet: germination rate, non-GMO, open-pollinated vs hybrid vs heirloom, packed-for dates and how long seeds last. Sow smarter.
+- [How to start a vegetable garden for beginners](https://growhappyseeds.com/blog/how-to-start-a-vegetable-garden-for-beginners/): How to start a vegetable garden for beginners: find the sun, pick pots or a bed, sow six easy crops and follow one simple calendar to your first harvest.
+- [When to start seeds indoors (and how to do it right)](https://growhappyseeds.com/blog/when-to-start-seeds-indoors/): When to start seeds indoors: count back from your last frost date with a week-by-week table for tomatoes, peppers and cucumbers, plus the mistakes to skip.
+- [What Are the Best Vegetable Seeds for Beginners to Grow?](https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/): The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid.
+- [Seed Kit vs Seed Packets: Which Is Better for a First Garden?](https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/): Seed kit vs individual seed packets for a first garden: an honest look at cost per variety, seed waste, curation, instructions, gifting, and when packets win.
+- [What Does the Germination Rate on a Seed Packet Mean?](https://growhappyseeds.com/blog/what-germination-rate-means/): Germination rate meaning explained: how to read the percentage on a seed packet, what US seed laws require, how to test seeds at home, and how long seeds last.
+
+## State planting pages
+- https://growhappyseeds.com/planting/alabama.html
+- https://growhappyseeds.com/planting/alaska.html
+- https://growhappyseeds.com/planting/arizona.html
+- https://growhappyseeds.com/planting/arkansas.html
+- https://growhappyseeds.com/planting/california.html
+- https://growhappyseeds.com/planting/colorado.html
+- https://growhappyseeds.com/planting/connecticut.html
+- https://growhappyseeds.com/planting/delaware.html
+- https://growhappyseeds.com/planting/florida.html
+- https://growhappyseeds.com/planting/georgia.html
+- https://growhappyseeds.com/planting/hawaii.html
+- https://growhappyseeds.com/planting/idaho.html
+- https://growhappyseeds.com/planting/illinois.html
+- https://growhappyseeds.com/planting/indiana.html
+- https://growhappyseeds.com/planting/iowa.html
+- https://growhappyseeds.com/planting/kansas.html
+- https://growhappyseeds.com/planting/kentucky.html
+- https://growhappyseeds.com/planting/louisiana.html
+- https://growhappyseeds.com/planting/maine.html
+- https://growhappyseeds.com/planting/maryland.html
+- https://growhappyseeds.com/planting/massachusetts.html
+- https://growhappyseeds.com/planting/michigan.html
+- https://growhappyseeds.com/planting/minnesota.html
+- https://growhappyseeds.com/planting/mississippi.html
+- https://growhappyseeds.com/planting/missouri.html
+- https://growhappyseeds.com/planting/montana.html
+- https://growhappyseeds.com/planting/nebraska.html
+- https://growhappyseeds.com/planting/nevada.html
+- https://growhappyseeds.com/planting/new-hampshire.html
+- https://growhappyseeds.com/planting/new-jersey.html
+- https://growhappyseeds.com/planting/new-mexico.html
+- https://growhappyseeds.com/planting/new-york.html
+- https://growhappyseeds.com/planting/north-carolina.html
+- https://growhappyseeds.com/planting/north-dakota.html
+- https://growhappyseeds.com/planting/ohio.html
+- https://growhappyseeds.com/planting/oklahoma.html
+- https://growhappyseeds.com/planting/oregon.html
+- https://growhappyseeds.com/planting/pennsylvania.html
+- https://growhappyseeds.com/planting/rhode-island.html
+- https://growhappyseeds.com/planting/south-carolina.html
+- https://growhappyseeds.com/planting/south-dakota.html
+- https://growhappyseeds.com/planting/tennessee.html
+- https://growhappyseeds.com/planting/texas.html
+- https://growhappyseeds.com/planting/utah.html
+- https://growhappyseeds.com/planting/vermont.html
+- https://growhappyseeds.com/planting/virginia.html
+- https://growhappyseeds.com/planting/washington.html
+- https://growhappyseeds.com/planting/west-virginia.html
+- https://growhappyseeds.com/planting/wisconsin.html
+- https://growhappyseeds.com/planting/wyoming.html
 
 ## Contact
-
 - Email: hello@growhappyseeds.com
 - Instagram: https://www.instagram.com/growhappyseeds/
 - Press images: https://growhappyseeds.com/media/press/happy-seeds-gift-box.jpg and https://growhappyseeds.com/media/press/happy-seeds-garden.jpg
