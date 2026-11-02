@@ -14,9 +14,9 @@ h2{font-size:clamp(26px,3.2vw,38px);margin:44px 0 12px}
 h3{font-size:22px;margin:28px 0 8px}
 p{margin:0 0 16px}
 a{color:var(--ink)}
-.eyebrow{font-weight:600;letter-spacing:.18em;text-transform:uppercase;font-size:13px;color:var(--leaf)}
+.eyebrow{font-weight:600;letter-spacing:.18em;text-transform:uppercase;font-size:13px;color:#B8820F}
 .sub{font-size:19px;color:var(--muted)}
-.btn{display:inline-block;font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;letter-spacing:.02em;font-size:20px;background:var(--leaf);color:#fff;text-decoration:none;padding:12px 26px 13px;border-radius:999px;box-shadow:0 5px 0 #1F4D25,0 12px 22px rgba(46,107,52,.25)}
+.btn{display:inline-block;font-family:'Lilita One','Old Standard TT',Georgia,serif;font-weight:400;letter-spacing:.02em;font-size:20px;background:var(--sun);color:var(--ink);text-decoration:none;padding:12px 26px 13px;border-radius:999px;box-shadow:0 5px 0 #C98F13,0 12px 22px rgba(246,190,53,.35)}
 .btn:hover{transform:translateY(-2px)}
 .btn:focus-visible,a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.93);backdrop-filter:blur(6px)}
