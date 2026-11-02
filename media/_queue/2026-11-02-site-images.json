@@ -1,0 +1,28 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0002-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T115128Z&X-Amz-Expires=68555&X-Amz-Signature=dac582cc84e6389af0e232dc9b21660e31131234268cf302d6dc9289c0cede55&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A54%3A03%20GMT",
+   "path": "media/site/farmer/farmer-hero.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0003-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T042918Z&X-Amz-Expires=9938&X-Amz-Signature=1294018773e15be251510c0e68a3af815b51521c1a8f338de6af353bb5c5a1c7&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A14%3A56%20GMT",
+   "path": "media/site/farmer/farmer-herbs.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0004-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T132858Z&X-Amz-Expires=63486&X-Amz-Signature=132026a0b01d04606782a1aeb06757d5259f6a83da1ca66a7a16cd138d63d036&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A07%3A04%20GMT",
+   "path": "media/site/farmer/farmer-sowing.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0005-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T134455Z&X-Amz-Expires=61818&X-Amz-Signature=c2fc0ecab616b7311ba2b8f063e16147b0a5ee9a9351716b4c62c3b0c22dfb31&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A55%3A13%20GMT",
+   "path": "media/site/farmer/farmer-gift.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0006-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T204821Z&X-Amz-Expires=37142&X-Amz-Signature=06c6a605ea7e927971e63e417ba923473f70adaeeee3f53a3d06c88329cd1ff9&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A07%3A23%20GMT",
+   "path": "media/site/farmer/farmer-email-banner.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/UR5_Y/DAHZvdUR5_Y/-1/0/0007-4739433592665477482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T133411Z&X-Amz-Expires=61715&X-Amz-Signature=bb16474b442ced2a3127e92543102fe5d5f0494b4de196b0e5fefccbe969b198&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A42%3A46%20GMT",
+   "path": "media/site/farmer/farmer-sprout-wide.jpg"
+  }
+ ]
+}
