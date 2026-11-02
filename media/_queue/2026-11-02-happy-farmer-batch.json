@@ -1,0 +1,52 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0014-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T164559Z&X-Amz-Expires=51302&X-Amz-Signature=ef85e2c1fa3116952cfee90a1b93ad8b4d28194dbf02ffd28ed19fd55608a147&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A01%3A01%20GMT",
+   "path": "media/2026-11/statics/farmer-carrot.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0015-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T222142Z&X-Amz-Expires=31579&X-Amz-Signature=71c09aa058cdb546acc3da8f2ea7092d227075ca4e9248f6947e5f6e58a6d34e&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A08%3A01%20GMT",
+   "path": "media/2026-11/statics/farmer-cucumber.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0016-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T235854Z&X-Amz-Expires=26242&X-Amz-Signature=86dcb78bfb1bb7e4e55cb6ca684be3708eb0bd74bda0e1cd891f506e79438e3d&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A16%3A16%20GMT",
+   "path": "media/2026-11/statics/farmer-beet.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0017-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T071424Z&X-Amz-Expires=85277&X-Amz-Signature=4ec1ac6354e71b80eb46c7b9c61576588ba41bceee919201adc34742f8352d1d&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A55%3A41%20GMT",
+   "path": "media/2026-11/statics/farmer-eggplant.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0018-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T203135Z&X-Amz-Expires=35689&X-Amz-Signature=07208bae9ebdb8c1a4eaa3e932fcd7863b56e6f7164215edf4e6bdce31e2c0a7&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A26%3A24%20GMT",
+   "path": "media/2026-11/statics/farmer-pepper.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0019-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T162504Z&X-Amz-Expires=53512&X-Amz-Signature=7584e4e0d4fbc8c7eb2c8ef68ee7b38e833c2f938102df4ef1ad2682644494bb&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A16%3A56%20GMT",
+   "path": "media/2026-11/statics/farmer-melon.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0020-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T000830Z&X-Amz-Expires=22761&X-Amz-Signature=7fb8b3ff6ccaccc764d0d6ae73eb31cf0aec16c005a75f6d9c7cd72818d027fe&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A27%3A51%20GMT",
+   "path": "media/2026-11/statics/farmer-sprout.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0021-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T085951Z&X-Amz-Expires=77500&X-Amz-Signature=dd305c89f42232f0c49e931a8058ef1e603c26280dab52e8613220998ea2fa3d&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A31%3A31%20GMT",
+   "path": "media/2026-11/statics/farmer-harvest.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0022-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T090626Z&X-Amz-Expires=79941&X-Amz-Signature=5ad60a9f6b9e6d0c9639e5e70a9434817fa5843ebc03eea98ec5f2d4eb2b9f47&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2007%3A18%3A47%20GMT",
+   "path": "media/2026-11/statics/farmer-turnip.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0023-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T092956Z&X-Amz-Expires=76075&X-Amz-Signature=eced37ad5cd5f00a438c350552576c94bf97bfeb2adae3bbcdeee8bead24b44a&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A37%3A51%20GMT",
+   "path": "media/2026-11/statics/farmer-spinach.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0024-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T190418Z&X-Amz-Expires=41007&X-Amz-Signature=3939d1e87025f9e93ca1fc8261db8d80a253cc7282da126af8d131e4a8179e7a&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A27%3A45%20GMT",
+   "path": "media/2026-11/statics/farmer-cooking.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0025-8701475365080358577.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T065050Z&X-Amz-Expires=85586&X-Amz-Signature=fc5d54ee6e04d4a6ced46395a954b99c87f3bab89e1328b1c86244f7fa95ffef&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Mon%2C%2002%20Nov%202026%2006%3A37%3A16%20GMT",
+   "path": "media/2026-11/statics/farmer-eating.jpg"
+  }
+ ]
+}
