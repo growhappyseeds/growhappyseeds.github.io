@@ -61,3 +61,23 @@ faq:
 ## Blog URLs
 
 Every post lives at `/blog/<slug>/` (a folder with `index.html`), never `/blog/<slug>.html`. Link posts that way in Markdown: `[title](/blog/<slug>/)`. The seven posts written before this system (best-seed-gifts, best-vegetables-to-grow-on-a-balcony, fall-vegetables-to-plant-in-late-summer, gifts-for-new-gardeners, how-to-read-a-seed-packet, how-to-start-a-vegetable-garden-for-beginners, when-to-start-seeds-indoors) are hand-built HTML; do not write a `.md` with one of those slugs, and do not write an article on a topic one of them already covers.
+
+## Analytics data (Search Console + GA4)
+
+`.github/workflows/seo-data.yml` runs every morning and `tools/seo/pull_data.py` writes:
+
+- `tools/seo/data/gsc/YYYY-MM-DD.json`: Search Console, last 28 days by date, top queries and pages (7 and 28 days), page+query detail for the last 3 days, countries, devices.
+- `tools/seo/data/ga4/YYYY-MM-DD.json`: GA4 property 558625133, sessions by date and channel, organic landing pages, key events, sources.
+- `tools/seo/data/latest.json`: headline numbers and pointers to today's files.
+
+Agents read these files instead of calling Google. If `latest.json` is older than two days, the workflow failed; the Analyst says so in its email rather than estimating.
+
+One-time setup (Jared, about ten minutes):
+1. In Google Cloud (console.cloud.google.com), pick or create a project, enable the **Google Search Console API** and the **Google Analytics Data API**.
+2. IAM & Admin → Service Accounts → Create. Name it `seo-data`. No roles needed. Open it → Keys → Add key → JSON. Download the file.
+3. Search Console → growhappyseeds.com → Settings → Users and permissions → Add user: the service account's email (ends in `.iam.gserviceaccount.com`), permission **Full**.
+4. GA4 → Admin → Property access management → Add: the same email, role **Viewer**.
+5. GitHub repo → Settings → Secrets and variables → Actions → New repository secret: name `GOOGLE_SA_JSON`, value = the whole contents of the downloaded JSON file.
+6. Actions tab → "SEO data pull" → Run workflow. The first files appear in `tools/seo/data/` within a minute.
+
+The empty GA4 property "Grow Happy Seeds" (558607627) has no data stream and no data; it can be deleted or ignored. The live property is "Happy Seeds" (558625133, tag G-Z51LD2VZH1).
