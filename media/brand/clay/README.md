@@ -20,3 +20,6 @@ Never generate or show a box, packet, booklet, label or any packaging that is no
 
 ## Herb Garden Kit packaging (Jared, Nov 2 2026, approved)
 The real Herb Garden Kit design is media/brand/herb-kit-packaging.png and herb-kit-packaging-2.png (green box, yellow Happy Seeds script, one tall herb, HERB GARDEN; ten packets: sage black, dill orange, oregano red, thyme olive, basil teal, parsley pink, spearmint light blue, cilantro purple, chives navy, rosemary green; green grow guide with the Happy Farmer badge). Canva reference MAHZyi04-N4. Approved clay version: MAHZyjtyv5Q (media/site/farmer/herb-kit-clay.jpg). Herb-kit product scenes copy these exactly, same rules as the veggie box (front face only, tab on the short end, packet text as unreadable marks). This supersedes the "no approved packaging" note above.
+
+## Herb Garden Kit clay art (Jared, Nov 2 2026, approved, supersedes the Canva render MAHZyjtyv5Q)
+Jared supplied finished claymation renders of the real packaging: media/brand/clay/herb-kit/box-front.png, packets.png (all ten, real text), grow-guide.png. These are THE herb kit product images; use them (not generated ones) for the site, social product scenes and emails.
