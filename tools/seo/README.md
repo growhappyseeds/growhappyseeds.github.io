@@ -81,3 +81,17 @@ One-time setup (Jared, about ten minutes):
 6. Actions tab → "SEO data pull" → Run workflow. The first files appear in `tools/seo/data/` within a minute.
 
 The empty GA4 property "Grow Happy Seeds" (558607627) has no data stream and no data; it can be deleted or ignored. The live property is "Happy Seeds" (558625133, tag G-Z51LD2VZH1).
+
+## The agents (all scheduled Claude tasks; nothing goes live without Jared)
+
+| Agent | When (ET) | Reads | Produces | Jared's approval |
+| --- | --- | --- | --- | --- |
+| SEO data pull (GitHub Action) | daily 05:20/06:20 | Search Console, GA4 | `tools/seo/data/*.json` on main | none needed (read-only data) |
+| SEO Analyst | daily 07:10 | data files, yesterday's report | `tools/seo/reports/daily-*.md`, `tools/seo/queue/recommendations.md`, one short email | none needed (reports only) |
+| SEO Writer | Mon/Wed/Fri 05:17 | topic queue, brand.json | one article as a `seo/<slug>` pull request | merge the PR |
+| SEO Optimizer | Thu 06:33 | recommendations.md, data | one `seo/optimize-<date>` pull request of on-page fixes | merge the PR |
+| Mention Builder | Tue 10:47 | latest AEO report, queue | `tools/seo/queue/<date>-offsite.md` + email of texts to paste | Jared posts them himself |
+| AI Visibility Monitor | Mon 14:41 | 12 buyer prompts, site health | `tools/seo/reports/aeo-*.md`, `aeo-log.json`, one email | none needed |
+| Content Run (social) | weekdays 06:54 | sitemap + llms.txt for live posts, Approval Queue | Instagram statics incl. one blog promo per live post, queued Pending | set the row to Approved |
+
+Coordination is through the repo, not messages between agents: the sitemap says what is live, `recommendations.md` carries findings from the Analyst to the Optimizer, the Approval Queue column N (`BLOG:<slug>`) says which posts already have a social promo, and every report cites the data file it came from.
