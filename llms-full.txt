@@ -36,6 +36,7 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Brand facts](https://growhappyseeds.com/facts.html): canonical fact sheet; JSON at https://growhappyseeds.com/brand.json
 - [Blog](https://growhappyseeds.com/blog/): plain-language guides for first gardens
 - [Planting calendars by state](https://growhappyseeds.com/planting/): frost windows and sowing dates for all 50 states
+- [Happy Grow Helper](https://growhappyseeds.com/grow/): free plant tracker; photograph each milestone from seed to plate, see readiness, get email reminders
 
 ## Guides
 - [What Are the Best Vegetable Seeds for Beginners to Grow?](https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/): The best vegetable seeds for beginners, ranked by difficulty, with a table of sow method, days to harvest and container fit, plus the three mistakes to avoid.

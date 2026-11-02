@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Happy Grow Helper: Track Your Plant From Seed to Plate | Happy Seeds</title>
+<meta name="description" content="A free plant tracker from Happy Seeds. Photograph each milestone from first seed to harvest and dinner, see how ready your plant is, and get a reminder when the next stage is due.">
+<link rel="canonical" href="https://growhappyseeds.com/grow/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/media/site/apple-touch-icon.png">
+<meta name="theme-color" content="#F6BE35">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Happy Seeds">
+<meta property="og:title" content="Happy Grow Helper: track your plant from seed to plate">
+<meta property="og:description" content="Photograph each milestone, see how ready your plant is, get a nudge when the next stage is due. Free from Happy Seeds.">
+<meta property="og:url" content="https://growhappyseeds.com/grow/">
+<meta property="og:image" content="https://growhappyseeds.com/media/brand/clay/scene-box-in-garden.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- Google Analytics 4 (G-Z51LD2VZH1) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z51LD2VZH1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-Z51LD2VZH1', {content_group: 'grow-helper'});
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+ {"@type":"WebApplication","@id":"https://growhappyseeds.com/grow/#app","name":"Happy Grow Helper","url":"https://growhappyseeds.com/grow/","applicationCategory":"LifestyleApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"A free plant tracker: photograph each milestone from seed to harvest, see how ready your plant is, and get reminders.","publisher":{"@type":"Organization","name":"Happy Seeds","url":"https://growhappyseeds.com/"}},
+ {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Happy Seeds","item":"https://growhappyseeds.com/"},{"@type":"ListItem","position":2,"name":"Happy Grow Helper","item":"https://growhappyseeds.com/grow/"}]},
+ {"@type":"FAQPage","mainEntity":[
+  {"@type":"Question","name":"Is the Happy Grow Helper free?","acceptedAnswer":{"@type":"Answer","text":"Yes. It is free for anyone growing vegetables from seed, whether or not you bought a Happy Seeds kit. You sign up with an email address so we can send stage reminders."}},
+  {"@type":"Question","name":"Where are my plant photos stored?","acceptedAnswer":{"@type":"Answer","text":"On your own device, in your browser's storage. Photos are never uploaded. Only the stage name and date are sent to Happy Seeds so your reminders arrive at the right time."}},
+  {"@type":"Question","name":"What milestones can I track?","acceptedAnswer":{"@type":"Answer","text":"Seed planted, germination, sprout, first leaves, true leaves, flowering, fruit set, growing, ripening, harvest, cooking and eating, plus any custom milestone you add."}}
+ ]}
+]}
+</script>
+<style>
+:root{--sun:#F6BE35;--sun-tint:#FFF3D6;--sun-deep:#E0A41C;--ketchup:#D6362B;--ketchup-deep:#B72A20;--leaf:#2E6B34;--leaf-light:#5B9A5F;--sprout:#A7D58F;--soil:#6B4A2B;--bg:#FFFBF2;--card:#FFFFFF;--line:#EFE4CC;--ink:#26211A;--muted:#6B6254;--sky:#BFE3F7;--clay-shadow:0 10px 0 -2px rgba(107,74,43,.18),0 18px 30px -12px rgba(38,33,26,.28)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Jost,system-ui,sans-serif;font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased;background-image:radial-gradient(circle at 20% 10%,rgba(246,190,53,.18),transparent 40%),radial-gradient(circle at 85% 90%,rgba(46,107,52,.12),transparent 40%)}
+h1,h2,h3{font-family:"Old Standard TT",Georgia,serif;font-weight:700;line-height:1.08;margin:0 0 .4em;letter-spacing:-.01em}
+h1{font-size:clamp(2.2rem,6vw,3.6rem)}h2{font-size:clamp(1.5rem,3.6vw,2.1rem)}h3{font-size:1.25rem}
+h1 em,h2 em{font-style:italic;color:var(--ketchup)}
+p{margin:0 0 1em}
+a{color:var(--ketchup-deep)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;z-index:20;background:rgba(255,251,242,.92);backdrop-filter:blur(8px);border-bottom:2px solid var(--line)}
+.top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 0}
+.brand img{display:block;height:36px;width:auto}
+.navlinks{display:flex;gap:18px;align-items:center;font-weight:600;font-size:.95rem}
+.navlinks a{color:var(--ink);text-decoration:none}
+.navlinks a:hover{color:var(--ketchup)}
+.navlinks .ws{display:none}@media(min-width:720px){.navlinks .ws{display:inline}}
+/* clay primitives */
+.clay{background:var(--card);border:3px solid var(--ink);border-radius:28px 32px 26px 30px/30px 26px 32px 28px;box-shadow:var(--clay-shadow);position:relative}
+.clay.sun{background:var(--sun)}.clay.tint{background:var(--sun-tint)}.clay.leaf{background:var(--leaf);color:#fff}.clay.sky{background:var(--sky)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:600 1rem Jost,sans-serif;color:#fff;background:var(--ketchup);border:3px solid var(--ink);border-radius:18px 22px 20px 24px/22px 18px 24px 20px;padding:12px 22px;cursor:pointer;text-decoration:none;box-shadow:0 5px 0 0 var(--ink);transition:transform .08s,box-shadow .08s;user-select:none}
+.btn:hover{transform:translateY(-1px)}.btn:active{transform:translateY(3px);box-shadow:0 2px 0 0 var(--ink)}
+.btn.sun{background:var(--sun);color:var(--ink)}.btn.leaf{background:var(--leaf)}.btn.ghost{background:#fff;color:var(--ink)}.btn.small{padding:8px 14px;font-size:.9rem;border-width:2px;box-shadow:0 3px 0 0 var(--ink)}
+.btn:disabled{opacity:.5;cursor:default;transform:none}
+.eyebrow{font:600 .78rem Jost,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--leaf);margin:0 0 8px}
+input[type=text],input[type=email],input[type=date],select,textarea{width:100%;font:500 1rem Jost,sans-serif;color:var(--ink);background:#fff;border:3px solid var(--ink);border-radius:14px 16px 14px 18px/16px 14px 18px 14px;padding:12px 14px;outline:none;box-shadow:inset 0 3px 0 rgba(38,33,26,.08)}
+input:focus,select:focus,textarea:focus{border-color:var(--ketchup);box-shadow:0 0 0 4px rgba(246,190,53,.5)}
+label{display:block;font-weight:600;margin:0 0 6px}
+.field{margin-bottom:16px}
+.hidden{display:none!important}
+/* hero */
+.hero{padding:44px 0 24px;display:grid;grid-template-columns:1.05fr .95fr;gap:32px;align-items:center}
+.hero .scene{border-radius:36px 40px 34px 38px/38px 34px 40px 36px;overflow:hidden;border:3px solid var(--ink);box-shadow:var(--clay-shadow);background:var(--sky)}
+.hero .scene img{display:block;width:100%;height:auto}
+.hero p.sub{font-size:1.15rem;color:var(--muted)}
+.trust{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.pill{display:inline-flex;align-items:center;gap:6px;background:#fff;border:2px solid var(--ink);border-radius:999px;padding:6px 12px;font-size:.85rem;font-weight:600}
+.pill img{width:22px;height:22px}
+/* signup */
+.signup{padding:24px 26px;max-width:560px}
+.signup .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.check{display:flex;align-items:center;gap:10px;font-weight:500;margin:4px 0 14px}
+.check input{width:22px;height:22px;accent-color:var(--leaf)}
+.fine{font-size:.82rem;color:var(--muted);margin-top:10px}
+/* app */
+.app{padding:30px 0 60px}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.bar h2{margin:0}
+.plants{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
+.plant{padding:18px;cursor:pointer;transition:transform .12s}
+.plant:hover{transform:translateY(-3px)}
+.plant .ava{width:86px;height:86px;border-radius:50%;background:var(--sun-tint);border:3px solid var(--ink);display:grid;place-items:center;overflow:hidden;margin-bottom:10px}
+.plant .ava img{width:72px;height:72px;object-fit:contain}
+.plant .ava img.photo{width:100%;height:100%;object-fit:cover}
+.plant h3{margin-bottom:2px}
+.plant .meta{color:var(--muted);font-size:.9rem;margin:0 0 10px}
+.meter{height:16px;border:3px solid var(--ink);border-radius:999px;background:#fff;overflow:hidden}
+.meter i{display:block;height:100%;background:linear-gradient(90deg,var(--sprout),var(--leaf));border-radius:999px;transition:width .4s}
+.plant.add{display:grid;place-items:center;min-height:200px;border-style:dashed;text-align:center;background:var(--sun-tint)}
+/* detail */
+.detail{display:grid;grid-template-columns:320px 1fr;gap:26px;align-items:start}
+.sticky{position:sticky;top:84px}
+.ready{padding:22px;text-align:center}
+.ready .big{font:700 3.2rem "Old Standard TT",serif;line-height:1;color:var(--leaf)}
+.ready .ava{width:140px;height:140px;margin:0 auto 10px;border-radius:50%;border:3px solid var(--ink);background:var(--sun-tint);overflow:hidden;display:grid;place-items:center}
+.ready .ava img{width:110px;height:110px;object-fit:contain}.ready .ava img.photo{width:100%;height:100%;object-fit:cover}
+.ready .next{background:var(--sun-tint);border:2px solid var(--ink);border-radius:16px;padding:10px 12px;margin-top:12px;font-size:.95rem;text-align:left}
+.timeline{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+.stage{display:grid;grid-template-columns:56px 1fr auto;gap:14px;align-items:start;padding:14px 16px}
+.stage .dot{width:56px;height:56px;border-radius:50%;border:3px solid var(--ink);background:#fff;display:grid;place-items:center;font-size:1.6rem}
+.stage.done .dot{background:var(--sprout)}.stage.now .dot{background:var(--sun)}
+.stage h3{margin:0}
+.stage .when{color:var(--muted);font-size:.9rem;margin:0}
+.stage .note{margin:6px 0 0;font-size:.95rem}
+.stage .photos{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.stage .photos img{width:84px;height:84px;object-fit:cover;border-radius:14px;border:3px solid var(--ink);cursor:zoom-in;background:#eee}
+.stage .act{display:grid;gap:8px}
+.stage.todo{opacity:.85;background:var(--bg)}
+.custom-add{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:14px}
+.custom-add input{flex:1;min-width:180px}
+/* modal */
+.modal{position:fixed;inset:0;background:rgba(38,33,26,.55);display:grid;place-items:center;padding:16px;z-index:50}
+.modal .box{width:min(560px,100%);max-height:92vh;overflow:auto;padding:22px 24px;background:#fff}
+.modal .box h3{margin-top:0}
+.drop{border:3px dashed var(--ink);border-radius:18px;padding:18px;text-align:center;background:var(--sun-tint);cursor:pointer}
+.drop img{max-width:100%;max-height:260px;border-radius:14px;border:3px solid var(--ink);display:block;margin:10px auto 0}
+.modal .actions{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap;margin-top:16px}
+.lightbox img{max-width:min(96vw,900px);max-height:92vh;border-radius:18px;border:3px solid var(--ink)}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:12px 18px;border-radius:999px;font-weight:600;z-index:60;box-shadow:0 8px 24px rgba(0,0,0,.3)}
+/* how + kit */
+.how{padding:30px 0 10px}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.step{padding:18px}
+.step .n{width:40px;height:40px;border-radius:50%;background:var(--sun);border:3px solid var(--ink);display:grid;place-items:center;font:700 1.1rem "Old Standard TT",serif;margin-bottom:10px}
+.kit{display:grid;grid-template-columns:150px 1fr;gap:18px;align-items:center;padding:20px 22px;margin:28px 0}
+.kit img{width:150px;height:150px;object-fit:contain}
+.kit h3{margin-top:0}
+.faq details{border-bottom:2px solid var(--line);padding:12px 0}
+.faq summary{font-weight:600;cursor:pointer}
+footer{border-top:2px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:.9rem}
+footer a{color:inherit}
+@media(max-width:860px){.hero{grid-template-columns:1fr;padding-top:24px}.detail{grid-template-columns:1fr}.sticky{position:static}.steps{grid-template-columns:1fr}.kit{grid-template-columns:1fr;text-align:center}.kit img{margin:0 auto}}
+@media(max-width:560px){.signup .row{grid-template-columns:1fr}.stage{grid-template-columns:46px 1fr}.stage .act{grid-column:1/-1;grid-auto-flow:column;justify-content:start}.stage .dot{width:46px;height:46px;font-size:1.3rem}body{font-size:16px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header><div class="wrap top">
+  <a class="brand" href="/" aria-label="Happy Seeds home"><img src="/media/brand/wordmark-ketchup.svg" width="170" height="40" alt="Happy Seeds"></a>
+  <nav class="navlinks" aria-label="Main"><a href="/blog/">Blog</a><a href="/planting/">Planting by state</a><a class="ws" href="/#wholesale">Wholesale</a><a class="btn small" href="/">See the kit</a></nav>
+</div></header>
+
+<main class="wrap">
+
+<!-- LANDING -->
+<section id="landing">
+  <div class="hero">
+    <div>
+      <p class="eyebrow">Free plant tracker · from Happy Seeds</p>
+      <h1>Happy Grow Helper: <em>seed to plate,</em> one photo at a time.</h1>
+      <p class="sub">Snap a picture at each milestone, from the first seed in soil to the first bite. The helper shows how ready your plant is and emails you a nudge when the next stage is due.</p>
+      <div class="trust">
+        <span class="pill"><img src="img/veg-tomato.webp" alt="">Works with any seed</span>
+        <span class="pill"><img src="img/seeds-pile.webp" alt="">Photos stay on your phone</span>
+        <span class="pill"><img src="img/grow-guide.webp" alt="">Reminders by email</span>
+      </div>
+    </div>
+    <div class="scene"><img src="img/scene-box-in-garden.webp" width="640" height="480" alt="Claymation scene of the Happy Seeds box standing in a garden bed with a walking tomato character, a watering can and a sunflower" fetchpriority="high"></div>
+  </div>
+
+  <div class="clay signup" id="signup">
+    <p class="eyebrow">Start tracking</p>
+    <h2>Tell us where to send <em>your reminders.</em></h2>
+    <form id="signupForm" novalidate>
+      <div class="row">
+        <div class="field"><label for="fName">First name</label><input type="text" id="fName" name="name" autocomplete="given-name" placeholder="Sam" required></div>
+        <div class="field"><label for="fEmail">Email</label><input type="email" id="fEmail" name="email" autocomplete="email" placeholder="you@example.com" required></div>
+      </div>
+      <input type="text" name="website" id="fWebsite" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
+      <label class="check"><input type="checkbox" id="fKit"> I'm growing from a Happy Seeds kit</label>
+      <button class="btn" type="submit" id="signupBtn">Open my Grow Helper</button>
+      <p class="fine">We email you when your plant's next stage is likely due, and nothing else. Reply "stop" to any email to end reminders. Your photos never leave your device.</p>
+    </form>
+  </div>
+
+  <section class="how">
+    <div class="steps">
+      <div class="clay step"><div class="n">1</div><h3>Add your plant</h3><p>Pick one of the ten kit varieties or type any plant you're growing.</p></div>
+      <div class="clay step"><div class="n">2</div><h3>Photograph each milestone</h3><p>Seed, sprout, leaves, flowers, fruit, harvest, dinner. Tap the stage, add the photo, done.</p></div>
+      <div class="clay step"><div class="n">3</div><h3>Watch readiness climb</h3><p>The meter fills as stages are logged, and the helper tells you what to look for next.</p></div>
+    </div>
+  </section>
+</section>
+
+<!-- APP -->
+<section id="app" class="app hidden">
+  <div id="viewPlants">
+    <div class="bar">
+      <div><p class="eyebrow" id="hello">Your garden</p><h2>Your <em>plants</em></h2></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn sun small" id="addPlantBtn">+ Add a plant</button><button class="btn ghost small" id="settingsBtn">Account</button></div>
+    </div>
+    <div class="plants" id="plants"></div>
+  </div>
+
+  <div id="viewPlant" class="hidden">
+    <div class="bar">
+      <button class="btn ghost small" id="backBtn">← All plants</button>
+      <div style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn sun small" id="shareBtn">Share card</button><button class="btn ghost small" id="deletePlantBtn">Remove plant</button></div>
+    </div>
+    <div class="detail">
+      <aside class="sticky">
+        <div class="clay tint ready" id="readyCard"></div>
+      </aside>
+      <div>
+        <ul class="timeline" id="timeline"></ul>
+        <div class="custom-add"><input type="text" id="customStage" placeholder="Add your own milestone (e.g. first pickle)"><button class="btn ghost small" id="customStageBtn">Add</button></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="clay sun kit">
+  <img src="img/box-front.webp" alt="The Happy Seeds Veggie Garden Kit box">
+  <div><p class="eyebrow" style="color:var(--ketchup-deep)">Ten plants, one box</p><h3>Need seeds to track? The Veggie Garden Kit has ten named varieties, 1,000+ lab-tested non-GMO seeds and a 24-page grow guide. $24.99.</h3><a class="btn" href="/">See what's in the box</a></div>
+</div>
+
+<section class="faq" aria-labelledby="faq-h">
+  <h2 id="faq-h">Common questions</h2>
+  <details><summary>Is the Happy Grow Helper free?</summary><p>Yes. It is free for anyone growing vegetables from seed, whether or not you bought a Happy Seeds kit. You sign up with an email address so we can send stage reminders.</p></details>
+  <details><summary>Where are my plant photos stored?</summary><p>On your own device, in your browser's storage. Photos are never uploaded. Only the stage name and date are sent to Happy Seeds so your reminders arrive at the right time. Clearing your browser data removes them, so use the Share card to save a copy of your favorites.</p></details>
+  <details><summary>What milestones can I track?</summary><p>Seed planted, germination, sprout, first leaves, true leaves, flowering, fruit set, growing, ripening, harvest, cooking and eating, plus any custom milestone you add.</p></details>
+  <details><summary>Can I track more than one plant?</summary><p>Yes, as many as you like. Each plant has its own timeline and readiness meter.</p></details>
+</section>
+
+</main>
+
+<footer><div class="wrap">© 2026 Happy Seeds · growhappyseeds.com · <a href="/blog/">Blog</a> · <a href="/planting/">Planting calendars</a> · <a href="/#wholesale">Wholesale</a> · <a href="https://www.instagram.com/growhappyseeds/" rel="me">Instagram</a> · <a href="mailto:hello@growhappyseeds.com">hello@growhappyseeds.com</a></div></footer>
+
+<div id="modalRoot"></div>
+<canvas id="shareCanvas" width="1080" height="1350" style="display:none"></canvas>
+
+<script>
+(function(){
+'use strict';
+const HOOK = 'https://hooks.zapier.com/hooks/catch/21772982/TwMJL7YZJuXv1QEY/';
+const LS_KEY = 'hgh.v1';
+const STAGES = [
+  {id:'seed',      name:'Seed planted',   emoji:'🌰', tip:'Sow at the depth on the packet, water in, keep the soil damp like a wrung-out sponge.', days:0},
+  {id:'germination',name:'Germination',   emoji:'💧', tip:'The seed cracks and a root appears. Warmth matters more than light right now.', days:7},
+  {id:'sprout',    name:'Sprout',         emoji:'🌱', tip:'A stem breaks the soil. Move it into the brightest spot you have.', days:10},
+  {id:'first-leaves',name:'First leaves', emoji:'🍃', tip:'The first pair are seed leaves (cotyledons). Keep watering lightly, no feeding yet.', days:14},
+  {id:'true-leaves',name:'True leaves',   emoji:'🌿', tip:'The second set looks like the real plant. Thin crowded seedlings and start hardening off if it is headed outside.', days:21},
+  {id:'growing',   name:'Growing on',     emoji:'🪴', tip:'Steady growth. Water deeply and less often; feed every two weeks if you are in containers.', days:35},
+  {id:'flowering', name:'Flowering',      emoji:'🌼', tip:'Flowers mean fruit is coming for tomatoes, peppers, cucumbers, eggplant and melons. Leafy and root crops skip this.', days:50},
+  {id:'fruiting',  name:'Fruit set',      emoji:'🫛', tip:'Tiny fruit behind the flowers. Keep water even to avoid splitting and blossom-end rot.', days:60},
+  {id:'ripening',  name:'Ripening',       emoji:'🍅', tip:'Color and size come in. Ease off nitrogen; pick a few days early if a frost threatens.', days:72},
+  {id:'harvest',   name:'Harvest',        emoji:'🧺', tip:'Pick in the morning. Roots and greens are best young; fruit when fully colored.', days:80},
+  {id:'cooking',   name:'Cooking',        emoji:'🍳', tip:'Keep it simple the first time so you taste what you grew.', days:81},
+  {id:'eating',    name:'Eating',         emoji:'😋', tip:'Packet to plate. Take the photo before the plate is empty.', days:81},
+];
+const VARIETIES = [
+  {plant:'Tomato',variety:'Floradade',img:'veg-tomato',days:78,type:'fruit'},
+  {plant:'Carrot',variety:'Danvers 126',img:'veg-carrot',days:70,type:'root'},
+  {plant:'Cucumber',variety:'Marketmore 76',img:'veg-cucumber',days:60,type:'fruit'},
+  {plant:'Kale',variety:'Red Russian',img:'veg-kale',days:55,type:'leaf'},
+  {plant:'Spinach',variety:'Bloomsdale',img:'veg-spinach',days:45,type:'leaf'},
+  {plant:'Beet',variety:'Chioggia',img:'veg-beet',days:55,type:'root'},
+  {plant:'Turnip',variety:'Purple Top White Globe',img:'veg-turnip',days:55,type:'root'},
+  {plant:'Eggplant',variety:'Black Beauty',img:'veg-eggplant',days:80,type:'fruit'},
+  {plant:'Pepper',variety:'Anaheim Chili',img:'veg-pepper',days:78,type:'fruit'},
+  {plant:'Melon',variety:'Honeydew Orange',img:'veg-melon',days:85,type:'fruit'},
+];
+const SKIP = {leaf:['flowering','fruiting','ripening'], root:['flowering','fruiting','ripening'], fruit:[], other:[]};
+
+// ---------- storage ----------
+let state = load();
+function load(){ try{ const s = JSON.parse(localStorage.getItem(LS_KEY)||'null'); if(s&&s.plants) return s; }catch(e){} return {grower:null, plants:[]}; }
+function save(){ try{ localStorage.setItem(LS_KEY, JSON.stringify(state)); }catch(e){ toast('Storage is full. Remove an old photo to free space.'); } }
+const uid = () => Math.random().toString(36).slice(2,10)+Date.now().toString(36).slice(-4);
+
+// photos live in IndexedDB so localStorage stays small
+const db = (function(){
+  let p;
+  function open(){ if(p) return p; p = new Promise((res,rej)=>{ const r = indexedDB.open('hgh-photos',1); r.onupgradeneeded=()=>r.result.createObjectStore('photos'); r.onsuccess=()=>res(r.result); r.onerror=()=>rej(r.error); }); return p; }
+  async function put(id, blob){ const d = await open(); return new Promise((res,rej)=>{ const t=d.transaction('photos','readwrite'); t.objectStore('photos').put(blob,id); t.oncomplete=()=>res(); t.onerror=()=>rej(t.error); }); }
+  async function get(id){ const d = await open(); return new Promise((res,rej)=>{ const r=d.transaction('photos').objectStore('photos').get(id); r.onsuccess=()=>res(r.result||null); r.onerror=()=>rej(r.error); }); }
+  async function del(id){ const d = await open(); return new Promise((res)=>{ const t=d.transaction('photos','readwrite'); t.objectStore('photos').delete(id); t.oncomplete=()=>res(); t.onerror=()=>res(); }); }
+  return {put,get,del};
+})();
+const urlCache = new Map();
+async function photoUrl(id){ if(urlCache.has(id)) return urlCache.get(id); const b = await db.get(id); if(!b) return null; const u = URL.createObjectURL(b); urlCache.set(id,u); return u; }
+
+// ---------- network ----------
+function send(payload){
+  if(!state.grower) return;
+  const body = Object.assign({email:state.grower.email, name:state.grower.name, growerId:state.grower.id, kitOwner:!!state.grower.kit, page:'/grow/', source:'grow-helper'}, payload);
+  try{ fetch(HOOK,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain'},body:JSON.stringify(body),keepalive:true}); }catch(e){}
+  try{ gtag('event', payload.event==='signup'?'generate_lead':'grow_milestone', {stage:payload.stage||'', plant:payload.plant||''}); }catch(e){}
+}
+
+// ---------- helpers ----------
+const $ = (s,el=document)=>el.querySelector(s);
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const today = () => new Date().toISOString().slice(0,10);
+const fmt = d => { if(!d) return ''; const [y,m,dd]=d.split('-'); return new Date(+y,+m-1,+dd).toLocaleDateString(undefined,{month:'short',day:'numeric',year:'numeric'}); };
+const daysBetween = (a,b) => Math.round((new Date(b)-new Date(a))/86400000);
+function toast(msg){ const t=document.createElement('div'); t.className='toast'; t.textContent=msg; document.body.appendChild(t); setTimeout(()=>t.remove(),2600); }
+function stagesFor(plant){ const skip = SKIP[plant.type]||[]; const base = STAGES.filter(s=>!skip.includes(s.id)); const custom = (plant.custom||[]).map(c=>({id:c.id,name:c.name,emoji:'⭐',tip:'Your own milestone.',custom:true})); return base.concat(custom); }
+function doneIds(plant){ return new Set((plant.events||[]).map(e=>e.stage)); }
+function readiness(plant){ const st = stagesFor(plant).filter(s=>!s.custom); const idx = st.findIndex(s=>s.id==='harvest'); const upTo = st.slice(0, idx+1); const done = doneIds(plant); const n = upTo.filter(s=>done.has(s.id)).length; return Math.round(100*n/upTo.length); }
+function nextStage(plant){ const done = doneIds(plant); return stagesFor(plant).find(s=>!s.custom && !done.has(s.id)) || null; }
+function expectedDate(plant, stage){ const seed = (plant.events||[]).find(e=>e.stage==='seed'); if(!seed || !stage) return null; const scale = (plant.days||70)/80; const d = new Date(seed.date); d.setDate(d.getDate()+Math.round(stage.days*scale)); return d.toISOString().slice(0,10); }
+async function compressImage(file, max=1280, q=0.82){
+  const bmp = await createImageBitmap(file).catch(()=>null);
+  if(!bmp) return file;
+  const r = Math.min(1, max/Math.max(bmp.width,bmp.height));
+  const c = document.createElement('canvas'); c.width=Math.round(bmp.width*r); c.height=Math.round(bmp.height*r);
+  c.getContext('2d').drawImage(bmp,0,0,c.width,c.height);
+  return new Promise(res=>c.toBlob(b=>res(b||file),'image/jpeg',q));
+}
+
+// ---------- views ----------
+function show(id){ for(const v of ['landing','app']) $('#'+v).classList.toggle('hidden', v!==id); }
+function render(){
+  if(!state.grower){ show('landing'); return; }
+  show('app');
+  $('#hello').textContent = `${state.grower.name}'s garden`;
+  if(state.current){ renderPlant(); } else { $('#viewPlants').classList.remove('hidden'); $('#viewPlant').classList.add('hidden'); renderPlants(); }
+}
+async function renderPlants(){
+  const box = $('#plants'); box.innerHTML='';
+  for(const p of state.plants){
+    const el = document.createElement('div'); el.className='clay plant'; el.dataset.id=p.id;
+    const r = readiness(p); const nx = nextStage(p);
+    el.innerHTML = `<div class="ava"><img src="img/${p.img||'seeds-pile'}.webp" alt=""></div><h3>${esc(p.name)}</h3><p class="meta">${esc(p.variety||p.plant||'')}${p.events&&p.events.length?` · ${p.events.length} milestone${p.events.length>1?'s':''}`:''}</p><div class="meter"><i style="width:${r}%"></i></div><p class="meta" style="margin-top:8px">${r}% to harvest${nx?` · next: ${esc(nx.name)}`:' · harvested'}</p>`;
+    el.onclick = ()=>{ state.current=p.id; save(); render(); };
+    box.appendChild(el);
+    const last = (p.events||[]).filter(e=>e.photo).slice(-1)[0];
+    if(last){ const u = await photoUrl(last.photo); if(u){ const img = el.querySelector('.ava img'); img.src=u; img.className='photo'; } }
+  }
+  const add = document.createElement('div'); add.className='clay plant add'; add.innerHTML='<div><div style="font-size:2.4rem">🌱</div><b>Add a plant</b><br><span style="color:var(--muted);font-size:.9rem">Kit variety or anything else</span></div>'; add.onclick=openAddPlant; box.appendChild(add);
+}
+async function renderPlant(){
+  const p = state.plants.find(x=>x.id===state.current); if(!p){ state.current=null; save(); render(); return; }
+  $('#viewPlants').classList.add('hidden'); $('#viewPlant').classList.remove('hidden');
+  const r = readiness(p), nx = nextStage(p), exp = expectedDate(p,nx);
+  const seed = (p.events||[]).find(e=>e.stage==='seed');
+  $('#readyCard').innerHTML = `<div class="ava"><img src="img/${p.img||'seeds-pile'}.webp" alt=""></div><p class="eyebrow">${esc(p.variety||p.plant||'')}</p><h2 style="margin-bottom:6px">${esc(p.name)}</h2><div class="big">${r}%</div><div style="font-weight:600;margin-bottom:8px">ready for harvest</div><div class="meter"><i style="width:${r}%"></i></div>${seed?`<p class="meta" style="margin:10px 0 0;color:var(--muted);font-size:.9rem">Day ${daysBetween(seed.date,today())} since sowing</p>`:''}${nx?`<div class="next"><b>Next: ${nx.emoji} ${esc(nx.name)}</b>${exp?`<br>Usually around <b>${fmt(exp)}</b> for this crop.`:''}<br><span style="color:var(--muted)">${esc(nx.tip)}</span></div>`:`<div class="next"><b>Harvested.</b> Log the cooking and eating, then start another plant.</div>`}`;
+  const lastPhoto = (p.events||[]).filter(e=>e.photo).slice(-1)[0];
+  if(lastPhoto){ const u = await photoUrl(lastPhoto.photo); if(u){ const img=$('#readyCard .ava img'); img.src=u; img.className='photo'; } }
+  const tl = $('#timeline'); tl.innerHTML='';
+  const done = doneIds(p);
+  const nextId = nx?nx.id:null;
+  for(const s of stagesFor(p)){
+    const evs = (p.events||[]).filter(e=>e.stage===s.id);
+    const li = document.createElement('li'); li.className='clay stage '+(evs.length?'done':(s.id===nextId?'now':'todo'));
+    const first = evs[0];
+    li.innerHTML = `<div class="dot">${s.emoji}</div><div><h3>${esc(s.name)}</h3>${first?`<p class="when">${fmt(first.date)}${evs.length>1?` · ${evs.length} entries`:''}</p>`:`<p class="when">${s.id===nextId?'Up next':'Not yet'}${!first&&expectedDate(p,s)&&!s.custom?` · usually ~${fmt(expectedDate(p,s))}`:''}</p>`}${evs.map(e=>e.note?`<p class="note">${esc(e.note)}</p>`:'').join('')}<div class="photos" data-stage="${s.id}"></div></div><div class="act"><button class="btn small ${evs.length?'ghost':(s.id===nextId?'':'sun')}" data-log="${s.id}">${evs.length?'+ Add photo':'Log it'}</button>${s.custom?`<button class="btn ghost small" data-delstage="${s.id}">Remove</button>`:''}</div>`;
+    tl.appendChild(li);
+    const ph = li.querySelector('.photos');
+    for(const e of evs){ if(e.photo){ const u = await photoUrl(e.photo); if(u){ const im=document.createElement('img'); im.src=u; im.alt=`${s.name} photo`; im.onclick=()=>lightbox(u); ph.appendChild(im); } } }
+  }
+}
+
+// ---------- modals ----------
+function modal(html){ const root=$('#modalRoot'); root.innerHTML=`<div class="modal" role="dialog" aria-modal="true"><div class="clay box">${html}</div></div>`; root.querySelector('.modal').addEventListener('click',e=>{ if(e.target.classList.contains('modal')) closeModal(); }); return root.querySelector('.box'); }
+function closeModal(){ $('#modalRoot').innerHTML=''; }
+function lightbox(u){ const root=$('#modalRoot'); root.innerHTML=`<div class="modal lightbox"><img src="${u}" alt=""></div>`; root.querySelector('.modal').onclick=closeModal; }
+
+function openAddPlant(){
+  const opts = VARIETIES.map((v,i)=>`<option value="${i}">${v.plant} '${v.variety}' (kit)</option>`).join('');
+  const box = modal(`<h3>Add a plant</h3><div class="field"><label>What are you growing?</label><select id="apVar"><option value="">Something else…</option>${opts}</select></div><div class="field" id="apOtherWrap"><label>Plant</label><input type="text" id="apOther" placeholder="e.g. Basil, Zucchini"></div><div class="field"><label>Nickname (optional)</label><input type="text" id="apName" placeholder="e.g. Balcony tomato"></div><div class="field"><label>Date the seed went in (if already sown)</label><input type="date" id="apDate" max="${today()}"></div><div class="actions"><button class="btn ghost" id="apCancel">Cancel</button><button class="btn" id="apSave">Add plant</button></div>`);
+  const sel = box.querySelector('#apVar'), other = box.querySelector('#apOtherWrap');
+  sel.onchange = ()=> other.classList.toggle('hidden', !!sel.value);
+  box.querySelector('#apCancel').onclick = closeModal;
+  box.querySelector('#apSave').onclick = ()=>{
+    const v = sel.value!=='' ? VARIETIES[+sel.value] : null;
+    const plantName = v ? v.plant : box.querySelector('#apOther').value.trim();
+    if(!plantName){ toast('Tell us what you are growing.'); return; }
+    const type = v ? v.type : guessType(plantName);
+    const p = {id:uid(), plant:plantName, variety:v?v.variety:'', name: box.querySelector('#apName').value.trim() || (v?`${v.plant} '${v.variety}'`:plantName), img: v?v.img:'seeds-pile', days: v?v.days:70, type, events:[], custom:[], created:today()};
+    const d = box.querySelector('#apDate').value;
+    if(d){ p.events.push({id:uid(), stage:'seed', date:d, note:'', photo:null}); }
+    state.plants.push(p); state.current=p.id; save(); closeModal(); render();
+    send({event:'plant', plantId:p.id, plant:p.plant, variety:p.variety, stage: d?'seed':'', stageDate: d||'', hasPhoto:false});
+  };
+}
+function guessType(n){ n=n.toLowerCase(); if(/lettuce|spinach|kale|chard|arugula|basil|herb|mint|parsley|cilantro|dill|cabbage|bok|mustard/.test(n)) return 'leaf'; if(/carrot|beet|radish|turnip|onion|garlic|potato|parsnip/.test(n)) return 'root'; return 'fruit'; }
+
+function openLog(plant, stage){
+  const box = modal(`<h3>${stage.emoji} ${esc(stage.name)}</h3><p style="color:var(--muted);margin-top:-6px">${esc(stage.tip)}</p><div class="field"><label>Photo</label><div class="drop" id="drop"><input type="file" id="file" accept="image/*" capture="environment" style="display:none"><div id="dropText">📷 Tap to take or choose a photo</div></div></div><div class="field"><label>Date</label><input type="date" id="lgDate" value="${today()}" max="${today()}"></div><div class="field"><label>Note (optional)</label><textarea id="lgNote" rows="2" maxlength="300" placeholder="What did you notice?"></textarea></div><div class="actions"><button class="btn ghost" id="lgCancel">Cancel</button><button class="btn leaf" id="lgSave">Save milestone</button></div>`);
+  let blob = null;
+  const drop = box.querySelector('#drop'), file = box.querySelector('#file');
+  drop.onclick = ()=>file.click();
+  file.onchange = async ()=>{ const f = file.files[0]; if(!f) return; box.querySelector('#dropText').textContent='Processing…'; blob = await compressImage(f); const img=document.createElement('img'); img.src=URL.createObjectURL(blob); box.querySelector('#dropText').textContent='📷 Tap to change'; drop.querySelector('img')?.remove(); drop.appendChild(img); };
+  box.querySelector('#lgCancel').onclick = closeModal;
+  box.querySelector('#lgSave').onclick = async ()=>{
+    const date = box.querySelector('#lgDate').value || today();
+    const ev = {id:uid(), stage:stage.id, date, note: box.querySelector('#lgNote').value.trim(), photo:null};
+    if(blob){ ev.photo = 'ph_'+ev.id; try{ await db.put(ev.photo, blob); }catch(e){ ev.photo=null; toast('Photo could not be saved on this device.'); } }
+    plant.events = plant.events||[]; plant.events.push(ev); plant.events.sort((a,b)=>a.date<b.date?-1:1);
+    save(); closeModal(); renderPlant();
+    send({event:'milestone', plantId:plant.id, plant:plant.plant, variety:plant.variety, stage:stage.id, stageDate:date, note:ev.note.slice(0,200), hasPhoto:!!ev.photo});
+    const r = readiness(plant); toast(r>=100?'Harvest logged. Packet to plate!':`${stage.name} logged. ${r}% to harvest.`);
+  };
+}
+
+function openSettings(){
+  const g = state.grower;
+  const box = modal(`<h3>Your account</h3><p>Reminders go to <b>${esc(g.email)}</b>. Reply "stop" to any reminder to end them.</p><p style="color:var(--muted);font-size:.9rem">Plants and photos are stored on this device only. Signing out keeps them here but hides them until you sign in with the same email.</p><div class="actions"><button class="btn ghost" id="stClose">Close</button><button class="btn" id="stOut">Sign out</button></div>`);
+  box.querySelector('#stClose').onclick=closeModal;
+  box.querySelector('#stOut').onclick=()=>{ state.grower=null; state.current=null; save(); closeModal(); render(); window.scrollTo(0,0); };
+}
+
+// ---------- share card ----------
+async function shareCard(plant){
+  const c = $('#shareCanvas'), x = c.getContext('2d');
+  x.fillStyle='#FFFBF2'; x.fillRect(0,0,1080,1350);
+  x.fillStyle='#F6BE35'; roundRect(x,40,40,1000,1270,48); x.fill(); x.lineWidth=10; x.strokeStyle='#26211A'; x.stroke();
+  const last = (plant.events||[]).filter(e=>e.photo).slice(-1)[0];
+  let img = null;
+  if(last){ const b = await db.get(last.photo); if(b){ img = await createImageBitmap(b).catch(()=>null); } }
+  if(!img){ img = await loadImg(`img/${plant.img||'seeds-pile'}.webp`); }
+  x.save(); roundRect(x,100,110,880,760,40); x.clip(); x.fillStyle='#FFF3D6'; x.fillRect(100,110,880,760);
+  if(img){ const s = Math.max(880/img.width, 760/img.height); const w=img.width*s, h=img.height*s; x.drawImage(img,100+(880-w)/2,110+(760-h)/2,w,h); }
+  x.restore(); x.lineWidth=8; x.strokeStyle='#26211A'; roundRect(x,100,110,880,760,40); x.stroke();
+  x.fillStyle='#26211A'; x.font='700 64px "Old Standard TT", Georgia, serif'; x.textAlign='center'; x.fillText(fit(x,plant.name,880),540,950);
+  const r = readiness(plant), nx = nextStage(plant);
+  x.font='600 40px Jost, sans-serif'; x.fillStyle='#2E6B34'; x.fillText(`${r}% ready for harvest`,540,1010);
+  x.fillStyle='#fff'; roundRect(x,140,1040,800,36,18); x.fill(); x.lineWidth=6; x.strokeStyle='#26211A'; x.stroke();
+  x.fillStyle='#2E6B34'; roundRect(x,140,1040,Math.max(36,800*r/100),36,18); x.fill();
+  const lastEv = (plant.events||[]).slice(-1)[0]; const stg = lastEv && STAGES.concat((plant.custom||[]).map(c=>({id:c.id,name:c.name}))).find(s=>s.id===lastEv.stage);
+  x.fillStyle='#26211A'; x.font='500 34px Jost, sans-serif'; x.fillText(stg?`Latest: ${stg.name} · ${fmt(lastEv.date)}`:'Just getting started', 540, 1140);
+  x.font='600 30px Jost, sans-serif'; x.fillStyle='#B72A20'; x.fillText('Happy Grow Helper · growhappyseeds.com/grow',540,1240);
+  const blob = await new Promise(res=>c.toBlob(res,'image/jpeg',0.9));
+  const file = new File([blob], `happy-grow-${plant.name.replace(/[^a-z0-9]+/gi,'-').toLowerCase()}.jpg`, {type:'image/jpeg'});
+  if(navigator.canShare && navigator.canShare({files:[file]})){ try{ await navigator.share({files:[file], title:'My plant on Happy Grow Helper', text:`${plant.name}: ${r}% ready for harvest. Tracked with the Happy Grow Helper by Happy Seeds. growhappyseeds.com/grow #happygrowhelper`}); return; }catch(e){} }
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=file.name; a.click(); toast('Card saved. Tag @growhappyseeds when you post it.');
+  try{ gtag('event','share',{method:'grow_card'}); }catch(e){}
+}
+function roundRect(x,X,Y,W,H,R){ x.beginPath(); x.moveTo(X+R,Y); x.arcTo(X+W,Y,X+W,Y+H,R); x.arcTo(X+W,Y+H,X,Y+H,R); x.arcTo(X,Y+H,X,Y,R); x.arcTo(X,Y,X+W,Y,R); x.closePath(); }
+function fit(x,t,w){ while(x.measureText(t).width>w && t.length>3) t=t.slice(0,-2)+'…'; return t; }
+function loadImg(src){ return new Promise(res=>{ const i=new Image(); i.onload=()=>res(i); i.onerror=()=>res(null); i.src=src; }); }
+
+// ---------- events ----------
+$('#signupForm').addEventListener('submit', e=>{
+  e.preventDefault();
+  const name = $('#fName').value.trim(), email = $('#fEmail').value.trim().toLowerCase();
+  if(name.length<1){ toast('Add your first name.'); $('#fName').focus(); return; }
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){ toast('That email does not look right.'); $('#fEmail').focus(); return; }
+  if($('#fWebsite').value) return; // honeypot
+  const existing = state.grower && state.grower.email===email;
+  state.grower = {id: existing?state.grower.id:uid(), name, email, kit: $('#fKit').checked, since: existing?state.grower.since:today()};
+  save();
+  send({event:'signup'});
+  render(); window.scrollTo({top:0,behavior:'smooth'});
+  toast(`Welcome, ${name}. Add your first plant.`);
+});
+$('#addPlantBtn').onclick = openAddPlant;
+$('#settingsBtn').onclick = openSettings;
+$('#backBtn').onclick = ()=>{ state.current=null; save(); render(); };
+$('#shareBtn').onclick = ()=>{ const p = state.plants.find(x=>x.id===state.current); if(p) shareCard(p); };
+$('#deletePlantBtn').onclick = async ()=>{ const p = state.plants.find(x=>x.id===state.current); if(!p) return; if(!confirm(`Remove ${p.name} and its photos from this device?`)) return; for(const e of p.events||[]) if(e.photo) await db.del(e.photo); state.plants = state.plants.filter(x=>x.id!==p.id); state.current=null; save(); render(); };
+$('#timeline').addEventListener('click', e=>{
+  const p = state.plants.find(x=>x.id===state.current); if(!p) return;
+  const log = e.target.closest('[data-log]'); if(log){ const s = stagesFor(p).find(s=>s.id===log.dataset.log); if(s) openLog(p,s); return; }
+  const del = e.target.closest('[data-delstage]'); if(del){ p.custom = (p.custom||[]).filter(c=>c.id!==del.dataset.delstage); p.events = (p.events||[]).filter(ev=>ev.stage!==del.dataset.delstage); save(); renderPlant(); }
+});
+$('#customStageBtn').onclick = ()=>{ const p = state.plants.find(x=>x.id===state.current); const n = $('#customStage').value.trim(); if(!p||!n) return; p.custom=(p.custom||[]); p.custom.push({id:'c_'+uid(), name:n.slice(0,40)}); $('#customStage').value=''; save(); renderPlant(); };
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeModal(); });
+
+// returning grower goes straight to the app; the signup form pre-fills for the same device
+if(state.grower){ $('#fName').value=state.grower.name; $('#fEmail').value=state.grower.email; }
+render();
+})();
+</script>
+</body>
+</html>
