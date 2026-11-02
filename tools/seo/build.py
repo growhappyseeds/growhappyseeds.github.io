@@ -262,8 +262,16 @@ def crop_rows():
 
 def render_state(s):
     url = f"{SITE}/planting/{s['slug']}.html"
-    title = f"When to Plant Vegetables in {s['name']}: Seed Planting Calendar ({s['abbr']})"
-    desc = f"{s['name']} planting guide: USDA zones {s['zones']}, last spring frost {s['last_frost']}, first fall frost {s['first_frost']}, and when to sow tomatoes, carrots, kale, spinach, beets and more."
+    title = f"When to Plant Vegetables in {s['name']}"   # head() appends " | Happy Seeds"; under 60 chars for every state
+    # Meta description: the most specific variant that still fits in ~155 characters.
+    for desc in (
+        f"{s['name']} planting dates: last frost {s['last_frost']}, first frost {s['first_frost']}, zones {s['zones']}, and when to sow ten common vegetables.",
+        f"{s['name']} planting dates: last frost {s['last_frost']}, zones {s['zones']}, and when to sow tomatoes, kale, carrots, beets and more.",
+        f"When to plant vegetables in {s['name']}: frost dates, USDA zones {s['zones']}, and sowing windows for tomatoes, kale, carrots, beets and more.",
+        f"When to plant vegetables in {s['name']}: frost dates, USDA zones, and sowing windows for ten common garden crops.",
+    ):
+        if len(desc) <= 158:
+            break
     answer = (f"In {s['name']} the last spring frost usually falls {s['last_frost']} and the first fall frost {s['first_frost']} "
               f"(USDA zones {s['zones']}). Sow cool-season crops like spinach, kale, carrots, beets and turnips 2 to 6 weeks before the last frost "
               f"and again in late summer for fall; move tomatoes, peppers, eggplant, cucumbers and melons outside 1 to 2 weeks after the last frost.")
@@ -318,13 +326,18 @@ def render_planting_index():
     ld = graph(org_ld(), {"@type": "CollectionPage", "name": "Vegetable planting calendars by US state", "url": url},
                crumbs_ld([("Happy Seeds", SITE + "/"), ("Planting by state", url)]))
     items = "".join(f'<li><a href="/planting/{s["slug"]}.html">{s["name"]}</a></li>' for s in states)
-    page = head("Vegetable Planting Calendar by State: When to Plant Seeds in All 50 States | Happy Seeds",
-                "Pick your state for last and first frost windows, USDA zones, and when to sow tomatoes, carrots, cucumbers, kale, spinach, beets, turnips, eggplant, peppers and melons.", url, ld) + f"""
+    page = head("When to Plant Vegetables in Your State | Happy Seeds",
+                "Vegetable planting calendars for all 50 states: last and first frost windows, USDA zones, and when to sow tomatoes, kale, carrots, beets and more.", url, ld) + f"""
 <main class="wrap">
   <p class="crumbs"><a href="/">Happy Seeds</a> › Planting by state</p>
   <p class="eyebrow">Planting calendars</p>
   <h1>When to plant vegetables, <em>state by state.</em></h1>
   <p class="sub">Frost windows, USDA zones and a sowing calendar for the ten vegetables in the Happy Seeds kit, for every US state.</p>
+  <h2>How to use these calendars</h2>
+  <p>Every planting date comes from two numbers: your area's average last spring frost and first fall frost. Each state page gives the typical window for both, then counts forward and back from them for ten common vegetables.</p>
+  <p>Cool-season crops (spinach, kale, carrots, beets, turnips) go in the ground 2 to 6 weeks before the last frost and again in late summer for a fall harvest. Warm-season crops (tomatoes, peppers, eggplant, cucumbers, melons) wait until the soil is warm, 1 to 2 weeks after the last frost; tomatoes, peppers and eggplant are usually started indoors 6 to 8 weeks earlier.</p>
+  <p>Frost dates vary by elevation and by how close you are to water, so treat the state window as a starting point and confirm the date for your town with your county extension office, linked on each page.</p>
+  <h2>Pick your state</h2>
   <ul class="statelist">{items}</ul>
   <p class="note">General guidance for the populated parts of each state. Your own last-frost date is the number that matters; your county extension office publishes it.</p>
   {kit_box()}
