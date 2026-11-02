@@ -209,11 +209,11 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
     .gift.bleed .copy{left:5vw}                                              /* veggie scene: farmer on the right */
   }
   @media (min-width:901px) and (max-width:1180px){.bleed .copy{width:44vw;bottom:32px}}
-  .kitpair{display:flex;gap:40px;justify-content:center;align-items:flex-end;margin:0 auto 36px;max-width:900px}
-  .kitpair img{width:auto;height:auto;max-height:560px;flex:0 1 auto}
-  .kitpair img:first-child{max-width:46%}
-  .kitpair img:last-child{max-width:36%}
-  @media (max-width:900px){.kitpair{gap:18px;margin-bottom:24px}.kitpair img{max-height:320px}}
+  .kitpair{display:flex;gap:40px;justify-content:center;align-items:center;margin:0 auto 36px;max-width:900px}
+  .kitpair img{width:auto;height:auto;flex:0 0 auto}
+  .kitpair img:first-child{height:600px;margin-bottom:-37px}  /* body 563px; the 37px tab hangs below and is excluded from centring */
+  .kitpair img:last-child{height:282px}  /* 50% of the box body */
+  @media (max-width:900px){.kitpair{gap:18px;margin-bottom:24px}.kitpair img:first-child{height:360px;margin-bottom:-22px}.kitpair img:last-child{height:169px}}
 </style>
 </head>
 <body>
