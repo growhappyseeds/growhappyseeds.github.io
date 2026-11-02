@@ -410,6 +410,7 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Brand facts]({SITE}/facts.html): canonical fact sheet; JSON at {SITE}/brand.json
 - [Blog]({SITE}/blog/): plain-language guides for first gardens
 - [Planting calendars by state]({SITE}/planting/): frost windows and sowing dates for all 50 states
+- [Happy Grow Helper]({SITE}/grow/): free plant tracker; photograph each milestone from seed to plate, see readiness, get email reminders
 
 ## Guides
 {guides}
@@ -474,6 +475,8 @@ def main():
     entries.append((SITE + "/planting/", DATA_UPDATED, "0.7", None))
     entries += [(u, DATA_UPDATED, "0.6", None) for u in state_urls]
     entries.append((SITE + "/facts.html", DATA_UPDATED, "0.6", None))
+    if (ROOT / "grow/index.html").exists():
+        entries.append((SITE + "/grow/", git_date("grow/index.html"), "0.8", "media/brand/clay/scene-box-in-garden.png"))
     write_sitemap(entries)
     print(f"built {len(md_posts)} markdown posts (+{len(posts)-len(md_posts)} hand-built kept), {len(states)} state pages, facts, llms.txt, sitemap ({len(entries)} urls)")
 
