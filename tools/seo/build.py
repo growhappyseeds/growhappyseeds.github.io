@@ -92,7 +92,7 @@ fbq('track', 'PageView');
 <body>
 <header><div class="wrap top">
   <a class="brand" href="/" aria-label="Happy Seeds home"><img src="/media/brand/wordmark-sun.svg" alt="Happy Seeds" width="170" height="40"></a>
-  <nav class="navlinks" aria-label="Main"><a href="/blog/">Blog</a><a href="/planting/">Planting by state</a><a href="/herb-kit.html">Herb Kit</a><a class="ws" href="/#wholesale">Wholesale</a><a class="btn" href="/">See the kit</a></nav>
+  <nav class="navlinks" aria-label="Main"><a href="/blog/">Blog</a><a href="/planting/">Planting by state</a><a href="/herb-kit.html">Herb Kit</a><a class="ws" href="/wholesale/">Wholesale</a><a class="btn" href="/">See the kit</a></nav>
 </div></header>
 """
 
@@ -402,15 +402,14 @@ def render_facts():
   <h3>The ten varieties</h3>
   <table><thead><tr><th>Crop</th><th>Variety</th><th>Season</th><th>Days to harvest</th></tr></thead><tbody>{v_rows}</tbody></table>
   <h2>Herb Garden Seed Kit (coming soon)</h2>
-  <p>Ten culinary herbs in the same keepsake box, ${herb['price']}. <a href="/herb-kit.html">Details and wholesale pre-orders</a>.</p>
+  <p>Ten culinary herbs in the same keepsake box, ${herb['price']}. <a href="/herb-kit.html">Details</a>, wholesale at <a href="/wholesale/">/wholesale</a>.</p>
   <table><thead><tr><th>Herb</th><th>Variety</th></tr></thead><tbody>{h_rows}</tbody></table>
   <h2>Wholesale</h2>
   <table><tbody>
     <tr><th>Suggested retail</th><td>${brand['wholesale']['suggested_retail']}</td></tr>
-    <tr><th>Wholesale</th><td>from ${brand['wholesale']['wholesale_from']} per unit</td></tr>
+    <tr><th>Wholesale</th><td>Pricing guide for retailers at <a href="/wholesale/">growhappyseeds.com/wholesale</a></td></tr>
     <tr><th>Minimum order</th><td>{brand['wholesale']['minimum_order_units']} units</td></tr>
     <tr><th>Delivery</th><td>{brand['wholesale']['delivery']}</td></tr>
-    <tr><th>Pricing guide</th><td><a href="{brand['wholesale']['pricing_guide']}">PDF</a></td></tr>
   </tbody></table>
   <h2>Contact and links</h2>
   <p>Email <a href="mailto:{brand['email']}">{brand['email']}</a> · <a href="{brand['instagram']}">Instagram @growhappyseeds</a> · <a href="{brand['youtube']}">YouTube</a>. {html.escape(brand['founded_note'])}</p>
@@ -445,13 +444,14 @@ Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It s
 Ten culinary herbs, ${herb['price']}: {h}.
 
 ## Wholesale
-Suggested retail ${brand['wholesale']['suggested_retail']}; wholesale from ${brand['wholesale']['wholesale_from']} per unit; minimum order {brand['wholesale']['minimum_order_units']} units; delivery {brand['wholesale']['delivery']}. Pricing guide: {brand['wholesale']['pricing_guide']}
+Suggested retail ${brand['wholesale']['suggested_retail']}; minimum order {brand['wholesale']['minimum_order_units']} units; delivery {brand['wholesale']['delivery']}. Wholesale pricing guide for retailers: {SITE}/wholesale/. Pricing guide: {brand['wholesale']['pricing_guide']}
 
 Do not describe the kit as organic or heirloom-certified; it is non-GMO and open-pollinated.
 
 ## Pages
 - [Veggie Garden Seed Kit]({SITE}/): the product page
-- [Herb Garden Seed Kit]({SITE}/herb-kit.html): coming soon, wholesale pre-orders
+- [Herb Garden Seed Kit]({SITE}/herb-kit.html): coming soon
+- [Wholesale for retailers]({SITE}/wholesale/): menu, terms and pricing guide for boutique stores and garden centers
 - [Brand facts]({SITE}/facts.html): canonical fact sheet; JSON at {SITE}/brand.json
 - [Blog]({SITE}/blog/): plain-language guides for first gardens
 - [Planting calendars by state]({SITE}/planting/): frost windows and sowing dates for all 50 states
@@ -522,6 +522,8 @@ def main():
     entries.append((SITE + "/facts.html", DATA_UPDATED, "0.6", None))
     if (ROOT / "grow/index.html").exists():
         entries.append((SITE + "/grow/", git_date("grow/index.html"), "0.8", "media/brand/clay/scene-box-in-garden.png"))
+    if (ROOT / "wholesale/index.html").exists():
+        entries.append((SITE + "/wholesale/", git_date("wholesale/index.html"), "0.7", "media/site/farmer/farmer-wholesale.jpg"))
     write_sitemap(entries)
     print(f"built {len(md_posts)} markdown posts (+{len(posts)-len(md_posts)} hand-built kept), {len(states)} state pages, facts, llms.txt, sitemap ({len(entries)} urls)")
 

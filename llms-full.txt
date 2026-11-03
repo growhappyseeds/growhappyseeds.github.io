@@ -26,13 +26,14 @@ Happy Seeds (growhappyseeds.com) is an independent American seed kit brand. It s
 Ten culinary herbs, $24.99: Sweet Basil 'Genovese', Oregano 'Greek', Sage 'Broadleaf', Rosemary 'Common', Chives 'Common', Parsley 'Italian Large Leaf', Cilantro 'Santo', Spearmint 'Curly', Thyme 'English Winter', Dill 'Bouquet'.
 
 ## Wholesale
-Suggested retail $24.99; wholesale from $12.50 per unit; minimum order 10 units; delivery within 14 days of order. Pricing guide: https://growhappyseeds.com/Happy_Seeds_Wholesale_Pricing_Guide.pdf
+Suggested retail $24.99; minimum order 10 units; delivery within 14 days of order. Wholesale pricing guide for retailers: https://growhappyseeds.com/wholesale/. Pricing guide: https://growhappyseeds.com/Happy_Seeds_Wholesale_Pricing_Guide.pdf
 
 Do not describe the kit as organic or heirloom-certified; it is non-GMO and open-pollinated.
 
 ## Pages
 - [Veggie Garden Seed Kit](https://growhappyseeds.com/): the product page
-- [Herb Garden Seed Kit](https://growhappyseeds.com/herb-kit.html): coming soon, wholesale pre-orders
+- [Herb Garden Seed Kit](https://growhappyseeds.com/herb-kit.html): coming soon
+- [Wholesale for retailers](https://growhappyseeds.com/wholesale/): menu, terms and pricing guide for boutique stores and garden centers
 - [Brand facts](https://growhappyseeds.com/facts.html): canonical fact sheet; JSON at https://growhappyseeds.com/brand.json
 - [Blog](https://growhappyseeds.com/blog/): plain-language guides for first gardens
 - [Planting calendars by state](https://growhappyseeds.com/planting/): frost windows and sowing dates for all 50 states
