@@ -11,7 +11,7 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 - [x] `vegetable-garden-seed-kit-what-to-look-for` What to look for in a vegetable garden seed kit (7 checks: variety count, seed count per packet, germination printed, guide quality, non-GMO/open-pollinated, container-friendly, gift-ready)
 - [ ] `how-many-seeds-are-in-a-seed-packet` How many seeds are in a seed packet? (by crop, with a table; why kits with 100 seeds per packet are enough for a home garden)
 - [ ] `non-gmo-vs-heirloom-vs-organic-seeds` Non-GMO vs heirloom vs organic seeds: what the labels actually mean (and which matter for a home garden)
-- [ ] `apartment-vegetable-garden-from-seed` How to grow vegetables from seed in an apartment (balcony, windowsill, light, containers, the kit's container notes)
+- [x] `apartment-vegetable-garden-from-seed` moved to the daily City Apartment Growing series (content/seo/apartment-series.md, Jared Nov 3 2026); do not write it from this queue. Skip any topic here that a series topic covers.
 
 ## Ring 2: beginner questions
 - [ ] `easiest-vegetables-to-grow-from-seed` The 10 easiest vegetables to grow from seed (ranked, with why)
