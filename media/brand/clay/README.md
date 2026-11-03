@@ -23,3 +23,6 @@ The real Herb Garden Kit design is media/brand/herb-kit-packaging.png and herb-k
 
 ## Herb Garden Kit clay art (Jared, Nov 2 2026, approved, supersedes the Canva render MAHZyjtyv5Q)
 Jared supplied finished claymation renders of the real packaging: media/brand/clay/herb-kit/box-front.png, packets.png (all ten, real text), grow-guide.png. These are THE herb kit product images; use them (not generated ones) for the site, social product scenes and emails.
+
+## Happy Farmer MASTER character sheet (Jared, Nov 2 2026, 23:47) — supersedes every earlier farmer description
+media/brand/clay/happy-farmer-character-sheet.png, ten views. Canonical features: cream cowboy hat with a red band; a small green red-throated hummingbird perched on the crown of the hat holding a yellow flower; a wheat sprig in the corner of his mouth; dark brown hair and thick mustache; rosy cheeks; red bandana; cream shirt; blue overalls with yellow buttons. Alt expressions: wink, laughing. Crops: happy-farmer-front.png, happy-farmer-hero-3q-right.png, happy-farmer-profile-left.png. Every generated scene must match this sheet (hummingbird AND wheat sprig); an earlier draft sheet without the bird was rejected.
