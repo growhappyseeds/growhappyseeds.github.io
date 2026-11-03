@@ -452,7 +452,7 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Veggie Garden Seed Kit]({SITE}/): the product page
 - [Herb Garden Seed Kit]({SITE}/herb-kit.html): coming soon
 - [Wholesale for retailers]({SITE}/wholesale/): menu, terms and pricing guide for boutique stores and garden centers
-- [About Happy Seeds]({SITE}/about/): why Happy Seeds was created and the Happy Farmer and his hummingbird Layla
+- [About Happy Seeds]({SITE}/about/): why Happy Seeds was created and the Happy Farmer and his hummingbird Lisa
 - [Brand facts]({SITE}/facts.html): canonical fact sheet; JSON at {SITE}/brand.json
 - [Blog]({SITE}/blog/): plain-language guides for first gardens
 - [Planting calendars by state]({SITE}/planting/): frost windows and sowing dates for all 50 states
