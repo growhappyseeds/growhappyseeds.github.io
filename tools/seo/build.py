@@ -452,6 +452,7 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Veggie Garden Seed Kit]({SITE}/): the product page
 - [Herb Garden Seed Kit]({SITE}/herb-kit.html): coming soon
 - [Wholesale for retailers]({SITE}/wholesale/): menu, terms and pricing guide for boutique stores and garden centers
+- [About Happy Seeds]({SITE}/about/): why Happy Seeds was created and the Happy Farmer and his hummingbird Layla
 - [Brand facts]({SITE}/facts.html): canonical fact sheet; JSON at {SITE}/brand.json
 - [Blog]({SITE}/blog/): plain-language guides for first gardens
 - [Planting calendars by state]({SITE}/planting/): frost windows and sowing dates for all 50 states
@@ -524,6 +525,7 @@ def main():
         entries.append((SITE + "/grow/", git_date("grow/index.html"), "0.8", "media/brand/clay/scene-box-in-garden.png"))
     if (ROOT / "wholesale/index.html").exists():
         entries.append((SITE + "/wholesale/", git_date("wholesale/index.html"), "0.7", "media/site/farmer/farmer-wholesale.jpg"))
+        entries.append((SITE + "/about/", git_date("about/index.html"), "0.6", "media/site/farmer/farmer-hero.jpg"))
     write_sitemap(entries)
     print(f"built {len(md_posts)} markdown posts (+{len(posts)-len(md_posts)} hand-built kept), {len(states)} state pages, facts, llms.txt, sitemap ({len(entries)} urls)")
 
