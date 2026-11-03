@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0027-5328279395641198851.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T144226Z&X-Amz-Expires=17856&X-Amz-Signature=f59a23c3ae2382080a47a890163bed9b51c322fca629d502ff3a315f83a026d3&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2003%20Nov%202026%2019%3A40%3A02%20GMT",
+   "path": "media/2026-11/statics/blog-seed-gifts.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0028-642283982390775109.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T082023Z&X-Amz-Expires=38411&X-Amz-Signature=668b8db9554b53f442db46842b64693822c19df067e47f282da059b6d3a2bbca&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2003%20Nov%202026%2019%3A00%3A34%20GMT",
+   "path": "media/2026-11/statics/blog-balcony.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0029-862960368020077001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T140516Z&X-Amz-Expires=16804&X-Amz-Signature=7da4d4de693815ccad5e74a09d8e666805932c48940a8992c9151030a66368e7&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2003%20Nov%202026%2018%3A45%3A20%20GMT",
+   "path": "media/2026-11/statics/blog-seeds-indoors.jpg"
+  }
+ ]
+}
