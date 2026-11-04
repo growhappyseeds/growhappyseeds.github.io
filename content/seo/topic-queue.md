@@ -7,7 +7,7 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 ## Ring 1: kit and buying intent
 - [~] `housewarming-gift-for-a-gardener` Housewarming gifts for a new gardener (gift intent, pairs with the gift guide) (drafted 2026-11-02, parked in content/blog/_pending/ awaiting Jared's APPROVED reply)
 - [~] `seed-kit-for-kids` The best seed kit for kids: what makes a vegetable kit work for a child (fast crops, big seeds, forgiving varieties) (drafted 2026-11-02, parked in content/blog/_pending/ awaiting Jared's APPROVED reply)
-- [ ] `stocking-stuffers-for-gardeners` Stocking stuffers and small gifts for gardeners under $25 (seasonal, publish by mid-November)
+- [~] `stocking-stuffers-for-gardeners` Stocking stuffers and small gifts for gardeners under $25 (seasonal, publish by mid-November) (drafted 2026-11-04, parked in content/blog/_pending/ awaiting Jared's APPROVED reply)
 - [x] `vegetable-garden-seed-kit-what-to-look-for` What to look for in a vegetable garden seed kit (7 checks: variety count, seed count per packet, germination printed, guide quality, non-GMO/open-pollinated, container-friendly, gift-ready)
 - [ ] `how-many-seeds-are-in-a-seed-packet` How many seeds are in a seed packet? (by crop, with a table; why kits with 100 seeds per packet are enough for a home garden)
 - [ ] `non-gmo-vs-heirloom-vs-organic-seeds` Non-GMO vs heirloom vs organic seeds: what the labels actually mean (and which matter for a home garden)
