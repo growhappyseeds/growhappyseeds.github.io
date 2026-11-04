@@ -21,7 +21,7 @@ faq:
   - q: "What gardening gifts fit in a stocking?"
     a: "Seed packets, snips, pruners, gloves, plant labels and a marker, and a ball of twine all fit. So do a soil thermometer, a hand lens, a small notebook, gardener's soap and a tool-cleaning block. A seed kit in a slim box sits beside the stocking or under the tree rather than inside it."
   - q: "What should you avoid giving a gardener for Christmas?"
-    a: "Novelty tool sets with painted handles that bend on first use, scented gifts they did not ask for, and decorative items that do nothing. Also skip gifts that assume a yard when they garden on a balcony. Also avoid seeds for crops their climate cannot grow; check their state's planting calendar or ask them first."
+    a: "Novelty tool sets with painted handles that bend on first use, scented gifts they did not ask for, and decorative items that do nothing. Also skip gifts that assume a yard when they garden on a balcony. Steer clear of seeds for crops their climate cannot grow; check their state's planting calendar or ask them first."
   - q: "How much should you spend on a gardener's stocking stuffer?"
     a: "Most useful garden gifts cost under $25, and many good ones are under $10. Pruners and a seed kit sit at the top of that range; labels, twine and a soil thermometer sit at the bottom. Spend on durability rather than packaging, because a gardener will use a good tool for a decade."
 ---
