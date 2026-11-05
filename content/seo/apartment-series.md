@@ -15,7 +15,7 @@ How to use this file:
 Slugs below are suggestions; keep them unless the research shows people search a clearly better phrase.
 
 ## No balcony (windows, counters, shelves)
-- [~] `apartment-vegetable-garden-from-seed` How to grow vegetables from seed in an apartment with no balcony (the series anchor: light, space, which crops, a 30-day starter plan; moved here from topic-queue.md Ring 1) (drafted 2026-11-04, pending)
+- [x] live /blog/apartment-vegetable-garden-from-seed/ `apartment-vegetable-garden-from-seed` How to grow vegetables from seed in an apartment with no balcony (the series anchor: light, space, which crops, a 30-day starter plan; moved here from topic-queue.md Ring 1) (drafted 2026-11-04)
 - [ ] `best-window-direction-for-growing-vegetables` Which window is best for growing vegetables indoors: south, east, west or north (what each direction can grow)
 - [ ] `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims)
 - [ ] `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them)
@@ -32,7 +32,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [ ] `apartment-gardening-with-pets` Growing vegetables from seed in an apartment with cats or dogs (placement and which plants to keep out of reach; cite the ASPCA list)
 
 ## With a balcony (or a small patio, terrace or roof deck)
-- [ ] `start-indoors-move-to-balcony` Start indoors, finish on the balcony: moving apartment seedlings outside without losing them
+- [~] `start-indoors-move-to-balcony` Start indoors, finish on the balcony: moving apartment seedlings outside without losing them (drafted 2026-11-05, pending)
 - [ ] `balcony-weight-limits-for-containers` How heavy is a wet planter? Balcony weight limits and container gardening in apartments
 - [ ] `balcony-garden-lease-and-building-rules` Can you have a vegetable garden on a rental balcony? Lease rules, drips and neighbors
 - [ ] `tomatoes-on-a-small-balcony` Growing tomatoes from seed for a small balcony (Floradade as the worked example)
