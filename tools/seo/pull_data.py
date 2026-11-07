@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Pull Google Search Console and GA4 data for growhappyseeds.com into tools/seo/data/.
 
-Runs on GitHub Actions (see .github/workflows/seo-data.yml) with a Google service
-account whose JSON key is in the repository secret GOOGLE_SA_JSON. The account
-must be a user on the Search Console property (sc-domain:growhappyseeds.com)
-and a Viewer on GA4 property 558625133.
+Runs on GitHub Actions (see .github/workflows/seo-data.yml). Auth is keyless:
+the workflow signs in to Google through Workload Identity Federation as the
+service account seo-data-53@dynamic-circle-513619-r5.iam.gserviceaccount.com
+(no key file; the growhappyseeds.com org blocks service-account keys). That
+account is a Full user on Search Console property sc-domain:growhappyseeds.com
+and a Viewer on GA4 property 558625133. A GOOGLE_SA_JSON key, if ever set, is
+still honoured.
 
 Writes, per run (UTC date of the run):
   tools/seo/data/gsc/YYYY-MM-DD.json   last 28 days by date; top queries and pages
@@ -17,6 +20,7 @@ Writes, per run (UTC date of the run):
 Only reads; never changes site pages.
 """
 import json, os, sys, datetime, pathlib
+import google.auth
 import google.auth.transport.requests
 from google.oauth2 import service_account
 
@@ -28,8 +32,11 @@ TODAY = datetime.date.today()
 SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly",
           "https://www.googleapis.com/auth/analytics.readonly"]
 
-creds = service_account.Credentials.from_service_account_info(
-    json.loads(os.environ["GOOGLE_SA_JSON"]), scopes=SCOPES)
+if os.environ.get("GOOGLE_SA_JSON"):
+    creds = service_account.Credentials.from_service_account_info(
+        json.loads(os.environ["GOOGLE_SA_JSON"]), scopes=SCOPES)
+else:  # Workload Identity Federation (google-github-actions/auth sets GOOGLE_APPLICATION_CREDENTIALS)
+    creds, _ = google.auth.default(scopes=SCOPES)
 session = google.auth.transport.requests.AuthorizedSession(creds)
 
 

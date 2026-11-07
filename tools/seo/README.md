@@ -73,13 +73,14 @@ Every post lives at `/blog/<slug>/` (a folder with `index.html`), never `/blog/<
 
 Agents read these files instead of calling Google. If `latest.json` is older than two days, the workflow failed; the Analyst says so in its email rather than estimating.
 
-One-time setup (Jared, about ten minutes):
-1. In Google Cloud (console.cloud.google.com), pick or create a project, enable the **Google Search Console API** and the **Google Analytics Data API**.
-2. IAM & Admin → Service Accounts → Create. Name it `seo-data`. No roles needed. Open it → Keys → Add key → JSON. Download the file.
-3. Search Console → growhappyseeds.com → Settings → Users and permissions → Add user: the service account's email (ends in `.iam.gserviceaccount.com`), permission **Full**.
-4. GA4 → Admin → Property access management → Add: the same email, role **Viewer**.
-5. GitHub repo → Settings → Secrets and variables → Actions → New repository secret: name `GOOGLE_SA_JSON`, value = the whole contents of the downloaded JSON file.
-6. Actions tab → "SEO data pull" → Run workflow. The first files appear in `tools/seo/data/` within a minute.
+Setup (done Nov 7 2026): keyless. The growhappyseeds.com Workspace blocks service-account keys
+(org policy iam.managed.disableServiceAccountKeyCreation), so the workflow signs in through
+Workload Identity Federation instead: GCP project dynamic-circle-513619-r5 (number 861021440004),
+pool `github`, provider `github-actions` (issuer token.actions.githubusercontent.com, condition
+`assertion.repository == 'growhappyseeds/growhappyseeds.github.io'`), impersonating
+`seo-data-53@dynamic-circle-513619-r5.iam.gserviceaccount.com` (Workload Identity User granted to that
+repo). That account is a Full user in Search Console (sc-domain:growhappyseeds.com) and a Viewer on GA4
+558625133. No GitHub secret is needed. To run by hand: Actions tab → "SEO data pull" → Run workflow.
 
 The empty GA4 property "Grow Happy Seeds" (558607627) has no data stream and no data; it can be deleted or ignored. The live property is "Happy Seeds" (558625133, tag G-Z51LD2VZH1).
 
