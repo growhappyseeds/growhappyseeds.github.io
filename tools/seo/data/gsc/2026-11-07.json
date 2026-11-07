@@ -1,0 +1,111 @@
+{
+ "pulled": "2026-11-07",
+ "site": "sc-domain:growhappyseeds.com",
+ "range": [
+  "2026-10-10",
+  "2026-11-06"
+ ],
+ "by_date": [
+  {
+   "keys": [
+    "2026-11-01"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-02"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  },
+  {
+   "keys": [
+    "2026-11-03"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-04"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-05"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-06"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  }
+ ],
+ "queries_7d": [],
+ "queries_28d": [],
+ "pages_7d": [
+  {
+   "keys": [
+    "https://www.growhappyseeds.com/"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  }
+ ],
+ "pages_28d": [
+  {
+   "keys": [
+    "https://www.growhappyseeds.com/"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  }
+ ],
+ "page_query_3d": [],
+ "countries_28d": [
+  {
+   "keys": [
+    "usa"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  }
+ ],
+ "devices_28d": [
+  {
+   "keys": [
+    "DESKTOP"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  }
+ ]
+}
