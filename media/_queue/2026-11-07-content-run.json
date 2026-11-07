@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0039-4942096117818499704.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T212724Z&X-Amz-Expires=58444&X-Amz-Signature=3e9cb97e06d419c49caa607a5c15a3b2465e88434f6cf3184dd9c93a98ddb828&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2007%20Nov%202026%2013%3A41%3A28%20GMT",
+   "path": "media/2026-11/statics/blog-fall-vegetables.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0040-5429610780242849203.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T233646Z&X-Amz-Expires=50026&X-Amz-Signature=5a90c78b89dd55c825ceb7e0316284f8a9a9c2cbbb90b8f84ba828fcead797e1&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2007%20Nov%202026%2013%3A30%3A32%20GMT",
+   "path": "media/2026-11/statics/farmer-tomato-flower.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0041-6253769509955391831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T235920Z&X-Amz-Expires=49092&X-Amz-Signature=d8fa014d4d16bd86674a3cc895db980297d52b057998ac0b415bf873c13deb7b&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2007%20Nov%202026%2013%3A37%3A32%20GMT",
+   "path": "media/2026-11/statics/blog-window-direction.jpg"
+  }
+ ]
+}
