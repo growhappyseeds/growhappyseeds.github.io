@@ -125,9 +125,9 @@ FOOT = f"""
 
 def org_ld():
     return {
-        "@type": "Organization", "@id": SITE + "/#org", "name": brand["name"], "url": SITE + "/",
+        "@type": "Organization", "@id": SITE + "/#organization", "name": brand["name"], "url": SITE + "/",
         "logo": brand["logo"], "email": brand["email"],
-        "sameAs": [brand["instagram"], brand["youtube"], f"https://www.amazon.com/dp/{brand['amazon_asin']}"],
+        "sameAs": [brand["instagram"], brand["tiktok"], brand["youtube"], brand["laylo"], f"https://www.amazon.com/dp/{brand['amazon_asin']}"],
         "description": brand["positioning"],
     }
 
@@ -138,7 +138,7 @@ def product_ld(p):
         "description": f"{p['packets']} seed packets, {p['seed_count']} seeds, a {p['guide_pages']}-page grow guide and a keepsake box.",
         "offers": {"@type": "Offer", "price": p["price"], "priceCurrency": p["currency"],
                    "availability": "https://schema.org/" + p["availability"], "url": p["url"],
-                   "seller": {"@id": SITE + "/#org"}},
+                   "seller": {"@id": SITE + "/#organization"}},
     }
     if "seed_claims" in p:
         ld["additionalProperty"] = [{"@type": "PropertyValue", "name": "Seed claim", "value": c} for c in p["seed_claims"]]
@@ -314,7 +314,7 @@ def render_state(s):
     ]
     ld = graph(org_ld(),
                {"@type": "Article", "@id": url + "#article", "headline": title, "description": desc, "datePublished": "2026-10-31",
-                "dateModified": DATA_UPDATED, "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "mainEntityOfPage": url,
+                "dateModified": DATA_UPDATED, "author": {"@id": SITE + "/#organization"}, "publisher": {"@id": SITE + "/#organization"}, "mainEntityOfPage": url,
                 "about": {"@type": "State", "name": s["name"]}, "image": veggie["image"]},
                crumbs_ld([("Happy Seeds", SITE + "/"), ("Planting by state", SITE + "/planting/"), (s["name"], url)]),
                faq_ld(faq))
