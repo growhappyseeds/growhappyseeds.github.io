@@ -16,7 +16,7 @@ Writes, per run (UTC date of the run):
 
 Only reads; never changes site pages.
 """
-import json, os, sys, datetime, pathlib
+import json, os, sys, datetime, pathlib, urllib.parse
 import google.auth.transport.requests
 from google.oauth2 import service_account
 
@@ -32,6 +32,20 @@ creds = service_account.Credentials.from_service_account_info(
     json.loads(os.environ["GOOGLE_SA_JSON"]), scopes=SCOPES)
 session = google.auth.transport.requests.AuthorizedSession(creds)
 
+# Use whichever Search Console property the service account can see: the Domain
+# property (sc-domain:) or a URL-prefix property (https://growhappyseeds.com/).
+_sites = session.get("https://searchconsole.googleapis.com/webmasters/v3/sites", timeout=60)
+if _sites.status_code >= 400:
+    sys.exit(f"Search Console site list -> {_sites.status_code}: {_sites.text[:500]}")
+_visible = [s["siteUrl"] for s in _sites.json().get("siteEntry", [])]
+for _cand in (SITE, "https://growhappyseeds.com/", "https://www.growhappyseeds.com/", "http://growhappyseeds.com/"):
+    if _cand in _visible:
+        SITE = _cand
+        break
+else:
+    sys.exit(f"Service account sees no growhappyseeds.com property in Search Console (sees: {_visible}). "
+             "Add its email under Search Console > Settings > Users and permissions.")
+
 
 def post(url, body):
     r = session.post(url, json=body, timeout=60)
@@ -45,7 +59,7 @@ def gsc_query(start, end, dimensions, row_limit=250, filters=None):
             "dimensions": dimensions, "rowLimit": row_limit, "dataState": "all"}
     if filters:
         body["dimensionFilterGroups"] = [{"filters": filters}]
-    data = post(f"https://searchconsole.googleapis.com/webmasters/v3/sites/{SITE.replace(':', '%3A')}/searchAnalytics/query", body)
+    data = post(f"https://searchconsole.googleapis.com/webmasters/v3/sites/{urllib.parse.quote(SITE, safe='')}/searchAnalytics/query", body)
     return [{"keys": r["keys"], "clicks": r["clicks"], "impressions": r["impressions"],
              "ctr": round(r["ctr"], 4), "position": round(r["position"], 1)} for r in data.get("rows", [])]
 
