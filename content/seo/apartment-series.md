@@ -17,7 +17,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 ## No balcony (windows, counters, shelves)
 - [x] live /blog/apartment-vegetable-garden-from-seed/ `apartment-vegetable-garden-from-seed` How to grow vegetables from seed in an apartment with no balcony (the series anchor: light, space, which crops, a 30-day starter plan; moved here from topic-queue.md Ring 1) (drafted 2026-11-04)
 - [x] live /blog/best-window-direction-for-growing-vegetables/ `best-window-direction-for-growing-vegetables` Which window is best for growing vegetables indoors: south, east, west or north (what each direction can grow) (drafted 2026-11-06)
-- [ ] `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims)
+- [~] `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims) (drafted 2026-11-08, pending)
 - [ ] `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them)
 - [ ] `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings
 - [ ] `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots
