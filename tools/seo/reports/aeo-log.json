@@ -1,491 +1,1038 @@
 {
-  "prompts": [
-    "best seed kit for a beginner gardener",
-    "gift for someone who wants to start a vegetable garden",
-    "best vegetable seed companies in the US",
-    "what seeds should I buy for my first garden",
-    "non-GMO seed kit with a grow guide",
-    "housewarming gift under $25 for a plant lover",
-    "what vegetables can a kid grow from seed",
-    "seed kit vs buying individual seed packets",
-    "when should I plant vegetables in New Jersey",
-    "best herb garden kit",
-    "vegetable garden seed kit",
-    "best seed companies for beginners"
-  ],
-  "runs": [
+ "prompts": [
+  "best seed kit for a beginner gardener",
+  "gift for someone who wants to start a vegetable garden",
+  "best vegetable seed companies in the US",
+  "what seeds should I buy for my first garden",
+  "non-GMO seed kit with a grow guide",
+  "housewarming gift under $25 for a plant lover",
+  "what vegetables can a kid grow from seed",
+  "seed kit vs buying individual seed packets",
+  "when should I plant vegetables in New Jersey",
+  "best herb garden kit",
+  "vegetable garden seed kit",
+  "best seed companies for beginners"
+ ],
+ "runs": [
+  {
+   "date": "2026-11-02",
+   "share_of_voice": 0,
+   "search_presence": 0,
+   "share_of_voice_n": "0/12",
+   "search_presence_n": "0/12",
+   "previous_run": null,
+   "method": "Search proxy: WebSearch (standard) per prompt, top 10 unique domains recorded. Answer proxy: answered each prompt as a careful shopping assistant from the search results plus general market knowledge; brands listed in the order they would be named.",
+   "per_prompt": [
     {
-      "date": "2026-11-02",
-      "share_of_voice": 0,
-      "search_presence": 0,
-      "share_of_voice_n": "0/12",
-      "search_presence_n": "0/12",
-      "previous_run": null,
-      "method": "Search proxy: WebSearch (standard) per prompt, top 10 unique domains recorded. Answer proxy: answered each prompt as a careful shopping assistant from the search results plus general market knowledge; brands listed in the order they would be named.",
-      "per_prompt": [
-        {
-          "prompt": "best seed kit for a beginner gardener",
-          "hs_named": false,
-          "why_not": "No review or list page found that mentions Happy Seeds; the product only surfaces on growhappyseeds.com, which is not in the top 10.",
-          "brands_named": [
-            "Gardenary Easy Garden Kit",
-            "True Leaf Market",
-            "Burpee",
-            "Botanical Interests",
-            "Sow Right Seeds",
-            "Back to the Roots"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "centos.pepipost.com",
-            "ugaoo.com",
-            "shop.gardenary.com",
-            "mayfairfarms.com",
-            "gardengatemagazine.com",
-            "thirddrawerdown.com",
-            "farmstandapp.com",
-            "store.trueleafmarket.com",
-            "horticulture.co.uk",
-            "mymodernmet.com"
-          ],
-          "list_pages": [
-            "gardengatemagazine.com/review/garden-starter-kit/",
-            "gardengatemagazine.com/review/best-seed-starting-kit/",
-            "gardengatemagazine.com/review/best-garden-starter-kit/",
-            "ugaoo.com/blogs/kitchen-gardening/best-seed-kits-for-starting-your-garden",
-            "mymodernmet.com/gardening-and-grow-kits"
-          ]
-        },
-        {
-          "prompt": "gift for someone who wants to start a vegetable garden",
-          "hs_named": false,
-          "why_not": "Not on any gift guide that ranks (Epic Gardening, Lomi, Monticello); no third-party mention of the kit exists.",
-          "brands_named": [
-            "Botanical Interests",
-            "Gardenary Easy Garden Kit",
-            "Baker Creek",
-            "Hudson Valley Seed Co",
-            "Burpee",
-            "Seed Savers Exchange",
-            "Hori Hori knife (Nisaku)",
-            "Felco pruners"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "underluckystars.com",
-            "grandavehousing.calpoly.edu",
-            "lomi.com",
-            "epicgardening.com",
-            "swyg.nmsu.edu",
-            "seeds.ca",
-            "monticelloshop.org",
-            "gardenexpress.com.au",
-            "botanicalinterests.com",
-            "news.cals.wisc.edu"
-          ],
-          "list_pages": [
-            "epicgardening.com/beginner-gardener-gifts/",
-            "lomi.com/blogs/news/gifts-for-vegetable-gardeners",
-            "monticelloshop.org/gifts-for-gardeners",
-            "insidecolumbia.net/gifts-for-gardeners/"
-          ]
-        },
-        {
-          "prompt": "best vegetable seed companies in the US",
-          "hs_named": false,
-          "why_not": "Happy Seeds is a one-product kit brand, not a seed company with a catalog; every list page (Mother Earth News, Bob Vila, Home for the Harvest, Sunset) names catalog companies.",
-          "brands_named": [
-            "Johnny's Selected Seeds",
-            "Baker Creek Heirloom Seeds",
-            "Burpee",
-            "Botanical Interests",
-            "Seed Savers Exchange",
-            "High Mowing Organic Seeds",
-            "Territorial Seed",
-            "Southern Exposure Seed Exchange",
-            "Fedco Seeds",
-            "Park Seed",
-            "Renee's Garden",
-            "Pinetree Garden Seeds"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "farmonaut.com",
-            "ensun.io",
-            "bobvila.com",
-            "motherearthnews.com",
-            "homefortheharvest.com",
-            "sunset.com",
-            "imarcgroup.com",
-            "enchantedgardensdesign.com",
-            "csmonitor.com",
-            "skyquestt.com"
-          ],
-          "list_pages": [
-            "bobvila.com/lawn-and-garden/best-seed-companies",
-            "motherearthnews.com/organic-gardening/best-vegetable-seed-companies-zm0z11zsto/",
-            "homefortheharvest.com/seed-companies",
-            "sunset.com/home-garden/edible-gardening/garden-catalogs",
-            "farmonaut.com (Best Vegetable Seed Companies USA 2026 Guide)"
-          ]
-        },
-        {
-          "prompt": "what seeds should I buy for my first garden",
-          "hs_named": false,
-          "why_not": "Informational query answered with crop advice (lettuce, radish, bush beans, zucchini, cherry tomato); brands only come up as where to buy packets. Happy Seeds' /blog/best-vegetable-seeds-for-beginners/ is one day old and not ranking.",
-          "brands_named": [
-            "Botanical Interests",
-            "Baker Creek",
-            "Burpee",
-            "Renee's Garden"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "sahomeowner.co.za",
-            "onslow.ces.ncsu.edu",
-            "rareseeds.com",
-            "sa.damasjewellery.com",
-            "gdm.pennds.org",
-            "wpcdn.web.wsu.edu",
-            "api-reach.leaselab.com.au",
-            "v0.carbonext.com.br",
-            "sjmagazine.net",
-            "epicgardening.com"
-          ],
-          "list_pages": [
-            "epicgardening.com (21 Easy to Start Seeds for Beginner Gardeners)",
-            "rareseeds.com/blogs/seed-stories/how-to-choose-the-right-seeds-for-you",
-            "sjmagazine.net/home-garden/beginners-guide-to-buying-seeds-for-your-spring-garden"
-          ]
-        },
-        {
-          "prompt": "non-GMO seed kit with a grow guide",
-          "hs_named": false,
-          "why_not": "The closest fit to the product, but no listing (Amazon, Walmart, Etsy) or review mentioning Happy Seeds is indexed; an assistant would not know it exists.",
-          "brands_named": [
-            "Sow Right Seeds",
-            "Survival Garden Seeds",
-            "Garden Republic",
-            "Sharper Image Organic Home Garden Seed Kit",
-            "Back to the Roots",
-            "True Leaf Market",
-            "Buzzy Seeds",
-            "Open Seed Vault"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "sharperimage.com",
-            "dtfilms.co.uk",
-            "trueleafmarket.com",
-            "m.reach.dog",
-            "lowes.com",
-            "desertcart.nl",
-            "m.kohls.com",
-            "teamland.com",
-            "tractorsupply.com",
-            "walmart.com"
-          ],
-          "list_pages": []
-        },
-        {
-          "prompt": "housewarming gift under $25 for a plant lover",
-          "hs_named": false,
-          "why_not": "Not on Bob Vila, Bloomscape, Mother Mag or Jojotastic gift lists; Happy Seeds has no housewarming page (topic `housewarming-gift-for-a-gardener` is still unwritten in the queue).",
-          "brands_named": [
-            "Modern Sprout",
-            "Back to the Roots",
-            "Botanical Interests seed packet set",
-            "Buzzy Seeds",
-            "The Sill",
-            "Bloomscape",
-            "Haws mister",
-            "Terrarium kit (generic)"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "mayfairfarms.com",
-            "fewandfar.com.au",
-            "bobvila.com",
-            "theindoornursery.com",
-            "bloomscape.com",
-            "plantersplace.com",
-            "the-star.co.ke",
-            "jojotastic.com",
-            "aol.com",
-            "plnts.com"
-          ],
-          "list_pages": [
-            "bobvila.com/articles/gifts-for-plant-lovers/",
-            "bloomscape.com/green-living/best-housewarming-gifts-for-plant-lovers/",
-            "mothermag.com/housewarming-gifts/",
-            "jojotastic.com/2019/11/14/plant-lover-gift-guide/",
-            "aol.com (The Best Gifts for Plant Lovers and Green Thumbs)"
-          ]
-        },
-        {
-          "prompt": "what vegetables can a kid grow from seed",
-          "hs_named": false,
-          "why_not": "Answered with crops (radish, sunflower, peas, beans, lettuce, cherry tomato, pumpkin); kid-specific kits that come up are Buzzy / Seeds in a Cup. Happy Seeds has no kids page (`seed-kit-for-kids` unwritten).",
-          "brands_named": [
-            "Botanical Interests",
-            "Buzzy Seeds (Seeds in a Cup)",
-            "Burpee",
-            "Baker Creek"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "garden.org",
-            "hub.suttons.co.uk",
-            "thisismygarden.com",
-            "kidzone.ws",
-            "craftsonsea.co.uk",
-            "grocery.coop",
-            "seattleschild.com",
-            "ao.com",
-            "lovefood.com",
-            "citizen.co.za"
-          ],
-          "list_pages": [
-            "epicgardening.com/seeds-grow-with-kids/",
-            "garden.org/learn/articles/view/4203/",
-            "kidzone.ws/science/garden/plants-to-grow-with-kids.htm",
-            "seattleschild.com/5-kid-friendly-crops-for-beginner-gardeners-to-plant-in-early-spring/"
-          ]
-        },
-        {
-          "prompt": "seed kit vs buying individual seed packets",
-          "hs_named": false,
-          "why_not": "Happy Seeds' /blog/seed-kit-vs-seed-packets/ answers this exactly but was published 2026-11-01 and is not in the top 10; the ranking answer is a syndicated AOL/Southern Living piece and Epic Gardening.",
-          "brands_named": [
-            "Burpee",
-            "Botanical Interests",
-            "Baker Creek",
-            "Gardenary",
-            "Survival Garden Seeds",
-            "Sow Right Seeds"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "epicgardening.com",
-            "aol.com",
-            "greenhousemegastore.com",
-            "allotment-garden.org",
-            "video.iowapbs.org",
-            "watch.opb.org",
-            "video.wpsu.org",
-            "pbs.kixe.org",
-            "tomatodirt.com",
-            "gardeningbeyond.com"
-          ],
-          "list_pages": [
-            "aol.com/articles/store-bought-seed-kits-worth-140043210.html",
-            "epicgardening.com/starting-seeds-vs-buying-plants/",
-            "gardeningbeyond.com (5 Best Heirloom Seed Kits)"
-          ]
-        },
-        {
-          "prompt": "when should I plant vegetables in New Jersey",
-          "hs_named": false,
-          "why_not": "Answered from Rutgers NJAES, Urban Farmer and the Almanac; the SERP is mostly spam copies of 'NJ vegetable planting calendar'. /planting/new-jersey.html is live but one day old and not ranking.",
-          "brands_named": [
-            "Rutgers NJAES (not a brand)",
-            "Urban Farmer (ufseeds.com)",
-            "Old Farmer's Almanac",
-            "Lawn by Season"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "c2055.cloudnet.se",
-            "mds.oandg.co.uk",
-            "persona2.handsonsystems.com",
-            "buscadorempresas.muypymes.com",
-            "ufseeds.com",
-            "web01-nj-ln.ctpublic.org",
-            "mariadb3.chipta.com",
-            "lbas.lboro.ac.uk",
-            "chw.dhis2.org",
-            "ctradersite.ctrader.com"
-          ],
-          "list_pages": [
-            "ufseeds.com/new-jersey-vegetable-planting-calendar.html",
-            "lawnbyseason.com/vegetables/new-jersey"
-          ]
-        },
-        {
-          "prompt": "best herb garden kit",
-          "hs_named": false,
-          "why_not": "The Herb Garden Seed Kit is 'coming soon' (herb-kit.html, not in the sitemap); every ranking list (HGTV, Gardens Illustrated, Gardeningetc, Today) is hydroponic or countertop kits.",
-          "brands_named": [
-            "AeroGarden",
-            "Click & Grow",
-            "Back to the Roots",
-            "Modern Sprout",
-            "Planters' Choice",
-            "Spade to Fork",
-            "Garden Republic",
-            "Nature's Blossom",
-            "Burpee"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "gardensillustrated.com",
-            "gardeningetc.com",
-            "mrfothergills.com.au",
-            "hgtv.com",
-            "thedailymusthave.beehiiv.com",
-            "businessinsider.in",
-            "foxnews.com",
-            "today.com",
-            "10news.com",
-            "theindoornursery.com"
-          ],
-          "list_pages": [
-            "hgtv.com/outdoors/gardens/best-indoor-herb-garden",
-            "gardensillustrated.com/garden-equipment/herb-garden-kits",
-            "gardeningetc.com/buying-guides/best-herb-garden-kit",
-            "today.com/shop/best-gardening-kits-t214060",
-            "nbcnews.com/select (indoor herb gardens)",
-            "homefortheharvest.com (herb kits)"
-          ]
-        },
-        {
-          "prompt": "vegetable garden seed kit",
-          "hs_named": false,
-          "why_not": "The exact product term; results are product listings (Mother Earth News store, Almanac, Plant Addicts, OSC, Etsy, True Leaf). growhappyseeds.com has no indexed product listing in the top 10 and no marketplace listing surfaces.",
-          "brands_named": [
-            "Sow Right Seeds",
-            "Survival Garden Seeds",
-            "Old Farmer's Almanac Heirloom Vegetable Garden Seed Starter Kit",
-            "OSC Seeds Vegetable Garden Starter Kit",
-            "Plant Addicts Heirloom Vegetable Garden Gift Box",
-            "True Leaf Market",
-            "Garden Republic",
-            "Burpee"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "gardenista.com",
-            "store.motherearthnews.com",
-            "latestdeals.co.uk",
-            "dtfilms.co.uk",
-            "plantaddicts.com",
-            "shop.garfieldconservatory.org",
-            "lovemysalad.com",
-            "store.newengland.com",
-            "store.almanac.com",
-            "deals.christianpost.com"
-          ],
-          "list_pages": []
-        },
-        {
-          "prompt": "best seed companies for beginners",
-          "hs_named": false,
-          "why_not": "Same catalog-company lists as prompt 3 (Home for the Harvest, Bob Vila, Mother Earth News, Sunset, Gardening Mentor); half the SERP is cannabis seed banks (Leafly).",
-          "brands_named": [
-            "Burpee",
-            "Botanical Interests",
-            "Baker Creek Heirloom Seeds",
-            "Johnny's Selected Seeds",
-            "Renee's Garden",
-            "Seed Savers Exchange",
-            "Territorial Seed",
-            "Park Seed",
-            "Ferry-Morse",
-            "High Mowing Organic Seeds"
-          ],
-          "hs_in_top10": false,
-          "top_domains": [
-            "leafly.ca",
-            "leafly.com",
-            "gardeningmentor.com",
-            "chickenscratchny.com",
-            "homefortheharvest.com",
-            "vinnews.com",
-            "bobvila.com",
-            "organic-gardening-classes-by-prior-unity-garde.teachable.com",
-            "idealhome.co.uk",
-            "sunset.com"
-          ],
-          "list_pages": [
-            "homefortheharvest.com/seed-companies/",
-            "bobvila.com/lawn-and-garden/best-seed-companies",
-            "motherearthnews.com/organic-gardening/best-garden-seed-companies",
-            "gardeningmentor.com/seeds/",
-            "sunset.com/home-garden/edible-gardening/garden-catalogs"
-          ]
-        }
-      ],
-      "health": {
-        "live_fetch": "FAILED: all 12 WebFetch requests to growhappyseeds.com returned PROVENANCE_REQUIRED (the fetch tool's permission prompt was not answered in this unattended run; not retried per tool instruction). Same failure as the 2026-11-02 daily report. Live HTTP status of robots.txt, sitemap.xml, llms.txt, facts.html, /blog/, /planting/new-jersey.html could not be confirmed.",
-        "fallback": "Repo copy of main at e0cb94f (pulled 2026-11-02 19:48 UTC) plus GitHub Pages 'pages build and deployment' run #124 for that same commit: success at 2026-11-02 19:48 UTC. So the files below are what the site serves.",
-        "robots_txt": "present; Allow / for all, Disallow /media/_queue/, /media/*/review.html, /tools/; GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended, Applebot, Amazonbot, meta-externalagent, Bytespider explicitly allowed; Sitemap line present",
-        "sitemap_xml": "present; 66 URLs (home, /blog/, 11 posts, /planting/ + 50 states, /facts.html, /grow/); lastmod 2026-11-01 x63, 2026-11-02 x3 (/, /blog/, /blog/vegetable-garden-seed-kit-what-to-look-for/); no future dates; herb-kit.html not listed",
-        "llms_txt": "present; positioning line, product facts, contact",
-        "facts_html": "present; JSON-LD parses",
-        "blog_index": "present; JSON-LD parses",
-        "planting_new_jersey": "present; datePublished 2026-10-31, dateModified 2026-11-01",
-        "spot_checks": {
-          "/blog/best-seed-gifts/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
-          "/blog/how-to-start-a-vegetable-garden-for-beginners/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
-          "/blog/seed-kit-vs-seed-packets/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
-          "/planting/ohio.html": "present; 2026-10-31 / 2026-11-01; JSON-LD ok",
-          "/herb-kit.html": "present; title 'Herb Garden Seed Kit | 10 Herbs, Coming Soon'; JSON-LD ok; not in sitemap"
-        },
-        "future_dates": "none found (sitemap lastmod and page datePublished/dateModified all <= 2026-11-02)",
-        "home_jsonld": "1 block, parses",
-        "search_console": "still not connected: tools/seo/data/latest.json pulled = null, seo-data.yml 0 runs; indexing of the 66 URLs cannot be verified"
-      },
-      "new_mentions": [],
-      "new_mentions_note": "WebSearch for \"Happy Seeds\" seed kit, growhappyseeds.com and \"Happy Seeds\" \"Veggie Garden Seed Kit\" returned no third-party page about the brand. Only hit with the name: an echotik.live TikTok-influencer listing titled 'Happy Seeds' (unverified; may be the brand's own account, not a mention).",
-      "list_pages_to_pitch": [
-        "epicgardening.com/beginner-gardener-gifts/ (ranks for the gift prompt)",
-        "bobvila.com/articles/gifts-for-plant-lovers/ and bobvila.com/lawn-and-garden/best-seed-companies (rank for 3 prompts)",
-        "bloomscape.com/green-living/best-housewarming-gifts-for-plant-lovers/ (under-$25 angle)",
-        "gardengatemagazine.com/review/garden-starter-kit/ (3 Garden Gate kit reviews rank for prompt 1)",
-        "homefortheharvest.com/seed-companies/ (ranks for both seed-company prompts)"
-      ],
-      "competitors": {
-        "Burpee": 9,
-        "Botanical Interests": 8,
-        "Baker Creek": 6,
-        "Back to the Roots": 4,
-        "Sow Right Seeds": 4,
-        "Buzzy Seeds": 3,
-        "Garden Republic": 3,
-        "Gardenary": 3,
-        "Renee's Garden": 3,
-        "Seed Savers Exchange": 3,
-        "Survival Garden Seeds": 3,
-        "True Leaf Market": 3,
-        "High Mowing Organic Seeds": 2,
-        "Johnny's Selected Seeds": 2,
-        "Modern Sprout": 2,
-        "Old Farmer's Almanac": 2,
-        "Park Seed": 2,
-        "Territorial Seed": 2,
-        "AeroGarden": 1,
-        "Bloomscape": 1,
-        "Click & Grow": 1,
-        "Fedco Seeds": 1,
-        "Felco pruners": 1,
-        "Ferry-Morse": 1,
-        "Haws mister": 1,
-        "Hori Hori knife (Nisaku)": 1,
-        "Hudson Valley Seed Co": 1,
-        "Lawn by Season": 1,
-        "Nature's Blossom": 1,
-        "OSC Seeds Vegetable Garden Starter Kit": 1,
-        "Open Seed Vault": 1,
-        "Pinetree Garden Seeds": 1,
-        "Plant Addicts Heirloom Vegetable Garden Gift Box": 1,
-        "Planters' Choice": 1,
-        "Sharper Image Organic Home Garden Seed Kit": 1,
-        "Southern Exposure Seed Exchange": 1,
-        "Spade to Fork": 1,
-        "Terrarium kit (generic)": 1,
-        "The Sill": 1,
-        "Urban Farmer (ufseeds.com)": 1
-      }
+     "prompt": "best seed kit for a beginner gardener",
+     "hs_named": false,
+     "why_not": "No review or list page found that mentions Happy Seeds; the product only surfaces on growhappyseeds.com, which is not in the top 10.",
+     "brands_named": [
+      "Gardenary Easy Garden Kit",
+      "True Leaf Market",
+      "Burpee",
+      "Botanical Interests",
+      "Sow Right Seeds",
+      "Back to the Roots"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "centos.pepipost.com",
+      "ugaoo.com",
+      "shop.gardenary.com",
+      "mayfairfarms.com",
+      "gardengatemagazine.com",
+      "thirddrawerdown.com",
+      "farmstandapp.com",
+      "store.trueleafmarket.com",
+      "horticulture.co.uk",
+      "mymodernmet.com"
+     ],
+     "list_pages": [
+      "gardengatemagazine.com/review/garden-starter-kit/",
+      "gardengatemagazine.com/review/best-seed-starting-kit/",
+      "gardengatemagazine.com/review/best-garden-starter-kit/",
+      "ugaoo.com/blogs/kitchen-gardening/best-seed-kits-for-starting-your-garden",
+      "mymodernmet.com/gardening-and-grow-kits"
+     ]
+    },
+    {
+     "prompt": "gift for someone who wants to start a vegetable garden",
+     "hs_named": false,
+     "why_not": "Not on any gift guide that ranks (Epic Gardening, Lomi, Monticello); no third-party mention of the kit exists.",
+     "brands_named": [
+      "Botanical Interests",
+      "Gardenary Easy Garden Kit",
+      "Baker Creek",
+      "Hudson Valley Seed Co",
+      "Burpee",
+      "Seed Savers Exchange",
+      "Hori Hori knife (Nisaku)",
+      "Felco pruners"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "underluckystars.com",
+      "grandavehousing.calpoly.edu",
+      "lomi.com",
+      "epicgardening.com",
+      "swyg.nmsu.edu",
+      "seeds.ca",
+      "monticelloshop.org",
+      "gardenexpress.com.au",
+      "botanicalinterests.com",
+      "news.cals.wisc.edu"
+     ],
+     "list_pages": [
+      "epicgardening.com/beginner-gardener-gifts/",
+      "lomi.com/blogs/news/gifts-for-vegetable-gardeners",
+      "monticelloshop.org/gifts-for-gardeners",
+      "insidecolumbia.net/gifts-for-gardeners/"
+     ]
+    },
+    {
+     "prompt": "best vegetable seed companies in the US",
+     "hs_named": false,
+     "why_not": "Happy Seeds is a one-product kit brand, not a seed company with a catalog; every list page (Mother Earth News, Bob Vila, Home for the Harvest, Sunset) names catalog companies.",
+     "brands_named": [
+      "Johnny's Selected Seeds",
+      "Baker Creek Heirloom Seeds",
+      "Burpee",
+      "Botanical Interests",
+      "Seed Savers Exchange",
+      "High Mowing Organic Seeds",
+      "Territorial Seed",
+      "Southern Exposure Seed Exchange",
+      "Fedco Seeds",
+      "Park Seed",
+      "Renee's Garden",
+      "Pinetree Garden Seeds"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "farmonaut.com",
+      "ensun.io",
+      "bobvila.com",
+      "motherearthnews.com",
+      "homefortheharvest.com",
+      "sunset.com",
+      "imarcgroup.com",
+      "enchantedgardensdesign.com",
+      "csmonitor.com",
+      "skyquestt.com"
+     ],
+     "list_pages": [
+      "bobvila.com/lawn-and-garden/best-seed-companies",
+      "motherearthnews.com/organic-gardening/best-vegetable-seed-companies-zm0z11zsto/",
+      "homefortheharvest.com/seed-companies",
+      "sunset.com/home-garden/edible-gardening/garden-catalogs",
+      "farmonaut.com (Best Vegetable Seed Companies USA 2026 Guide)"
+     ]
+    },
+    {
+     "prompt": "what seeds should I buy for my first garden",
+     "hs_named": false,
+     "why_not": "Informational query answered with crop advice (lettuce, radish, bush beans, zucchini, cherry tomato); brands only come up as where to buy packets. Happy Seeds' /blog/best-vegetable-seeds-for-beginners/ is one day old and not ranking.",
+     "brands_named": [
+      "Botanical Interests",
+      "Baker Creek",
+      "Burpee",
+      "Renee's Garden"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "sahomeowner.co.za",
+      "onslow.ces.ncsu.edu",
+      "rareseeds.com",
+      "sa.damasjewellery.com",
+      "gdm.pennds.org",
+      "wpcdn.web.wsu.edu",
+      "api-reach.leaselab.com.au",
+      "v0.carbonext.com.br",
+      "sjmagazine.net",
+      "epicgardening.com"
+     ],
+     "list_pages": [
+      "epicgardening.com (21 Easy to Start Seeds for Beginner Gardeners)",
+      "rareseeds.com/blogs/seed-stories/how-to-choose-the-right-seeds-for-you",
+      "sjmagazine.net/home-garden/beginners-guide-to-buying-seeds-for-your-spring-garden"
+     ]
+    },
+    {
+     "prompt": "non-GMO seed kit with a grow guide",
+     "hs_named": false,
+     "why_not": "The closest fit to the product, but no listing (Amazon, Walmart, Etsy) or review mentioning Happy Seeds is indexed; an assistant would not know it exists.",
+     "brands_named": [
+      "Sow Right Seeds",
+      "Survival Garden Seeds",
+      "Garden Republic",
+      "Sharper Image Organic Home Garden Seed Kit",
+      "Back to the Roots",
+      "True Leaf Market",
+      "Buzzy Seeds",
+      "Open Seed Vault"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "sharperimage.com",
+      "dtfilms.co.uk",
+      "trueleafmarket.com",
+      "m.reach.dog",
+      "lowes.com",
+      "desertcart.nl",
+      "m.kohls.com",
+      "teamland.com",
+      "tractorsupply.com",
+      "walmart.com"
+     ],
+     "list_pages": []
+    },
+    {
+     "prompt": "housewarming gift under $25 for a plant lover",
+     "hs_named": false,
+     "why_not": "Not on Bob Vila, Bloomscape, Mother Mag or Jojotastic gift lists; Happy Seeds has no housewarming page (topic `housewarming-gift-for-a-gardener` is still unwritten in the queue).",
+     "brands_named": [
+      "Modern Sprout",
+      "Back to the Roots",
+      "Botanical Interests seed packet set",
+      "Buzzy Seeds",
+      "The Sill",
+      "Bloomscape",
+      "Haws mister",
+      "Terrarium kit (generic)"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "mayfairfarms.com",
+      "fewandfar.com.au",
+      "bobvila.com",
+      "theindoornursery.com",
+      "bloomscape.com",
+      "plantersplace.com",
+      "the-star.co.ke",
+      "jojotastic.com",
+      "aol.com",
+      "plnts.com"
+     ],
+     "list_pages": [
+      "bobvila.com/articles/gifts-for-plant-lovers/",
+      "bloomscape.com/green-living/best-housewarming-gifts-for-plant-lovers/",
+      "mothermag.com/housewarming-gifts/",
+      "jojotastic.com/2019/11/14/plant-lover-gift-guide/",
+      "aol.com (The Best Gifts for Plant Lovers and Green Thumbs)"
+     ]
+    },
+    {
+     "prompt": "what vegetables can a kid grow from seed",
+     "hs_named": false,
+     "why_not": "Answered with crops (radish, sunflower, peas, beans, lettuce, cherry tomato, pumpkin); kid-specific kits that come up are Buzzy / Seeds in a Cup. Happy Seeds has no kids page (`seed-kit-for-kids` unwritten).",
+     "brands_named": [
+      "Botanical Interests",
+      "Buzzy Seeds (Seeds in a Cup)",
+      "Burpee",
+      "Baker Creek"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "garden.org",
+      "hub.suttons.co.uk",
+      "thisismygarden.com",
+      "kidzone.ws",
+      "craftsonsea.co.uk",
+      "grocery.coop",
+      "seattleschild.com",
+      "ao.com",
+      "lovefood.com",
+      "citizen.co.za"
+     ],
+     "list_pages": [
+      "epicgardening.com/seeds-grow-with-kids/",
+      "garden.org/learn/articles/view/4203/",
+      "kidzone.ws/science/garden/plants-to-grow-with-kids.htm",
+      "seattleschild.com/5-kid-friendly-crops-for-beginner-gardeners-to-plant-in-early-spring/"
+     ]
+    },
+    {
+     "prompt": "seed kit vs buying individual seed packets",
+     "hs_named": false,
+     "why_not": "Happy Seeds' /blog/seed-kit-vs-seed-packets/ answers this exactly but was published 2026-11-01 and is not in the top 10; the ranking answer is a syndicated AOL/Southern Living piece and Epic Gardening.",
+     "brands_named": [
+      "Burpee",
+      "Botanical Interests",
+      "Baker Creek",
+      "Gardenary",
+      "Survival Garden Seeds",
+      "Sow Right Seeds"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "epicgardening.com",
+      "aol.com",
+      "greenhousemegastore.com",
+      "allotment-garden.org",
+      "video.iowapbs.org",
+      "watch.opb.org",
+      "video.wpsu.org",
+      "pbs.kixe.org",
+      "tomatodirt.com",
+      "gardeningbeyond.com"
+     ],
+     "list_pages": [
+      "aol.com/articles/store-bought-seed-kits-worth-140043210.html",
+      "epicgardening.com/starting-seeds-vs-buying-plants/",
+      "gardeningbeyond.com (5 Best Heirloom Seed Kits)"
+     ]
+    },
+    {
+     "prompt": "when should I plant vegetables in New Jersey",
+     "hs_named": false,
+     "why_not": "Answered from Rutgers NJAES, Urban Farmer and the Almanac; the SERP is mostly spam copies of 'NJ vegetable planting calendar'. /planting/new-jersey.html is live but one day old and not ranking.",
+     "brands_named": [
+      "Rutgers NJAES (not a brand)",
+      "Urban Farmer (ufseeds.com)",
+      "Old Farmer's Almanac",
+      "Lawn by Season"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "c2055.cloudnet.se",
+      "mds.oandg.co.uk",
+      "persona2.handsonsystems.com",
+      "buscadorempresas.muypymes.com",
+      "ufseeds.com",
+      "web01-nj-ln.ctpublic.org",
+      "mariadb3.chipta.com",
+      "lbas.lboro.ac.uk",
+      "chw.dhis2.org",
+      "ctradersite.ctrader.com"
+     ],
+     "list_pages": [
+      "ufseeds.com/new-jersey-vegetable-planting-calendar.html",
+      "lawnbyseason.com/vegetables/new-jersey"
+     ]
+    },
+    {
+     "prompt": "best herb garden kit",
+     "hs_named": false,
+     "why_not": "The Herb Garden Seed Kit is 'coming soon' (herb-kit.html, not in the sitemap); every ranking list (HGTV, Gardens Illustrated, Gardeningetc, Today) is hydroponic or countertop kits.",
+     "brands_named": [
+      "AeroGarden",
+      "Click & Grow",
+      "Back to the Roots",
+      "Modern Sprout",
+      "Planters' Choice",
+      "Spade to Fork",
+      "Garden Republic",
+      "Nature's Blossom",
+      "Burpee"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "gardensillustrated.com",
+      "gardeningetc.com",
+      "mrfothergills.com.au",
+      "hgtv.com",
+      "thedailymusthave.beehiiv.com",
+      "businessinsider.in",
+      "foxnews.com",
+      "today.com",
+      "10news.com",
+      "theindoornursery.com"
+     ],
+     "list_pages": [
+      "hgtv.com/outdoors/gardens/best-indoor-herb-garden",
+      "gardensillustrated.com/garden-equipment/herb-garden-kits",
+      "gardeningetc.com/buying-guides/best-herb-garden-kit",
+      "today.com/shop/best-gardening-kits-t214060",
+      "nbcnews.com/select (indoor herb gardens)",
+      "homefortheharvest.com (herb kits)"
+     ]
+    },
+    {
+     "prompt": "vegetable garden seed kit",
+     "hs_named": false,
+     "why_not": "The exact product term; results are product listings (Mother Earth News store, Almanac, Plant Addicts, OSC, Etsy, True Leaf). growhappyseeds.com has no indexed product listing in the top 10 and no marketplace listing surfaces.",
+     "brands_named": [
+      "Sow Right Seeds",
+      "Survival Garden Seeds",
+      "Old Farmer's Almanac Heirloom Vegetable Garden Seed Starter Kit",
+      "OSC Seeds Vegetable Garden Starter Kit",
+      "Plant Addicts Heirloom Vegetable Garden Gift Box",
+      "True Leaf Market",
+      "Garden Republic",
+      "Burpee"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "gardenista.com",
+      "store.motherearthnews.com",
+      "latestdeals.co.uk",
+      "dtfilms.co.uk",
+      "plantaddicts.com",
+      "shop.garfieldconservatory.org",
+      "lovemysalad.com",
+      "store.newengland.com",
+      "store.almanac.com",
+      "deals.christianpost.com"
+     ],
+     "list_pages": []
+    },
+    {
+     "prompt": "best seed companies for beginners",
+     "hs_named": false,
+     "why_not": "Same catalog-company lists as prompt 3 (Home for the Harvest, Bob Vila, Mother Earth News, Sunset, Gardening Mentor); half the SERP is cannabis seed banks (Leafly).",
+     "brands_named": [
+      "Burpee",
+      "Botanical Interests",
+      "Baker Creek Heirloom Seeds",
+      "Johnny's Selected Seeds",
+      "Renee's Garden",
+      "Seed Savers Exchange",
+      "Territorial Seed",
+      "Park Seed",
+      "Ferry-Morse",
+      "High Mowing Organic Seeds"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "leafly.ca",
+      "leafly.com",
+      "gardeningmentor.com",
+      "chickenscratchny.com",
+      "homefortheharvest.com",
+      "vinnews.com",
+      "bobvila.com",
+      "organic-gardening-classes-by-prior-unity-garde.teachable.com",
+      "idealhome.co.uk",
+      "sunset.com"
+     ],
+     "list_pages": [
+      "homefortheharvest.com/seed-companies/",
+      "bobvila.com/lawn-and-garden/best-seed-companies",
+      "motherearthnews.com/organic-gardening/best-garden-seed-companies",
+      "gardeningmentor.com/seeds/",
+      "sunset.com/home-garden/edible-gardening/garden-catalogs"
+     ]
     }
-  ]
+   ],
+   "health": {
+    "live_fetch": "FAILED: all 12 WebFetch requests to growhappyseeds.com returned PROVENANCE_REQUIRED (the fetch tool's permission prompt was not answered in this unattended run; not retried per tool instruction). Same failure as the 2026-11-02 daily report. Live HTTP status of robots.txt, sitemap.xml, llms.txt, facts.html, /blog/, /planting/new-jersey.html could not be confirmed.",
+    "fallback": "Repo copy of main at e0cb94f (pulled 2026-11-02 19:48 UTC) plus GitHub Pages 'pages build and deployment' run #124 for that same commit: success at 2026-11-02 19:48 UTC. So the files below are what the site serves.",
+    "robots_txt": "present; Allow / for all, Disallow /media/_queue/, /media/*/review.html, /tools/; GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended, Applebot, Amazonbot, meta-externalagent, Bytespider explicitly allowed; Sitemap line present",
+    "sitemap_xml": "present; 66 URLs (home, /blog/, 11 posts, /planting/ + 50 states, /facts.html, /grow/); lastmod 2026-11-01 x63, 2026-11-02 x3 (/, /blog/, /blog/vegetable-garden-seed-kit-what-to-look-for/); no future dates; herb-kit.html not listed",
+    "llms_txt": "present; positioning line, product facts, contact",
+    "facts_html": "present; JSON-LD parses",
+    "blog_index": "present; JSON-LD parses",
+    "planting_new_jersey": "present; datePublished 2026-10-31, dateModified 2026-11-01",
+    "spot_checks": {
+     "/blog/best-seed-gifts/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
+     "/blog/how-to-start-a-vegetable-garden-for-beginners/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
+     "/blog/seed-kit-vs-seed-packets/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
+     "/planting/ohio.html": "present; 2026-10-31 / 2026-11-01; JSON-LD ok",
+     "/herb-kit.html": "present; title 'Herb Garden Seed Kit | 10 Herbs, Coming Soon'; JSON-LD ok; not in sitemap"
+    },
+    "future_dates": "none found (sitemap lastmod and page datePublished/dateModified all <= 2026-11-02)",
+    "home_jsonld": "1 block, parses",
+    "search_console": "still not connected: tools/seo/data/latest.json pulled = null, seo-data.yml 0 runs; indexing of the 66 URLs cannot be verified"
+   },
+   "new_mentions": [],
+   "new_mentions_note": "WebSearch for \"Happy Seeds\" seed kit, growhappyseeds.com and \"Happy Seeds\" \"Veggie Garden Seed Kit\" returned no third-party page about the brand. Only hit with the name: an echotik.live TikTok-influencer listing titled 'Happy Seeds' (unverified; may be the brand's own account, not a mention).",
+   "list_pages_to_pitch": [
+    "epicgardening.com/beginner-gardener-gifts/ (ranks for the gift prompt)",
+    "bobvila.com/articles/gifts-for-plant-lovers/ and bobvila.com/lawn-and-garden/best-seed-companies (rank for 3 prompts)",
+    "bloomscape.com/green-living/best-housewarming-gifts-for-plant-lovers/ (under-$25 angle)",
+    "gardengatemagazine.com/review/garden-starter-kit/ (3 Garden Gate kit reviews rank for prompt 1)",
+    "homefortheharvest.com/seed-companies/ (ranks for both seed-company prompts)"
+   ],
+   "competitors": {
+    "Burpee": 9,
+    "Botanical Interests": 8,
+    "Baker Creek": 6,
+    "Back to the Roots": 4,
+    "Sow Right Seeds": 4,
+    "Buzzy Seeds": 3,
+    "Garden Republic": 3,
+    "Gardenary": 3,
+    "Renee's Garden": 3,
+    "Seed Savers Exchange": 3,
+    "Survival Garden Seeds": 3,
+    "True Leaf Market": 3,
+    "High Mowing Organic Seeds": 2,
+    "Johnny's Selected Seeds": 2,
+    "Modern Sprout": 2,
+    "Old Farmer's Almanac": 2,
+    "Park Seed": 2,
+    "Territorial Seed": 2,
+    "AeroGarden": 1,
+    "Bloomscape": 1,
+    "Click & Grow": 1,
+    "Fedco Seeds": 1,
+    "Felco pruners": 1,
+    "Ferry-Morse": 1,
+    "Haws mister": 1,
+    "Hori Hori knife (Nisaku)": 1,
+    "Hudson Valley Seed Co": 1,
+    "Lawn by Season": 1,
+    "Nature's Blossom": 1,
+    "OSC Seeds Vegetable Garden Starter Kit": 1,
+    "Open Seed Vault": 1,
+    "Pinetree Garden Seeds": 1,
+    "Plant Addicts Heirloom Vegetable Garden Gift Box": 1,
+    "Planters' Choice": 1,
+    "Sharper Image Organic Home Garden Seed Kit": 1,
+    "Southern Exposure Seed Exchange": 1,
+    "Spade to Fork": 1,
+    "Terrarium kit (generic)": 1,
+    "The Sill": 1,
+    "Urban Farmer (ufseeds.com)": 1
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "share_of_voice": 0.0,
+   "search_presence": 0.0,
+   "share_of_voice_n": "0/12",
+   "search_presence_n": "0/12",
+   "previous_run": {
+    "date": "2026-11-02",
+    "share_of_voice_n": "0/12",
+    "search_presence_n": "0/12"
+   },
+   "method": "Search proxy: WebSearch (standard) per prompt, top 10 unique domains recorded. Answer proxy: answered each prompt as a careful shopping assistant from the search results plus general market knowledge; brands listed in the order they would be named.",
+   "per_prompt": [
+    {
+     "prompt": "best seed kit for a beginner gardener",
+     "hs_named": false,
+     "why_not": "Same as last week: no kit review or list page that ranks mentions Happy Seeds, and no third-party page about the kit is indexed. The SERP is now led by two spam copies (narcosis-the-game.com, digital-release.koin.com) and the same Garden Gate, Ugaoo and Gardenary pages.",
+     "brands_named": [
+      "Gardenary Easy Garden Kit",
+      "Sow Right Seeds",
+      "Burpee",
+      "Botanical Interests",
+      "True Leaf Market",
+      "Back to the Roots",
+      "Jiffy"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "narcosis-the-game.com",
+      "ugaoo.com",
+      "epicgardening.com",
+      "pressreader.com",
+      "gardengatemagazine.com",
+      "shop.gardenary.com",
+      "digital-release.koin.com",
+      "mindbodygreen.com",
+      "gardensillustrated.com",
+      "horticulture.co.uk"
+     ],
+     "list_pages": [
+      "gardengatemagazine.com/review/garden-starter-kit/",
+      "gardengatemagazine.com/review/best-garden-starter-kit/",
+      "gardengatemagazine.com/review/best-seed-starting-kit/",
+      "ugaoo.com/blogs/kitchen-gardening/best-seed-kits-for-starting-your-garden",
+      "mindbodygreen.com/articles/seed-starter-kit",
+      "gardensillustrated.com/lifestyle/best-growing-kits",
+      "products.ktla.com/lawn-and-garden/seeds/best-seed-starter-kits (BestReviews)"
+     ]
+    },
+    {
+     "prompt": "gift for someone who wants to start a vegetable garden",
+     "hs_named": false,
+     "why_not": "Epic Gardening now holds 7 of the top results (beginner gifts, essential gifts, Black Friday gifts, small-space gifts) and none mentions Happy Seeds; Botanical Interests and Buzzy rank with their own gift posts. Happy Seeds' /blog/best-seed-gifts/ and /blog/gifts-for-new-gardeners/ do not rank.",
+     "brands_named": [
+      "Botanical Interests",
+      "Gardenary Easy Garden Kit",
+      "Gardenuity",
+      "Baker Creek",
+      "Burpee",
+      "Buzzy Seeds",
+      "Hudson Valley Seed Co",
+      "Felco pruners",
+      "Hori Hori knife (Nisaku)"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "growbydate-site.pages.dev",
+      "gardenuity.com",
+      "epicgardening.com",
+      "lomi.com",
+      "purewow.com",
+      "stone-pier-press.squarespace.com",
+      "botanicalinterests.com",
+      "buzzyseeds.com",
+      "f-cce-e2e-viafoura.toh.r.tmbi.com (Taste of Home mirror)",
+      "f-cce-4355.fhm.r.tmbi.com (Family Handyman mirror)"
+     ],
+     "list_pages": [
+      "epicgardening.com/beginner-gardener-gifts/",
+      "epicgardening.com/essential-gardening-gifts/",
+      "epicgardening.com/black-friday-gardening-gifts/ (new this week)",
+      "epicgardening.com/small-space-gardener-gifts/",
+      "lomi.com/blogs/news/gifts-for-vegetable-gardeners",
+      "purewow.com/home/gifts-for-gardeners",
+      "botanicalinterests.com/blogs/learn/gardener-holiday-gifts",
+      "buzzyseeds.com/blogs/growing-guides/a-gardening-gift-for-everyone-on-your-list",
+      "growbydate-site.pages.dev/guides/best-gift-for-someone-starting-a-vegetable-garden/ (new)"
+     ]
+    },
+    {
+     "prompt": "best vegetable seed companies in the US",
+     "hs_named": false,
+     "why_not": "Catalog-company lists (Bob Vila, Mother Earth News, Home for the Harvest, Sunset, Nature's Path, Sustainable Jungle) decide this prompt; Happy Seeds is a one-kit brand and is on none of them.",
+     "brands_named": [
+      "Johnny's Selected Seeds",
+      "Baker Creek",
+      "Burpee",
+      "Botanical Interests",
+      "Seed Savers Exchange",
+      "High Mowing Organic Seeds",
+      "Territorial Seed",
+      "Southern Exposure Seed Exchange",
+      "Fedco Seeds",
+      "Park Seed",
+      "Renee's Garden",
+      "Pinetree Garden Seeds"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "farmonaut.com",
+      "bobvila.com",
+      "motherearthnews.com",
+      "homefortheharvest.com",
+      "sunset.com",
+      "gardenersnet.com",
+      "enchantedgardensdesign.com",
+      "backyardgardenlover.com",
+      "naturespath.com",
+      "sustainablejungle.com"
+     ],
+     "list_pages": [
+      "bobvila.com/lawn-and-garden/best-seed-companies",
+      "motherearthnews.com/organic-gardening/best-vegetable-seed-companies-zm0z11zsto/",
+      "homefortheharvest.com/seed-companies",
+      "sunset.com/home-garden/edible-gardening/garden-catalogs",
+      "naturespath.com/en-us/blog/14-best-seed-companies-plant-organic-garden",
+      "sustainablejungle.com/sustainable-living/sustainable-seed-company/",
+      "gardeningchannel.com/7-best-seed-catalogs-for-organic-gardeners/",
+      "farmonaut.com (2026 guide)"
+     ]
+    },
+    {
+     "prompt": "what seeds should I buy for my first garden",
+     "hs_named": false,
+     "why_not": "Informational prompt answered with crop advice; the ranking pages are seed-company blogs (Baker Creek, Seeds 'n Such, True Leaf Market, Seed Organica) and extension pages. Happy Seeds' /blog/best-vegetable-seeds-for-beginners/ (live Nov 1) is still not in the top 10.",
+     "brands_named": [
+      "Botanical Interests",
+      "Baker Creek",
+      "Burpee",
+      "Renee's Garden",
+      "Seeds 'n Such",
+      "True Leaf Market"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "point-cinnamon-akbg.squarespace.com",
+      "grist.org",
+      "blog.smartgardener.com",
+      "suesenger.substack.com",
+      "rareseeds.com",
+      "onslow.ces.ncsu.edu",
+      "houzz.com",
+      "trailingpetunia.com",
+      "seedsnsuch.com",
+      "gardeningmentor.com"
+     ],
+     "list_pages": [
+      "epicgardening.com (21 Easy to Start Seeds for Beginner Gardeners)",
+      "rareseeds.com/blogs/seed-stories/how-to-choose-the-right-seeds-for-you",
+      "seedsnsuch.com/blogs/gardeners-greenroom/first-garden-buying-guide-7-easy-seeds-to-get-you-started-growing-your-own-food",
+      "gardeningmentor.com/seeds/",
+      "seedorganica.com/blogs/news/15-best-vegetable-seeds-to-buy-for-beginners-in-2026 (new)",
+      "trueleafmarket.com (Seed Catalog Overwhelm)"
+     ]
+    },
+    {
+     "prompt": "non-GMO seed kit with a grow guide",
+     "hs_named": false,
+     "why_not": "Still the closest prompt to the product and still decided by marketplace and retailer listings (Sharper Image, Lowe's, Grove, reach.dog, desertcart); Happy Seeds has no indexed listing or review anywhere an assistant would see.",
+     "brands_named": [
+      "Spade to Fork (Sharper Image Organic Home Garden Seed Kit)",
+      "Buzzy Seeds (Seeds in a Cup)",
+      "Sow Right Seeds",
+      "Survival Garden Seeds",
+      "Garden Republic",
+      "Back to the Roots",
+      "True Leaf Market",
+      "SeedsNow",
+      "Homegrown Garden"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "sharperimage.com",
+      "reach.dog",
+      "lowes.com",
+      "m.reach.dog",
+      "desertcart.com.ar",
+      "easytot.com",
+      "desertcart.nl",
+      "grove.co",
+      "desertcart.com.cy",
+      "trueleafmarket.com"
+     ],
+     "list_pages": []
+    },
+    {
+     "prompt": "housewarming gift under $25 for a plant lover",
+     "hs_named": false,
+     "why_not": "Decided by gift lists (Soltech under-$25 secret santa, Bob Vila, Gardening Know How under-$50, Bloomscape housewarming, Greatist, Cheapism, AOL, Apartment Therapy, Havenly) and none includes Happy Seeds. The site's housewarming post is drafted but parked in content/blog/_pending/ awaiting approval.",
+     "brands_named": [
+      "Modern Sprout",
+      "Back to the Roots",
+      "Botanical Interests",
+      "Buzzy Seeds",
+      "The Sill",
+      "Bloomscape",
+      "Haws mister",
+      "Soltech grow light",
+      "Terrarium kit (generic)"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "soltech.com",
+      "mayfairfarms.com",
+      "heartwarmers-com.pages.dev",
+      "katiecouric.com",
+      "bobvila.com",
+      "gardeningknowhow.com",
+      "lion-platinum-8hg2.squarespace.com",
+      "theindoornursery.com",
+      "bloomscape.com",
+      "greatist.com"
+     ],
+     "list_pages": [
+      "soltech.com/blogs/blog/top-10-secret-santa-gifts-for-plant-lovers-under-25 (new)",
+      "bobvila.com/articles/best-trees-as-gifts (31 Best Gifts for Plant Lovers)",
+      "gardeningknowhow.com (16 Garden Gift Ideas Under $50) (new)",
+      "bloomscape.com/green-living/best-housewarming-gifts-for-plant-lovers/",
+      "katiecouric.com/shopping/the-best-housewarming-gifts/",
+      "greatist.com/discover/best-presents-for-plant-parents",
+      "cheapism.com/gifts-for-plant-lovers",
+      "aol.com (The Best Gifts for Plant Lovers and Green Thumbs)",
+      "apartmenttherapy.com/holiday-gift-ideas-for-plant-lovers-37522801",
+      "havenly.com/blog/gifts-for-plant-lovers"
+     ]
+    },
+    {
+     "prompt": "what vegetables can a kid grow from seed",
+     "hs_named": false,
+     "why_not": "Informational prompt; the answer is crops (radish, beans, sunflowers, peas, lettuce), and brands only come up as Buzzy's Seeds in a Cup and the big catalogs. The seed-kit-for-kids post is drafted but parked in _pending.",
+     "brands_named": [
+      "Botanical Interests",
+      "Buzzy Seeds (Seeds in a Cup)",
+      "Burpee",
+      "Baker Creek"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "garden.org",
+      "hub.suttons.co.uk",
+      "thisismygarden.com",
+      "kidzone.ws",
+      "seattleschild.com",
+      "grocery.coop",
+      "nwedible.com",
+      "epicgardening.com",
+      "lovefood.com",
+      "theseedcollection.com.au"
+     ],
+     "list_pages": [
+      "garden.org/learn/articles/view/4203/",
+      "epicgardening.com (17 Plants Kids Love To Grow From Seed)",
+      "kidzone.ws/science/garden/plants-to-grow-with-kids.htm",
+      "seattleschild.com/5-kid-friendly-crops-for-beginner-gardeners-to-plant-in-early-spring/",
+      "hub.suttons.co.uk/blog/vegetable-growing/6-best-veg-seeds-to-sow-with-kids",
+      "parentmap.com/article/how-grow-fall-veggie-patch-your-kids"
+     ]
+    },
+    {
+     "prompt": "seed kit vs buying individual seed packets",
+     "hs_named": false,
+     "why_not": "Google reads this as seeds-vs-transplants; the kit-specific pages that rank (AOL/Inkl 'Are Store-Bought Seed Kits Worth the Price?', House Digest, Gardening Beyond, Garden Gate) do not mention Happy Seeds. The site's own /blog/seed-kit-vs-seed-packets/ (live Nov 1) is not in the top 10.",
+     "brands_named": [
+      "Burpee",
+      "Botanical Interests",
+      "Baker Creek",
+      "Gardenary",
+      "Survival Garden Seeds",
+      "Sow Right Seeds",
+      "Jiffy"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "epicgardening.com",
+      "gardeningknowhow.com",
+      "merge.epicgardening.com",
+      "aol.com",
+      "greenhousemegastore.com",
+      "27east.com",
+      "inkl.com",
+      "food52.com",
+      "gardeningbeyond.com",
+      "foodgardening.mequoda.com"
+     ],
+     "list_pages": [
+      "aol.com/articles/store-bought-seed-kits-worth-140043210.html",
+      "inkl.com/news/are-store-bought-seed-kits-worth-the-price (same article)",
+      "epicgardening.com/starting-seeds-vs-buying-plants/",
+      "gardeningbeyond.com (5 Best Heirloom Seed Kits)",
+      "gardengatemagazine.com/review/garden-starter-kit/",
+      "housedigest.com/1730281/are-garden-seed-starting-kits-worth-buying (new)"
+     ]
+    },
+    {
+     "prompt": "when should I plant vegetables in New Jersey",
+     "hs_named": false,
+     "why_not": "Local news (NJ101.5, Patch, 94.3 The Point), the Almanac and Urban Farmer's NJ calendar hold the SERP; /planting/new-jersey.html (live Oct 31, lastmod Nov 3) is not in the top 10. Only 8 unique domains returned.",
+     "brands_named": [
+      "Rutgers NJAES (not a brand)",
+      "Urban Farmer (ufseeds.com)",
+      "Old Farmer's Almanac",
+      "Lawn by Season"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "ufseeds.com",
+      "patch.com",
+      "nj1015.com",
+      "almanac.com",
+      "943thepoint.com",
+      "new.patch.com",
+      "usopimmo.pages.dev",
+      "lawnbyseason.com"
+     ],
+     "list_pages": [
+      "ufseeds.com/new-jersey-vegetable-planting-calendar.html",
+      "almanac.com/gardening/planting-calendar/NJ/Summit",
+      "almanac.com/gardening/frostdates/NJ",
+      "lawnbyseason.com/vegetables/new-jersey"
+     ]
+    },
+    {
+     "prompt": "best herb garden kit",
+     "hs_named": false,
+     "why_not": "Hydroponic and indoor kits (AeroGarden, Click & Grow, Gardyn) plus Buzzy's new '7 Best Indoor Herb Garden Kits 2026' post decide this; herb-kit.html is live (pre-orders) but still not in the sitemap and not ranking.",
+     "brands_named": [
+      "AeroGarden",
+      "Click & Grow",
+      "Back to the Roots",
+      "Modern Sprout",
+      "Planters' Choice",
+      "Spade to Fork",
+      "Garden Republic",
+      "Nature's Blossom",
+      "Buzzy Seeds",
+      "Gardyn"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "gardensillustrated.com",
+      "gardeningetc.com",
+      "mrfothergills.com.au",
+      "hgtv.com",
+      "thedailymusthave.beehiiv.com",
+      "thespruceab.pages.dev",
+      "denyvisual.pages.dev",
+      "entm.ag",
+      "uk.news.yahoo.com",
+      "foxnews.com"
+     ],
+     "list_pages": [
+      "gardensillustrated.com/garden-equipment/herb-garden-kits",
+      "gardeningetc.com/buying-guides/best-herb-garden-kit",
+      "hgtv.com/outdoors/gardens/best-indoor-herb-garden",
+      "today.com/shop/best-gardening-kits-t214060",
+      "foxnews.com (Best Indoor Herb Garden Kits)",
+      "uk.news.yahoo.com (best indoor kitchen herb gardens)",
+      "buzzyseeds.com/blogs/growing-guides/7-best-indoor-herb-garden-kits-for-small-apartments-2026 (new)",
+      "mygardyn.com/blog/indoor-herb-garden-kit/"
+     ]
+    },
+    {
+     "prompt": "vegetable garden seed kit",
+     "hs_named": false,
+     "why_not": "Pure product SERP (OSC Seeds, Old Farmer's Almanac kit, Gardenary, Etsy, Grove, Urban Farmer, Sandia Seed, Seeds in a Cup); no Happy Seeds listing is indexed, and /blog/vegetable-garden-seed-kit-what-to-look-for/ (live Nov 2) is not in the top 10.",
+     "brands_named": [
+      "Sow Right Seeds",
+      "Survival Garden Seeds",
+      "Old Farmer's Almanac Heirloom Vegetable Garden Seed Starter Kit",
+      "OSC Seeds Vegetable Garden Starter Kit",
+      "Gardenary",
+      "Urban Farmer American Dream Seed Kit",
+      "Buzzy Seeds (Seeds in a Cup)",
+      "Sandia Seed",
+      "Gardenuity",
+      "Burpee",
+      "True Leaf Market"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "reach.dog",
+      "store.newengland.com",
+      "oscseeds.com",
+      "theseedcompany.ca",
+      "shop.gardenary.com",
+      "etsy.com",
+      "kingsseeds.co.nz",
+      "grove.co",
+      "alluneedgardensupply.com",
+      "mrfothergills.com.au"
+     ],
+     "list_pages": []
+    },
+    {
+     "prompt": "best seed companies for beginners",
+     "hs_named": false,
+     "why_not": "Half the SERP is cannabis seed banks (Leafly, Phoenix New Times); the vegetable lists that rank (House Digest TikTok seed companies, Home for the Harvest, Gardening Mentor, Journey with Jill, Rooted Revival) name catalog companies, not kits.",
+     "brands_named": [
+      "Burpee",
+      "Botanical Interests",
+      "Baker Creek",
+      "Johnny's Selected Seeds",
+      "Renee's Garden",
+      "Seed Savers Exchange",
+      "Territorial Seed",
+      "Park Seed",
+      "Ferry-Morse",
+      "High Mowing Organic Seeds",
+      "MIgardener",
+      "True Leaf Market"
+     ],
+     "hs_in_top10": false,
+     "top_domains": [
+      "leafly.ca",
+      "phoenixnewtimes.com",
+      "housedigest.com",
+      "rootedrevival.com",
+      "growbydate-site.pages.dev",
+      "leafly.com",
+      "backyardgardenlover.com",
+      "journeywithjill.net",
+      "gardeningmentor.com",
+      "homefortheharvest.com"
+     ],
+     "list_pages": [
+      "housedigest.com/1588383/tiktok-top-seed-companies-start-garden (new)",
+      "homefortheharvest.com/seed-companies",
+      "gardeningmentor.com/seeds/",
+      "journeywithjill.net/gardening/2019/01/15/where-to-buy-seeds/",
+      "rootedrevival.com",
+      "growbydate-site.pages.dev/guides/best-seed-collection-for-beginner-vegetable-gardeners/ (new)"
+     ]
+    }
+   ],
+   "health": {
+    "live_fetch": "FAILED again: all 13 fetch requests to growhappyseeds.com (robots.txt, sitemap.xml, llms.txt, facts.html, /blog/, /planting/new-jersey.html, /, 5 spot checks, herb-kit.html) returned PROVENANCE_REQUIRED (permission prompt not answered in this unattended run; not retried per tool instruction). Second week in a row; live HTTP status still unconfirmed by this monitor.",
+    "fallback": "Repo copy of main at dd38f94 (committed 2026-11-09 12:23 UTC) plus GitHub Pages 'pages build and deployment' run #215 (42616596593) for that same commit: success at 12:24 UTC. The files below are what the site serves.",
+    "robots_txt": "present; Sitemap line present; all major search and AI crawlers allowed (unchanged)",
+    "sitemap_xml": "present; 70 URLs (was 66 on Nov 2: +3 blog posts, +1); lastmod 2026-11-03 x54, 2026-11-01 x10, 2026-11-06 x2, 2026-11-04 x2, 2026-11-05 x1, 2026-11-02 x1; no future dates; herb-kit.html still not listed (open since Nov 2)",
+    "llms_txt": "present; positioning line intact",
+    "facts_html": "present; JSON-LD parses (Product, Offer, Brand, Organization, WebPage)",
+    "blog_index": "present; 13 posts listed; JSON-LD parses (Blog, ItemList, BreadcrumbList)",
+    "planting_new_jersey": "present; datePublished 2026-10-31, dateModified 2026-11-03; JSON-LD parses",
+    "spot_checks": {
+     "/blog/apartment-vegetable-garden-from-seed/": "present; 2026-11-04 / 2026-11-04; JSON-LD ok",
+     "/blog/best-window-direction-for-growing-vegetables/": "present; 2026-11-06 / 2026-11-06; JSON-LD ok",
+     "/blog/what-germination-rate-means/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
+     "/blog/best-seed-gifts/": "present; 2026-11-01 / 2026-11-01; JSON-LD ok",
+     "/planting/new-york.html": "present; 2026-10-31 / 2026-11-03; JSON-LD ok"
+    },
+    "future_dates": "none (max sitemap lastmod 2026-11-06; max page date 2026-11-06; today 2026-11-09)",
+    "home_jsonld": "1 block, parses (WebSite, WebPage, Organization, Brand, Product, Offer, FAQPage)",
+    "search_console": "NOW CONNECTED (first scheduled pull succeeded Nov 8, data to Nov 7): 28 days = 2 impressions, 1 click, position 6, 0 queries, and the only page Google reports is https://www.growhappyseeds.com/ (www host) although canonical, sitemap and CNAME are the apex domain. 0 of the 70 sitemap URLs has an impression. Indexing of the Nov 1-6 pages has not happened or is not yet reported.",
+    "pending_drafts": "6 articles parked in content/blog/_pending/ awaiting Jared's APPROVED reply, including the three recommended last week: housewarming-gift-for-a-gardener (drafted Nov 2), seed-kit-for-kids (Nov 2), stocking-stuffers-for-gardeners (Nov 4). None of last week's action 2 went live."
+   },
+   "new_mentions": [],
+   "new_mentions_note": "WebSearch for \"Happy Seeds\" seed kit, growhappyseeds.com and \"Happy Seeds\" \"Veggie Garden Seed Kit\" (2026-11-09) returned no page about the brand: results were unrelated 'Happy' seed sellers (Happy Bird Seeds, Happy Valley Seeds, HappySeed, a Prague cannabis bank) and generic kit listings. Last week's echotik.live hit did not reappear. Zero third-party mentions, same as Nov 2.",
+   "list_pages_to_pitch": [
+    "epicgardening.com/black-friday-gardening-gifts/ (new this week; Epic Gardening holds 7 of the top results for prompt 2)",
+    "gardeningknowhow.com '16 Garden Gift Ideas Under $50' (new for prompt 6; $24.99 fits)",
+    "soltech.com 'Top 10 Secret Santa Gifts for Plant Lovers Under $25' (#1 for prompt 6; exact price band)",
+    "housedigest.com 'TikTok Gardening Community Recommends These Seed Companies' (new, prompt 12; Instagram/TikTok proof is the pitch)",
+    "buzzyseeds.com '7 Best Indoor Herb Garden Kits for Small Apartments (2026)' (competitor-owned list ranking for prompt 10; shows kit brands can rank their own lists)",
+    "bobvila.com gifts-for-plant-lovers and best-seed-companies (still rank for prompts 3, 6, 12)",
+    "gardengatemagazine.com garden-starter-kit reviews (still rank for prompts 1 and 8)"
+   ],
+   "competitors": {
+    "Botanical Interests": 8,
+    "Burpee": 8,
+    "Baker Creek": 6,
+    "Buzzy Seeds": 6,
+    "True Leaf Market": 5,
+    "Back to the Roots": 4,
+    "Gardenary": 4,
+    "Sow Right Seeds": 4,
+    "Renee's Garden": 3,
+    "Survival Garden Seeds": 3,
+    "Garden Republic": 2,
+    "Gardenuity": 2,
+    "High Mowing Organic Seeds": 2,
+    "Jiffy": 2,
+    "Johnny's Selected Seeds": 2,
+    "Modern Sprout": 2,
+    "Old Farmer's Almanac": 2,
+    "Park Seed": 2,
+    "Seed Savers Exchange": 2,
+    "Spade to Fork": 2,
+    "Territorial Seed": 2,
+    "Urban Farmer": 2,
+    "AeroGarden": 1,
+    "Bloomscape": 1,
+    "Click & Grow": 1,
+    "Fedco Seeds": 1,
+    "Felco pruners": 1,
+    "Ferry-Morse": 1,
+    "Gardyn": 1,
+    "Haws mister": 1,
+    "Homegrown Garden": 1,
+    "Hori Hori knife": 1,
+    "Hudson Valley Seed Co": 1,
+    "Lawn by Season": 1,
+    "MIgardener": 1,
+    "Nature's Blossom": 1,
+    "OSC Seeds": 1,
+    "Pinetree Garden Seeds": 1,
+    "Planters' Choice": 1,
+    "Sandia Seed": 1,
+    "Seeds 'n Such": 1,
+    "SeedsNow": 1,
+    "Soltech grow light": 1,
+    "Southern Exposure Seed Exchange": 1,
+    "Terrarium kit": 1,
+    "The Sill": 1
+   },
+   "competitor_changes": {
+    "Sharper Image Organic Home Garden Seed Kit": -1,
+    "Gardenary": 1,
+    "Burpee": -1,
+    "Homegrown Garden": 1,
+    "Sandia Seed": 1,
+    "Gardyn": 1,
+    "Seed Savers Exchange": -1,
+    "True Leaf Market": 2,
+    "Seeds 'n Such": 1,
+    "Plant Addicts Heirloom Vegetable Garden Gift Box": -1,
+    "Spade to Fork": 1,
+    "Open Seed Vault": -1,
+    "Garden Republic": -1,
+    "Buzzy Seeds": 3,
+    "Jiffy": 2,
+    "Gardenuity": 2,
+    "MIgardener": 1,
+    "SeedsNow": 1,
+    "Soltech grow light": 1,
+    "Urban Farmer": 1
+   }
+  }
+ ]
 }
