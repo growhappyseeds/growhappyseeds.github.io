@@ -1,0 +1,48 @@
+# Tells Bing (and other IndexNow engines; ChatGPT search and Copilot draw on Bing's index) about
+# new or changed pages right after each push to main. Key file: /af3bd7cdb39643e0e0f421e399523975.txt
+name: IndexNow ping
+on:
+  push:
+    branches: [main]
+    paths: ['**.html', 'sitemap.xml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Wait for GitHub Pages to publish
+        run: sleep 90
+      - name: Ping IndexNow with changed pages (all sitemap URLs on manual runs)
+        run: |
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request
+          SITE = "https://growhappyseeds.com"
+          KEY = "af3bd7cdb39643e0e0f421e399523975"
+          sitemap = set(re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read()))
+          if os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch":
+              urls = sorted(sitemap)
+          else:
+              changed = subprocess.run(["git", "diff", "--name-only", "HEAD~1", "HEAD"],
+                                       capture_output=True, text=True).stdout.split()
+              urls = set()
+              for f in changed:
+                  if not f.endswith(".html"):
+                      continue
+                  u = SITE + "/" + (f[:-len("index.html")] if f.endswith("index.html") else f)
+                  if u in sitemap:
+                      urls.add(u)
+              urls = sorted(urls)
+          if not urls:
+              print("No sitemap pages changed; nothing to ping."); raise SystemExit
+          body = json.dumps({"host": "growhappyseeds.com", "key": KEY,
+                             "keyLocation": f"{SITE}/{KEY}.txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              print("IndexNow", r.status, "for", len(urls), "URLs"); print("\n".join(urls))
+          PY
