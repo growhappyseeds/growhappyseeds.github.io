@@ -8,8 +8,44 @@
   </url>
   <url>
     <loc>https://growhappyseeds.com/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/balcony-weight-limits-for-containers/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/blog-balcony.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/grow-lights-for-apartment-seedlings/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/blog-seeds-indoors.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/housewarming-gift-for-a-gardener/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/housewarming.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/seed-kit-for-kids/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/farmer-sprout.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/start-indoors-move-to-balcony/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/glowup.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/winter.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://growhappyseeds.com/blog/best-window-direction-for-growing-vegetables/</loc>
@@ -351,7 +387,7 @@
   </url>
   <url>
     <loc>https://growhappyseeds.com/grow/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.8</priority>
     <image:image><image:loc>https://growhappyseeds.com/media/brand/clay/scene-box-in-garden.png</image:loc></image:image>
   </url>
@@ -363,7 +399,7 @@
   </url>
   <url>
     <loc>https://growhappyseeds.com/about/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.6</priority>
     <image:image><image:loc>https://growhappyseeds.com/media/site/farmer/farmer-hero.jpg</image:loc></image:image>
   </url>
