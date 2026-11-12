@@ -2,8 +2,8 @@
 title: "Do You Need a Grow Light to Start Seeds in an Apartment?"
 slug: "grow-lights-for-apartment-seedlings"
 description: "When an apartment window is enough to start seeds, when it is not, and what a basic grow light setup looks like: a shop light, a timer and the right distance."
-date: 2026-11-08
-updated: 2026-11-08
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "City apartment growing"
 read: 7
 answer: "You need a grow light to start seeds in an apartment unless you have an unobstructed south-facing window and are only growing quick greens. Tomatoes, peppers and eggplant spend six to eight weeks indoors and turn tall and floppy at a window. Give them a cheap LED shop light on a timer, 14 to 16 hours a day."
