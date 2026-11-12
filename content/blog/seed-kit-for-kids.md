@@ -2,8 +2,8 @@
 title: "The Best Seed Kit for Kids: What Makes a Vegetable Kit Work"
 slug: "seed-kit-for-kids"
 description: "What to look for in a seed kit for kids: fast crops, big seeds, forgiving varieties and a guide an adult can follow, plus which vegetables children grow best."
-date: 2026-11-02
-updated: 2026-11-02
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "Kids and gardens"
 read: 6
 answer: "A seed kit for kids needs crops that sprout within a week, seeds big enough for small fingers, and varieties that survive missed waterings. Spinach, cucumber, beets, turnips and kale fit a child's attention span; carrots, peppers and eggplant test it. A guide the adult can follow matters as much as the seed."
