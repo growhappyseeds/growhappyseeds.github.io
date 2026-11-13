@@ -9,7 +9,7 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 - [x] `seed-kit-for-kids` The best seed kit for kids: what makes a vegetable kit work for a child (fast crops, big seeds, forgiving varieties) (drafted 2026-11-02, live /blog/seed-kit-for-kids/)
 - [x] `stocking-stuffers-for-gardeners` Stocking stuffers and small gifts for gardeners under $25 (seasonal, publish by mid-November) (drafted 2026-11-04, live /blog/stocking-stuffers-for-gardeners/)
 - [x] `vegetable-garden-seed-kit-what-to-look-for` What to look for in a vegetable garden seed kit (7 checks: variety count, seed count per packet, germination printed, guide quality, non-GMO/open-pollinated, container-friendly, gift-ready)
-- [ ] `how-many-seeds-are-in-a-seed-packet` How many seeds are in a seed packet? (by crop, with a table; why kits with 100 seeds per packet are enough for a home garden)
+- [~] `how-many-seeds-are-in-a-seed-packet` How many seeds are in a seed packet? (by crop, with a table; why kits with 100 seeds per packet are enough for a home garden) (drafted 2026-11-13, parked in content/blog/_pending/ awaiting Jared's APPROVED reply)
 - [ ] `non-gmo-vs-heirloom-vs-organic-seeds` Non-GMO vs heirloom vs organic seeds: what the labels actually mean (and which matter for a home garden)
 - [x] `apartment-vegetable-garden-from-seed` moved to the daily City Apartment Growing series (content/seo/apartment-series.md, Jared Nov 3 2026); do not write it from this queue. Skip any topic here that a series topic covers.
 
