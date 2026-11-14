@@ -24,6 +24,12 @@
     <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/tencolors.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/windowsill-vegetables-from-seed/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/farmer-windowsill.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/balcony-weight-limits-for-containers/</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.7</priority>
