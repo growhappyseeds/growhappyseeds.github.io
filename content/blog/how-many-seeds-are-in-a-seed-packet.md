@@ -2,8 +2,8 @@
 title: "How Many Seeds Are in a Seed Packet? Counts by Vegetable"
 slug: "how-many-seeds-are-in-a-seed-packet"
 description: "How many seeds a packet holds for tomato, carrot, kale, spinach, beet and more, why counts vary so much by crop and brand, and how many a home garden needs."
-date: 2026-11-13
-updated: 2026-11-13
+date: 2026-11-14
+updated: 2026-11-14
 eyebrow: "Seed basics"
 read: 7
 answer: "A home-garden seed packet holds anywhere from about 10 seeds to a thousand or more, because packets are filled by weight or by count and seed size varies by crop. A gram of carrot seed is about 700 seeds; a gram of cucumber seed is about 35."
