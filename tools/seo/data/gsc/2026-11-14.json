@@ -1,0 +1,1387 @@
+{
+ "pulled": "2026-11-14",
+ "site": "sc-domain:growhappyseeds.com",
+ "range": [
+  "2026-10-17",
+  "2026-11-13"
+ ],
+ "by_date": [
+  {
+   "keys": [
+    "2026-11-01"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-02"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  },
+  {
+   "keys": [
+    "2026-11-03"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-04"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-05"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-06"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-07"
+   ],
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  {
+   "keys": [
+    "2026-11-08"
+   ],
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 7.6
+  },
+  {
+   "keys": [
+    "2026-11-09"
+   ],
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 27.2
+  },
+  {
+   "keys": [
+    "2026-11-10"
+   ],
+   "clicks": 0,
+   "impressions": 24,
+   "ctr": 0,
+   "position": 26.1
+  },
+  {
+   "keys": [
+    "2026-11-11"
+   ],
+   "clicks": 1,
+   "impressions": 29,
+   "ctr": 0.0345,
+   "position": 22.0
+  },
+  {
+   "keys": [
+    "2026-11-12"
+   ],
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 27.2
+  },
+  {
+   "keys": [
+    "2026-11-13"
+   ],
+   "clicks": 0,
+   "impressions": 23,
+   "ctr": 0,
+   "position": 18
+  }
+ ],
+ "queries_7d": [
+  {
+   "keys": [
+    "best seed packet gifts"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "keys": [
+    "best time to plant a garden in nc"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 98
+  },
+  {
+   "keys": [
+    "best time to plant a garden in north carolina"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "keys": [
+    "fall planting minnesota"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "keys": [
+    "growing vegetables in florida"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "keys": [
+    "happy seeds"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "keys": [
+    "happyseeds"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "keys": [
+    "seed gift ideas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "keys": [
+    "vegetable gardening in georgia"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 95
+  },
+  {
+   "keys": [
+    "when do watermelons go out of season for nj 2025"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50.5
+  },
+  {
+   "keys": [
+    "when to plant a garden in texas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "keys": [
+    "when to plant carrots in ohio"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "keys": [
+    "when to plant fall garden in nc"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "keys": [
+    "when to plant flower seeds in kansas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "keys": [
+    "when to plant in texas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in nj"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 94
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in north carolina"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "keys": [
+    "when to plant vegetables in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  }
+ ],
+ "queries_28d": [
+  {
+   "keys": [
+    "best seed packet gifts"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "keys": [
+    "best time to plant a garden in nc"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 98
+  },
+  {
+   "keys": [
+    "best time to plant a garden in north carolina"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "keys": [
+    "fall planting minnesota"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "keys": [
+    "growing vegetables in florida"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "keys": [
+    "happy seeds"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "keys": [
+    "happyseeds"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "keys": [
+    "seed gift ideas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "keys": [
+    "vegetable gardening in georgia"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 95
+  },
+  {
+   "keys": [
+    "when do watermelons go out of season for nj 2025"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50.5
+  },
+  {
+   "keys": [
+    "when to plant a garden in texas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "keys": [
+    "when to plant carrots in ohio"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "keys": [
+    "when to plant fall garden in nc"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "keys": [
+    "when to plant flower seeds in kansas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "keys": [
+    "when to plant in texas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in nj"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 94
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in north carolina"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "keys": [
+    "when to plant tomatoes in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "keys": [
+    "when to plant vegetables in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  }
+ ],
+ "pages_7d": [
+  {
+   "keys": [
+    "https://growhappyseeds.com/"
+   ],
+   "clicks": 1,
+   "impressions": 16,
+   "ctr": 0.0625,
+   "position": 21.4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/about/"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/balcony-weight-limits-for-containers/"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/best-seed-gifts/"
+   ],
+   "clicks": 0,
+   "impressions": 35,
+   "ctr": 0,
+   "position": 10.8
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 6.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/gifts-for-new-gardeners/"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/how-to-read-a-seed-packet/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/"
+   ],
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 9.2
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/vegetable-garden-seed-kit-what-to-look-for/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/what-germination-rate-means/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/alabama.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/alaska.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/florida.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/georgia.html"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/kansas.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/kentucky.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/maryland.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/michigan.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/minnesota.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/missouri.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/nevada.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/new-jersey.html"
+   ],
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/north-carolina.html"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/north-dakota.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/ohio.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/pennsylvania.html"
+   ],
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 31.9
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/texas.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 82.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/vermont.html"
+   ],
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 9.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/wyoming.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 9
+  }
+ ],
+ "pages_28d": [
+  {
+   "keys": [
+    "https://growhappyseeds.com/"
+   ],
+   "clicks": 1,
+   "impressions": 16,
+   "ctr": 0.0625,
+   "position": 21.4
+  },
+  {
+   "keys": [
+    "https://www.growhappyseeds.com/"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 6
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/about/"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/balcony-weight-limits-for-containers/"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/best-seed-gifts/"
+   ],
+   "clicks": 0,
+   "impressions": 35,
+   "ctr": 0,
+   "position": 10.8
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/best-vegetable-seeds-for-beginners/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 6.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/gifts-for-new-gardeners/"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/how-to-read-a-seed-packet/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/seed-kit-vs-seed-packets/"
+   ],
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 9.2
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/vegetable-garden-seed-kit-what-to-look-for/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/what-germination-rate-means/"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/alabama.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/alaska.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/florida.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/georgia.html"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/kansas.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/kentucky.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/maryland.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/michigan.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/minnesota.html"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/missouri.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/nevada.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/new-jersey.html"
+   ],
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/north-carolina.html"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/north-dakota.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/ohio.html"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/pennsylvania.html"
+   ],
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 31.9
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/texas.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 82.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/vermont.html"
+   ],
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 9.7
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/wyoming.html"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 9
+  }
+ ],
+ "page_query_3d": [
+  {
+   "keys": [
+    "https://growhappyseeds.com/",
+    "happyseeds"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/blog/best-seed-gifts/",
+    "seed gift ideas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/florida.html",
+    "growing vegetables in florida"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/georgia.html",
+    "vegetable gardening in georgia"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 95
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/kansas.html",
+    "when to plant flower seeds in kansas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/minnesota.html",
+    "fall planting minnesota"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/new-jersey.html",
+    "when do watermelons go out of season for nj 2025"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50.5
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/new-jersey.html",
+    "when to plant tomatoes in nj"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 94
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/north-carolina.html",
+    "when to plant tomatoes in north carolina"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/ohio.html",
+    "when to plant carrots in ohio"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/pennsylvania.html",
+    "when to plant tomatoes in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/pennsylvania.html",
+    "when to plant vegetables in pa"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/planting/texas.html",
+    "when to plant a garden in texas"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  }
+ ],
+ "countries_28d": [
+  {
+   "keys": [
+    "usa"
+   ],
+   "clicks": 2,
+   "impressions": 82,
+   "ctr": 0.0244,
+   "position": 25.4
+  },
+  {
+   "keys": [
+    "aus"
+   ],
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 8.8
+  },
+  {
+   "keys": [
+    "bra"
+   ],
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 40.8
+  },
+  {
+   "keys": [
+    "can"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8.3
+  },
+  {
+   "keys": [
+    "esp"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "fra"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 2.7
+  },
+  {
+   "keys": [
+    "gbr"
+   ],
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 9.4
+  },
+  {
+   "keys": [
+    "idn"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2.5
+  },
+  {
+   "keys": [
+    "imn"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "keys": [
+    "ind"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "keys": [
+    "mda"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "keys": [
+    "mex"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "mys"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "nga"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "keys": [
+    "nzl"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "keys": [
+    "phl"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "keys": [
+    "pol"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "keys": [
+    "rus"
+   ],
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "keys": [
+    "tha"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 19
+  },
+  {
+   "keys": [
+    "tto"
+   ],
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 6.3
+  }
+ ],
+ "devices_28d": [
+  {
+   "keys": [
+    "DESKTOP"
+   ],
+   "clicks": 2,
+   "impressions": 78,
+   "ctr": 0.0256,
+   "position": 29.4
+  },
+  {
+   "keys": [
+    "MOBILE"
+   ],
+   "clicks": 0,
+   "impressions": 42,
+   "ctr": 0,
+   "position": 8.5
+  },
+  {
+   "keys": [
+    "TABLET"
+   ],
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  }
+ ]
+}

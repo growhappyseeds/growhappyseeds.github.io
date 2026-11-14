@@ -1,14 +1,14 @@
 {
- "pulled": "2026-11-12",
- "gsc_file": "tools/seo/data/gsc/2026-11-12.json",
- "ga4_file": "tools/seo/data/ga4/2026-11-12.json",
+ "pulled": "2026-11-14",
+ "gsc_file": "tools/seo/data/gsc/2026-11-14.json",
+ "ga4_file": "tools/seo/data/ga4/2026-11-14.json",
  "gsc_clicks_7d": 1,
- "gsc_impressions_7d": 63,
+ "gsc_impressions_7d": 119,
  "gsc_clicks_28d": 2,
- "gsc_impressions_28d": 65,
- "gsc_pages_with_impressions_28d": 22,
- "gsc_queries_28d": 7,
- "ga4_sessions_28d": 230,
- "ga4_organic_sessions_28d": 3,
- "ga4_key_events_28d": 21
+ "gsc_impressions_28d": 121,
+ "gsc_pages_with_impressions_28d": 32,
+ "gsc_queries_28d": 19,
+ "ga4_sessions_28d": 228,
+ "ga4_organic_sessions_28d": 2,
+ "ga4_key_events_28d": 19
 }
