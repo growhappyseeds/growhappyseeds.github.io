@@ -101,9 +101,9 @@
     "2026-11-11"
    ],
    "clicks": 1,
-   "impressions": 29,
-   "ctr": 0.0345,
-   "position": 22.0
+   "impressions": 30,
+   "ctr": 0.0333,
+   "position": 21.3
   },
   {
    "keys": [
@@ -118,13 +118,22 @@
    "keys": [
     "2026-11-13"
    ],
-   "clicks": 0,
-   "impressions": 23,
-   "ctr": 0,
-   "position": 18
+   "clicks": 1,
+   "impressions": 24,
+   "ctr": 0.0417,
+   "position": 17.4
   }
  ],
  "queries_7d": [
+  {
+   "keys": [
+    "happy seeds"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 17.5
+  },
   {
    "keys": [
     "best seed packet gifts"
@@ -169,15 +178,6 @@
    "impressions": 2,
    "ctr": 0,
    "position": 50
-  },
-  {
-   "keys": [
-    "happy seeds"
-   ],
-   "clicks": 0,
-   "impressions": 1,
-   "ctr": 0,
-   "position": 31
   },
   {
    "keys": [
@@ -300,6 +300,15 @@
  "queries_28d": [
   {
    "keys": [
+    "happy seeds"
+   ],
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 17.5
+  },
+  {
+   "keys": [
     "best seed packet gifts"
    ],
    "clicks": 0,
@@ -342,15 +351,6 @@
    "impressions": 2,
    "ctr": 0,
    "position": 50
-  },
-  {
-   "keys": [
-    "happy seeds"
-   ],
-   "clicks": 0,
-   "impressions": 1,
-   "ctr": 0,
-   "position": 31
   },
   {
    "keys": [
@@ -475,10 +475,10 @@
    "keys": [
     "https://growhappyseeds.com/"
    ],
-   "clicks": 1,
-   "impressions": 16,
-   "ctr": 0.0625,
-   "position": 21.4
+   "clicks": 2,
+   "impressions": 18,
+   "ctr": 0.1111,
+   "position": 19.3
   },
   {
    "keys": [
@@ -756,10 +756,10 @@
    "keys": [
     "https://growhappyseeds.com/"
    ],
-   "clicks": 1,
-   "impressions": 16,
-   "ctr": 0.0625,
-   "position": 21.4
+   "clicks": 2,
+   "impressions": 18,
+   "ctr": 0.1111,
+   "position": 19.3
   },
   {
    "keys": [
@@ -1045,6 +1045,16 @@
   {
    "keys": [
     "https://growhappyseeds.com/",
+    "happy seeds"
+   ],
+   "clicks": 1,
+   "impressions": 1,
+   "ctr": 1,
+   "position": 4
+  },
+  {
+   "keys": [
+    "https://growhappyseeds.com/",
     "happyseeds"
    ],
    "clicks": 0,
@@ -1178,10 +1188,10 @@
    "keys": [
     "usa"
    ],
-   "clicks": 2,
-   "impressions": 82,
-   "ctr": 0.0244,
-   "position": 25.4
+   "clicks": 3,
+   "impressions": 83,
+   "ctr": 0.0361,
+   "position": 25.1
   },
   {
    "keys": [
@@ -1242,9 +1252,9 @@
     "idn"
    ],
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "ctr": 0,
-   "position": 2.5
+   "position": 2
   },
   {
    "keys": [
@@ -1360,10 +1370,10 @@
    "keys": [
     "DESKTOP"
    ],
-   "clicks": 2,
-   "impressions": 78,
-   "ctr": 0.0256,
-   "position": 29.4
+   "clicks": 3,
+   "impressions": 80,
+   "ctr": 0.0375,
+   "position": 28.8
   },
   {
    "keys": [
