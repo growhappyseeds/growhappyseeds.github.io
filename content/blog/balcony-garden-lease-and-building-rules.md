@@ -2,8 +2,8 @@
 title: "Can You Grow Vegetables on a Rental Balcony? Lease Rules"
 slug: "balcony-garden-lease-and-building-rules"
 description: "What leases and building rules usually say about balcony planters, how to ask your landlord, and how to keep water, weight and wind from bothering neighbors."
-date: 2026-11-13
-updated: 2026-11-13
+date: 2026-11-14
+updated: 2026-11-14
 eyebrow: "City apartment growing"
 read: 7
 answer: "Usually yes: most leases and building rules allow potted plants on the balcony floor and forbid only railing planters, blocked exits, drips onto the balcony below and grills. Read the lease, ask management in writing, put every pot on a tray and keep the heavy ones against the wall."
