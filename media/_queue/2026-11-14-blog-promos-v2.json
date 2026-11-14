@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0048-1017209764824363254.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T144906Z&X-Amz-Expires=81349&X-Amz-Signature=924c7dac2d648ae0b6aa52473d34ee0d6368654ed9504c27aa5e3174729cc50a&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2014%20Nov%202026%2013%3A24%3A55%20GMT",
+   "path": "media/2026-11/statics/blog-balcony-weight.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0049-2283847158919514113.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T082058Z&X-Amz-Expires=18078&X-Amz-Signature=6ac9e84454482ba4b1a1b1cea60ffefe7ed023c99c6ab4a1f45d6ea0bf7edc5b&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2014%20Nov%202026%2013%3A22%3A16%20GMT",
+   "path": "media/2026-11/statics/blog-grow-light.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0050-6243637134116150804.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T232820Z&X-Amz-Expires=49910&X-Amz-Signature=1b0ab633af668d5d4168f6d2961c1a5a7eff8dfadc7e42679a3679580c2d9420&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2014%20Nov%202026%2013%3A20%3A10%20GMT",
+   "path": "media/2026-11/statics/blog-harden-off.jpg"
+  }
+ ]
+}
