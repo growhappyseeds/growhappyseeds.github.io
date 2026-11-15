@@ -518,9 +518,9 @@
    "time": "2026-12-03 11:30",
    "caption": "Which stocking stuffers survive until spring?\nSmall, durable and still useful in spring: a vegetable seed kit, bypass pruners, sturdy gloves, metal plant labels, twine or a pocket journal. Skip the novelty tool sets.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/stocking-stuffers-for-gardeners\n\n#gardeningtips #stockingstuffers #giftideas #gardengifts #redrussiankale",
    "canva": "MAHazBrGc9c",
-   "note": "Draft, not queued: failed the independent review twice on farmer scale (3, then 4). Second render: farmer about 385 px, 66 percent of the pot and 32 percent of the visible pot-plus-kale (cap is a quarter); everything else passed (pouring onto a kale leaf, flower at the beak, buttons, boots, empty stocking, no packaging, caption correct). Reviewer's fix for a future run: same pose, pot, kale, stocking and window with the farmer at about half this size (a third of the pot). The post stocking-stuffers-for-gardeners still has no promo. Made in Canva.",
+   "note": "Superseded 2026-11-15 by CT-20261115-01 (remade with the farmer smaller). Draft, not queued: failed the independent review twice on farmer scale (3, then 4). Second render: farmer about 385 px, 66 percent of the pot and 32 percent of the visible pot-plus-kale (cap is a quarter); everything else passed (pouring onto a kale leaf, flower at the beak, buttons, boots, empty stocking, no packaging, caption correct). Reviewer's fix for a future run: same pose, pot, kale, stocking and window with the farmer at about half this size (a third of the pot). The post stocking-stuffers-for-gardeners still has no promo. Made in Canva.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers.jpg",
-   "status": "Draft"
+   "status": "Superseded"
   },
   {
    "key": "blog-housewarming-gift",
@@ -572,6 +572,45 @@
    "canva": "MAHa5Co0OeM",
    "note": "Independent reviewer 8/10 (pass, second round): hummingbird with red throat and yellow flower on the crown, cream hat with red band, dark hair and mustache, rosy cheek, adult jaw, red bandana, cream shirt, blue overalls with a yellow button, brown cowboy boots; kneeling and setting a small pot with a pepper seedling into the pot's shade beside a seed tray (tending); grown Pepper 'Anaheim Chili' with long tapered green fruit, pepper-type seedlings, no off-kit vegetables; matte clay look; no text, no packaging; not the post's hero image. Farmer 226 px kneeling, 18 percent of the visible plant-plus-pot (about 23 percent standing). The post's crop table lists Pepper 'Anaheim Chili' as hardened off, and the caption's 7 to 14 days, afternoon shade on the balcony floor, more sun each day and back inside at night are in its short answer. Points off: wheat sprig reads as only a few pixels at feed size; build a little stockier and larger-headed than the sheet. First round scored 4: the first render showed a Cucumber 'Marketmore 76', which the post says is sown straight into its pot and not hardened off, with the farmer at about 31 percent of the plant; re-rendered as a pepper scene with a much smaller farmer and the hashtag changed to #anaheimchili. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-harden-off.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-stocking-stuffers-v2",
+   "ct": "CT-20261115-01",
+   "aq": "AQ-20261115-02",
+   "angle": "blog",
+   "hook": "Which stocking stuffers do gardeners actually use?",
+   "time": "2026-12-07 11:30",
+   "caption": "Which stocking stuffers do gardeners actually use?\nSmall, durable and still useful in spring: a vegetable seed kit, bypass pruners, sturdy gloves, metal plant labels, twine or a pocket journal. Skip the novelty tool sets.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/stocking-stuffers-for-gardeners\n\n#gardeningtips #stockingstuffers #giftideas #gardengifts #redrussiankale",
+   "canva": "MAHa_NVbMhM",
+   "note": "Review pending. Promotes https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers-v2.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-windowsill-vegetables",
+   "ct": "CT-20261115-02",
+   "aq": "AQ-20261115-03",
+   "angle": "blog",
+   "hook": "Which vegetables grow in a sunny window?",
+   "time": "2026-12-08 11:30",
+   "caption": "Which vegetables grow in a sunny window?\nKale, spinach, beet greens, turnip greens and carrots, as long as the sill gets a few hours of direct sun. Tomatoes, peppers and cucumbers are not windowsill crops.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/windowsill-vegetables-from-seed\n\n#gardeningtips #apartmentgardening #indoorgarden #bloomsdalespinach",
+   "canva": "MAHa_Jd6kUk",
+   "note": "Review pending. Promotes https://growhappyseeds.com/blog/windowsill-vegetables-from-seed/. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-windowsill-vegetables.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-seed-count",
+   "ct": "CT-20261115-03",
+   "aq": "AQ-20261115-04",
+   "angle": "blog",
+   "hook": "How many seeds are in a packet?",
+   "time": "2026-12-09 11:30",
+   "caption": "How many seeds are in a packet?\nAnywhere from about 10 to a thousand or more. Packets are filled by weight or by count, and a gram of carrot seed is about 700 seeds; a gram of cucumber seed, about 35.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/how-many-seeds-are-in-a-seed-packet\n\n#gardeningtips #seedstarting #seedpackets #danverscarrot",
+   "canva": "MAHa_MnKQkw",
+   "note": "Review pending. Promotes https://growhappyseeds.com/blog/how-many-seeds-are-in-a-seed-packet/. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seed-count.jpg",
    "status": "Pending"
   }
  ]
