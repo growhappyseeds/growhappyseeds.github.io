@@ -612,6 +612,45 @@
    "note": "Promotes https://growhappyseeds.com/blog/how-many-seeds-are-in-a-seed-packet/. Draft, not queued: failed the independent review twice on farmer scale (4, then 4). First render: farmer about 415 px bent over against seedlings of about 290 px (he was 43 percent taller than the nearest seedling). Second render (MAHa_NVEW7Y, hosted now): farmer about 245 px bent over, standing-equivalent about 320 px, against seedlings of about 250 to 320 px, so he is roughly seedling height instead of at most half of it. Everything else passed both rounds: hummingbird with yellow flower, red hatband, wheat sprig, mustache, rosy cheeks, bandana, rolled sleeves, overalls with yellow buttons, brown cowboy boots, lean build; sowing a cucumber seed (tending); only cucumber seeds, carrot seeds and generic seedlings; blank wooden marker; no packaging, no text; caption claims verified in the post. Reviewer's fix for a future run: same spot and pose with the farmer at about half this size (standing-equivalent about 150 px) or the seedlings enlarged to 800 px or more so their leaves hang over him. The post how-many-seeds-are-in-a-seed-packet still has no promo. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seed-count.jpg",
    "status": "Draft"
+  },
+  {
+   "key": "blog-balcony-tomato",
+   "ct": "CT-20261116-03",
+   "aq": "AQ-20261116-01",
+   "angle": "blog",
+   "hook": "Can one balcony grow a real tomato?",
+   "time": "2026-12-07 11:30",
+   "caption": "Can one balcony grow a real tomato?\nYes, with at least six hours of direct sun: one plant, a 5-gallon or larger pot and a stake. Sow it indoors 6 to 8 weeks before your last frost.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/tomatoes-on-a-small-balcony\n\n#gardeningtips #balconygarden #tomatoesfromseed #seedstarting #floradadetomato",
+   "canva": "MAHbGLQ7hkQ",
+   "note": "Promotes https://growhappyseeds.com/blog/tomatoes-on-a-small-balcony/. Independent reviewer 8/10 (pass, second round): adult face with mustache, dark hair, rosy cheek; cream cowboy hat with red band; green hummingbird with red throat holding a yellow flower; wheat sprig at the mouth (added in the fix round); red bandana, cream long sleeves, blue overalls, brown boots; tying the Tomato 'Floradade' stem to its stake (tending); farmer 260 px vs a plant of at least 1150 px that runs off the top of the frame (ratio 0.23 or less); clay plant and fruit, healthy and upright; no text, no packaging; not the post's hero image (farmer-tomato-flower.jpg). Points off: ratio a little above the 20 percent target; yellow buttons hidden at this angle. Caption line 2 corrected to the post's 'at least six hours' and '5-gallon or larger pot'. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-balcony-tomato-v2.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-stocking-stuffers-v4",
+   "ct": "CT-20261116-01",
+   "aq": "",
+   "angle": "blog",
+   "hook": "Which gifts are still useful in spring?",
+   "time": "",
+   "caption": "Which gifts are still useful in spring?\nThe small ones gardeners use: seeds, bypass pruners, sturdy gloves, metal labels, twine or a pocket journal. Skip the novelty tool sets and scented gifts.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/stocking-stuffers-for-gardeners\n\n#gardeningtips #stockingstuffers #giftideas #gardengifts #danverscarrot",
+   "canva": "MAHbGNpQENU",
+   "note": "Promotes https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/. Draft, not queued: failed the independent review twice (4, then 0). Round 1: farmer kneeling 266 px vs carrot tops about 700 px (ratio 0.37), back view hid face and wheat sprig. Round 2: hummingbird unreadable (green blob, no beak or flower) which scores 0; farmer 167 px kneeling vs 650 px (ratio 0.26); hook judged a near-duplicate of 'Which stocking stuffers survive until spring?'. Healthy upright carrots fixed Jared's Nov 15 note. Next try: kneeling farmer about 90 to 110 px, clear hummingbird with flower, creased cowboy crown; reviewer's suggested hook 'Small gifts a gardener would buy themselves.'",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers-v4.jpg",
+   "status": "Draft"
+  },
+  {
+   "key": "blog-balcony-lease-v2",
+   "ct": "CT-20261116-02",
+   "aq": "",
+   "angle": "blog",
+   "hook": "Can renters grow vegetables on the balcony?",
+   "time": "",
+   "caption": "Can renters grow vegetables on the balcony?\nUsually yes. Most leases allow potted plants on the floor and ban railing planters, blocked exits and drips onto the balcony below. Put every pot on a tray.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/balcony-garden-lease-and-building-rules\n\n#gardeningtips #balconygarden #apartmentgardening #rentergarden #redrussiankale",
+   "canva": "MAHbGIfnefs",
+   "note": "Promotes https://growhappyseeds.com/blog/balcony-garden-lease-and-building-rules/. Draft, not queued: failed the independent review twice (3, then 3). Round 1: farmer 246 px vs kale 670 px (0.37), water splashing a puddle onto the floor (contradicts the post's no-drips message), curly kale. Round 2: floor dry and kale closer to Red Russian, but farmer 215 px vs kale 685 px (0.31), no wheat sprig at the mouth, watering the side of the pot rather than the plant, fedora-shaped crown. Next try: farmer 70 to 135 px standing on the pot rim pouring onto the kale's soil, wheat sprig at the mouth, creased cowboy crown.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-balcony-lease-v2.jpg",
+   "status": "Draft"
   }
  ]
 }
