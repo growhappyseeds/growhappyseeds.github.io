@@ -651,6 +651,45 @@
    "note": "Promotes https://growhappyseeds.com/blog/balcony-garden-lease-and-building-rules/. Draft, not queued: failed the independent review twice (3, then 3). Round 1: farmer 246 px vs kale 670 px (0.37), water splashing a puddle onto the floor (contradicts the post's no-drips message), curly kale. Round 2: floor dry and kale closer to Red Russian, but farmer 215 px vs kale 685 px (0.31), no wheat sprig at the mouth, watering the side of the pot rather than the plant, fedora-shaped crown. Next try: farmer 70 to 135 px standing on the pot rim pouring onto the kale's soil, wheat sprig at the mouth, creased cowboy crown.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-balcony-lease-v2.jpg",
    "status": "Draft"
+  },
+  {
+   "key": "blog-stocking-stuffers-v6",
+   "ct": "CT-20261117-01",
+   "aq": "AQ-20261117-02",
+   "angle": "blog",
+   "hook": "What would a gardener buy for themselves?",
+   "time": "2026-12-09 11:30",
+   "caption": "What would a gardener buy for themselves?\nSmall, durable things that are still useful in spring: a vegetable seed kit, bypass pruners, sturdy gloves, metal plant labels, twine or a pocket journal.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/stocking-stuffers-for-gardeners\n\n#gardeningtips #stockingstuffers #giftideas #redrussiankale",
+   "canva": "MAHbMFP0WiA",
+   "note": "Promotes https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/. Independent reviewer 9/10 (pass, second round): farmer about 173 px vs kale about 975 px (about 18 percent); hummingbird with red throat and yellow flower, red hatband, wheat sprig, mustache, rosy cheeks, bandana, overalls, brown cowboy boots; watering with a tiny can (tending); Kale 'Red Russian' reads correctly (grey-green, purple stems), upright and healthy with no drooping (meets Jared's Nov 15 note); the kale is the only plant; bow and stocking carry no text; no packaging; not the post's hero image (winter.jpg) and not used before. Caption claims verified against the post's short answer; hook 7 words, new. Points off: kale grey-green a little dull against the saturated palette. Round 1 scored 3: off-list houseplants in frame, no wheat sprig, farmer 25 percent of the kale, gift-bow tying pose. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers-v6.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-leggy-seedlings-v2",
+   "ct": "CT-20261117-02",
+   "aq": "",
+   "angle": "blog",
+   "hook": "Why do indoor seedlings get so leggy?",
+   "time": "",
+   "caption": "Why do indoor seedlings get so leggy?\nToo little light and too much warmth, so they stretch toward the window. Give them bright light a few inches above for 12 to 16 hours a day, a cooler spot, and bury leggy tomato stems deeper at transplant.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/leggy-seedlings-indoors\n\n#gardeningtips #seedstarting #leggyseedlings #floradadetomato",
+   "canva": "MAHbMFg4HO0",
+   "note": "Promotes https://growhappyseeds.com/blog/leggy-seedlings-indoors/. Draft, not queued: failed the independent review twice (4, then 7). Round 1: farmer kneeling about 500 px vs tomato at least 960 px (52 percent) and taller than the background seedlings, which also looked leggy. Round 2: scale fixed (about 218 px vs 1005 px, 22 percent), one healthy Floradade, all character details except the wheat sprig, which is missing; tomatoes glossy, close to plastic. Caption passed both rounds. Next try: same scene with 'wheat sprig clearly at the corner of his mouth', farmer one sixth of the plant, matte clay tomatoes. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-leggy-seedlings-v2.jpg",
+   "status": "Draft"
+  },
+  {
+   "key": "blog-seed-labels-v2",
+   "ct": "CT-20261117-03",
+   "aq": "",
+   "angle": "blog",
+   "hook": "Non-GMO, heirloom, organic: what's the difference?",
+   "time": "",
+   "caption": "Non-GMO, heirloom, organic: what's the difference?\nNon-GMO is about how the variety was bred, heirloom means an old open-pollinated variety, and organic is about how the seed crop was farmed. One packet can carry one, two or all three.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/non-gmo-vs-heirloom-vs-organic-seeds\n\n#gardeningtips #seedstarting #nongmo #chioggiabeet",
+   "canva": "MAHbMHG9J_8",
+   "note": "Promotes https://growhappyseeds.com/blog/non-gmo-vs-heirloom-vs-organic-seeds/. Draft, not queued: failed the independent review twice (4, then 4). Round 1: farmer about 510 px vs foliage at least 1000 px (50 percent), pure back view hid face and wheat sprig, Chioggia rings painted on the outside of the roots. Round 2: face, mustache and wheat sprig now visible, plain beet skins, but farmer about 253 px is 26 to 30 percent of the beets and carrots and 56 percent of the nearer turnips. Caption passed both rounds. Next try: farmer about 100 to 130 px (one eighth of the foliage), turnip foliage at least as tall as the carrots. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seed-labels-v2.jpg",
+   "status": "Draft"
   }
  ]
 }
