@@ -1,0 +1,12 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0063-2785998846906134792.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T061210Z&X-Amz-Expires=43890&X-Amz-Signature=83531f388c1eb4640c01ed001945bbeb88e53fb6f45753e00131d2bc8e977e07&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2017%20Nov%202026%2018%3A23%3A40%20GMT",
+   "path": "media/2026-11/statics/blog-leggy-seedlings.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0064-2785998846906134792.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T000213Z&X-Amz-Expires=65031&X-Amz-Signature=e0342b05df2531557d62d5620b3f6693381ee391445a071af05da6a068a203a3&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2017%20Nov%202026%2018%3A06%3A04%20GMT",
+   "path": "media/2026-11/statics/blog-seed-labels.jpg"
+  }
+ ]
+}
