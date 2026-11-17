@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0065-5681813409726016335.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T024003Z&X-Amz-Expires=58498&X-Amz-Signature=24b561bde76c4704e4ed9e1ed84f911b8fa7818aba1fd44f7cd6914a4de97aca&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2017%20Nov%202026%2018%3A55%3A01%20GMT",
+   "path": "media/2026-11/statics/blog-leggy-seedlings-v2.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0066-5681813409726016335.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T165339Z&X-Amz-Expires=4788&X-Amz-Signature=1475e383e52c4e3bf5dd70af701cead60c48d76a7f08e60b3eef3b6097d09496&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2017%20Nov%202026%2018%3A13%3A27%20GMT",
+   "path": "media/2026-11/statics/blog-stocking-stuffers-v6.jpg"
+  },
+  {
+   "url": "https://export-download.canva.com/D7IiY/DAHY1SD7IiY/-1/0/0067-5681813409726016335.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T235825Z&X-Amz-Expires=66600&X-Amz-Signature=df78bc4f1926a6af0c2c96fcc5e832bd75c2525ebfda635bb51fbeb9cb7812ed&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2017%20Nov%202026%2018%3A28%3A25%20GMT",
+   "path": "media/2026-11/statics/blog-seed-labels-v2.jpg"
+  }
+ ]
+}
