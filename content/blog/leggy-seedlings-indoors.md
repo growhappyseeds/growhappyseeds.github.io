@@ -2,8 +2,8 @@
 title: "Leggy Seedlings Indoors: Why They Stretch and How to Fix Them"
 slug: "leggy-seedlings-indoors"
 description: "Why seedlings started in an apartment grow tall and floppy, how to rescue leggy tomatoes and greens, and the light and heat fixes that keep the next tray short."
-date: 2026-11-16
-updated: 2026-11-16
+date: 2026-11-17
+updated: 2026-11-17
 eyebrow: "City apartment growing"
 read: 6
 answer: "Seedlings get leggy when they have too little light and too much warmth, so they stretch toward the window on thin stems. Fix it with brighter light a few inches above the plants for 12 to 16 hours a day, a cooler spot, and by burying leggy tomato stems deeper at transplant."

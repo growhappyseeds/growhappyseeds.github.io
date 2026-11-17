@@ -2,8 +2,8 @@
 title: "Non-GMO vs Heirloom vs Organic Seeds: What the Labels Mean"
 slug: "non-gmo-vs-heirloom-vs-organic-seeds"
 description: "What non-GMO, heirloom, open-pollinated, hybrid and organic mean on a seed packet, how the labels overlap, and which ones matter for a home vegetable garden."
-date: 2026-11-16
-updated: 2026-11-16
+date: 2026-11-17
+updated: 2026-11-17
 eyebrow: "Seed basics"
 read: 6
 answer: "Non-GMO means the variety was not genetically engineered, heirloom means an open-pollinated variety with decades of history, and organic means the seed was grown on certified organic farms. They answer different questions, so one packet can carry one, two or all three labels."
