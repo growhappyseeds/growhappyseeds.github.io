@@ -18,6 +18,12 @@
     <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/farmer-cucumber.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/do-seeds-expire/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/packets-v3a.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/starting-seeds-in-a-small-apartment/</loc>
     <lastmod>2026-11-18</lastmod>
     <priority>0.7</priority>
