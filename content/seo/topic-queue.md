@@ -10,12 +10,12 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 - [x] `stocking-stuffers-for-gardeners` Stocking stuffers and small gifts for gardeners under $25 (seasonal, publish by mid-November) (drafted 2026-11-04, live /blog/stocking-stuffers-for-gardeners/)
 - [x] `vegetable-garden-seed-kit-what-to-look-for` What to look for in a vegetable garden seed kit (7 checks: variety count, seed count per packet, germination printed, guide quality, non-GMO/open-pollinated, container-friendly, gift-ready)
 - [x] `how-many-seeds-are-in-a-seed-packet` How many seeds are in a seed packet? (by crop, with a table; why kits with 100 seeds per packet are enough for a home garden) (drafted 2026-11-13, live /blog/how-many-seeds-are-in-a-seed-packet/)
-- [~] `non-gmo-vs-heirloom-vs-organic-seeds` Non-GMO vs heirloom vs organic seeds: what the labels actually mean (and which matter for a home garden) (drafted 2026-11-16, parked in content/blog/_pending/ awaiting Jared's approval)
+- [x] `non-gmo-vs-heirloom-vs-organic-seeds` Non-GMO vs heirloom vs organic seeds: what the labels actually mean (and which matter for a home garden) (drafted 2026-11-16, live /blog/non-gmo-vs-heirloom-vs-organic-seeds/)
 - [x] `apartment-vegetable-garden-from-seed` moved to the daily City Apartment Growing series (content/seo/apartment-series.md, Jared Nov 3 2026); do not write it from this queue. Skip any topic here that a series topic covers.
 
 ## Ring 2: beginner questions
-- [ ] `easiest-vegetables-to-grow-from-seed` The 10 easiest vegetables to grow from seed (ranked, with why)
-- [ ] `do-seeds-expire` Do seeds expire? How long seeds last by crop and how to store them
+- [x] `easiest-vegetables-to-grow-from-seed` covered by /blog/best-vegetable-seeds-for-beginners/ (ranked table of the easiest crops from seed)
+- [~] `do-seeds-expire` Do seeds expire? How long seeds last by crop and how to store them (drafted 2026-11-18, parked in content/blog/_pending/ awaiting Jared's approval)
 - [ ] `how-deep-to-plant-seeds` How deep to plant vegetable seeds (the 2-to-3-times rule, table by crop)
 - [ ] `why-are-my-seeds-not-germinating` Why your seeds are not germinating: 9 causes and fixes
 - [ ] `direct-sow-vs-transplant` Direct sow vs transplant: which vegetables go straight in the ground
