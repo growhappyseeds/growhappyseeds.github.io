@@ -2,8 +2,8 @@
 title: "How to Grow Cucumbers on a Balcony Trellis From Seed"
 slug: "cucumbers-on-a-balcony-railing-trellis"
 description: "Grow cucumbers from seed on a city balcony: one plant in a 5-gallon pot, a 3 to 4 foot trellis, warm soil to sow, daily water and hand pollination."
-date: 2026-11-17
-updated: 2026-11-17
+date: 2026-11-18
+updated: 2026-11-18
 eyebrow: "City apartment growing"
 read: 7
 answer: "Grow one cucumber plant in a 5-gallon pot on a balcony with six or more hours of direct sun, trained up a 3 to 4 foot trellis. Sow 1 to 2 weeks after your last frost once the mix is warm, and pick slicers at 6 to 8 inches every few days."
