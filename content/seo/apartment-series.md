@@ -20,7 +20,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/grow-lights-for-apartment-seedlings/ `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims) (drafted 2026-11-08)
 - [x] live /blog/windowsill-vegetables-from-seed/ `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them) (drafted 2026-11-14)
 - [x] live /blog/leggy-seedlings-indoors/ `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings (drafted 2026-11-16)
-- [~] `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18, pending)
+- [x] live /blog/starting-seeds-in-a-small-apartment/ `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18)
 - [ ] `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment
 - [ ] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example)
 - [ ] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting
@@ -36,8 +36,8 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/balcony-weight-limits-for-containers/ `balcony-weight-limits-for-containers` How heavy is a wet planter? Balcony weight limits and container gardening in apartments (drafted 2026-11-07)
 - [x] live /blog/balcony-garden-lease-and-building-rules/ `balcony-garden-lease-and-building-rules` Can you have a vegetable garden on a rental balcony? Lease rules, drips and neighbors (drafted 2026-11-13)
 - [x] live /blog/tomatoes-on-a-small-balcony/ `tomatoes-on-a-small-balcony` Growing tomatoes from seed for a small balcony (Floradade as the worked example) (drafted 2026-11-15)
-- [~] `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed (drafted 2026-11-17, pending)
-- [ ] `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience
+- [x] live /blog/cucumbers-on-a-balcony-railing-trellis/ `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed (drafted 2026-11-17)
+- [~] `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience (drafted 2026-11-19, pending)
 - [ ] `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures
 - [ ] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor
 - [ ] `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in
