@@ -43,8 +43,24 @@ def git_date(*paths):
     except Exception:
         return TODAY
 
-# The planting pages, facts page and brand.json change only when their data or this generator changes.
-DATA_UPDATED = git_date("content/brand.json", "tools/seo/states.json", "tools/seo/build.py")
+def ensure_full_history():
+    """A shallow clone makes git log stop at the clone's oldest commit, so every file that
+    changed before it looks as if it changed on that day (Nov 15 and Nov 17 2026 publishes
+    re-dated 56 untouched URLs this way). Unshallow first; refuse to build if that fails."""
+    def shallow():
+        r = subprocess.run(["git", "-C", str(ROOT), "rev-parse", "--is-shallow-repository"],
+                           capture_output=True, text=True)
+        return r.stdout.strip() == "true"
+    if shallow():
+        subprocess.run(["git", "-C", str(ROOT), "fetch", "--unshallow", "--quiet"], capture_output=True, text=True)
+    if shallow():
+        sys.exit("build.py: this clone is shallow, so lastmod dates would be wrong. Run: git fetch --unshallow")
+
+ensure_full_history()
+
+# The planting pages, facts page and brand.json change only when their data changes. build.py is
+# deliberately not in this list: a template-only commit must not re-date 50 state pages (Analyst, Nov 3 2026).
+DATA_UPDATED = git_date("content/brand.json", "tools/seo/states.json")
 
 brand = json.loads((ROOT / "content/brand.json").read_text())
 states = json.loads((ROOT / "tools/seo/states.json").read_text())["states"]
@@ -477,8 +493,10 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
             full.append("\n\n---\n\n" + (ROOT / "content/blog" / f"{p['slug']}.md").read_text())
         else:
             h = (BLOG_DIR / p["slug"] / "index.html").read_text()
-            m = re.search(r'<article class="post">(.*?)<aside class="kit"', h, re.S)
-            text = re.sub(r"<[^>]+>", " ", m.group(1) if m else "")
+            # article body up to the FAQ, with any kit promo asides removed (a post may carry one near the top)
+            m = re.search(r'<article class="post">(.*?)(?:<section class="faq"|<nav class="related"|</article>)', h, re.S)
+            body = re.sub(r'<aside class="kit".*?</aside>', " ", m.group(1) if m else "", flags=re.S)
+            text = re.sub(r"<[^>]+>", " ", body)
             text = html.unescape(re.sub(r"[ \t]+", " ", text)).strip()
             full.append(f"\n\n---\n\n# {p['title']}\n\n{SITE}/blog/{p['slug']}/\n\n{text}")
     (ROOT / "llms-full.txt").write_text("".join(full))
