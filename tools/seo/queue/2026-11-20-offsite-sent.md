@@ -1,5 +1,7 @@
 # Off-site pitches sent 2026-11-20: 49 list-page and gift-guide pitches, sent from Jared's Gmail on his instruction
 
+**Error, recorded Nov 20:** all 50 (these 49 plus Katie Couric Media) went out from jared@moodswingmgmt.com, the Gmail account connected to the agent, not from hello@growhappyseeds.com, which is the only address Happy Seeds mail may use (README rule 7, updated). The signature reads hello@growhappyseeds.com but replies will arrive in the Moodswing inbox. No correction email was sent to the 50 recipients. Any second wave goes from hello@ as drafts Jared sends himself.
+
 Context: the AEO report of 2026-11-18 found 13 drafted pitches and 0 sent. On Nov 20 Jared asked the AI Visibility Monitor to send the Katie Couric Media pitch (done, see `2026-11-17-offsite.md` section 7), then to "continue doing this with major outlets, 50 outlets", choosing "13 drafted + 37 new, all today". This file is the record. With Katie Couric Media that makes 50 outlets.
 
 Rules followed: every address below is printed on the outlet's own site (contact, about, masthead, press or pitch page), quoted with the page it came from; no scraped databases, no guessed addresses, no contact forms. Product facts only from `content/brand.json`. No sample offered (Jared has not said to offer one). Each email was sent as a separate plain-text message, signed Jared Glassman, Happy Seeds, hello@growhappyseeds.com.

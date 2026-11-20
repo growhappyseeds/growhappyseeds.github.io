@@ -33,7 +33,7 @@ Needs `markdown` and `pyyaml` (`pip install markdown pyyaml --break-system-packa
 4. Answer first: the `answer` field and the first sentence of every H2 answer the question outright.
 5. Never fake freshness: `updated` changes only when the content changed. The build takes every other page's lastmod from git, never from today's date, and never puts a future date anywhere.
 6. One positioning phrase everywhere: "the complete first vegetable garden in one box: ten varieties, 1,000+ lab-tested non-GMO seeds, germination rate printed on every packet, a 24-page grow guide, $24.99."
-7. Email Jared from his own Gmail connector (`mcp__Gmail__send_message`, to glassman.ja@gmail.com) with the PR link; never WhatsApp; never email anyone else.
+7. Email Jared from his own Gmail connector (`mcp__Gmail__send_message`, to glassman.ja@gmail.com) with the PR link; never WhatsApp; never email anyone else. That connector is Jared's Moodswing account (jared@moodswingmgmt.com) and is for mail to Jared only. Any Happy Seeds email to anyone else (pitches, stores, press) goes only from hello@growhappyseeds.com, through the Zapier Gmail connection of that name, and only as a draft for Jared to send himself unless he says otherwise (Jared, Nov 20 2026, after 50 pitches went out from the Moodswing address by mistake).
 
 ## Article front matter
 
