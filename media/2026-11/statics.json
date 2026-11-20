@@ -690,6 +690,45 @@
    "note": "Promotes https://growhappyseeds.com/blog/non-gmo-vs-heirloom-vs-organic-seeds/. Draft, not queued: failed the independent review twice (4, then 4). Round 1: farmer about 510 px vs foliage at least 1000 px (50 percent), pure back view hid face and wheat sprig, Chioggia rings painted on the outside of the roots. Round 2: face, mustache and wheat sprig now visible, plain beet skins, but farmer about 253 px is 26 to 30 percent of the beets and carrots and 56 percent of the nearer turnips. Caption passed both rounds. Next try: farmer about 100 to 130 px (one eighth of the foliage), turnip foliage at least as tall as the carrots. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seed-labels-v2.jpg",
    "status": "Draft"
+  },
+  {
+   "key": "blog-seeds-indoors-v3",
+   "ct": "CT-20261118-01",
+   "aq": "AQ-20261120-03",
+   "angle": "blog",
+   "hook": "When should you start seeds indoors?",
+   "time": "2026-11-21 11:30",
+   "caption": "When should you start seeds indoors?\nSix to eight weeks before your last frost for tomatoes, peppers and eggplant. Carrots, beets, turnips and spinach go straight in the ground.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/when-to-start-seeds-indoors\n\n#gardeningtips #seedstarting #seedstartingindoors #growyourown #balconygarden",
+   "canva": "chatgpt https://chatgpt.com/c/6afdbb7c-93c0-83ea-b778-419dae761fbf",
+   "note": "Remake of AQ-20261103-03 with the new branded farmer (ChatGPT, Drive file 1hdDYuK2MFcVHgLuypsmCa-4q5i11zpZA).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seeds-indoors-v3.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-new-gardener-gifts-v3",
+   "ct": "CT-20261118-02",
+   "aq": "AQ-20261120-04",
+   "angle": "blog",
+   "hook": "What do new gardeners actually use?",
+   "time": "2026-11-22 11:30",
+   "caption": "What do new gardeners actually use?\nA seed kit with a guide, a watering can, a trowel, a few pots and a notebook. Skip the gadgets.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/gifts-for-new-gardeners\n\n#gardeningtips #giftideas #newgardener #seedstarting #balconygarden",
+   "canva": "chatgpt https://chatgpt.com/c/6afdbb3e-8b40-83ea-9e00-a99abf0ba799",
+   "note": "Remake of AQ-20261104-01 with the new branded farmer (ChatGPT, Drive file 1pef8ibq_J-gQaNol-Pru1YCIH5_-1NQi).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-new-gardener-gifts-v3.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-start-a-garden-v2",
+   "ct": "CT-20261118-03",
+   "aq": "AQ-20261120-05",
+   "angle": "blog",
+   "hook": "How do you start your first vegetable garden?",
+   "time": "2026-11-23 11:30",
+   "caption": "How do you start your first vegetable garden?\nPick the sunniest spot, a few big containers, and six forgiving crops: tomato, cucumber, kale, spinach, carrots and beets.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/how-to-start-a-vegetable-garden-for-beginners\n\n#gardeningtips #beginnergardener #vegetablegarden #seedstarting #balconygarden",
+   "canva": "chatgpt https://chatgpt.com/c/6afdbb7c-93c0-83ea-b778-419dae761fbf",
+   "note": "Remake of AQ-20261104-02 with the new branded farmer (ChatGPT, Drive file 1w4fJuM6n4uJLaV4c4hb19mS0-8j48mFu).",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-start-a-garden-v2.jpg",
+   "status": "Pending"
   }
  ]
 }
