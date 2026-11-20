@@ -2,8 +2,8 @@
 title: "Peppers and Eggplant on a City Balcony: Heat, Pots and Patience"
 slug: "peppers-and-eggplant-on-a-balcony"
 description: "Grow peppers and eggplant from seed on a city balcony: sow indoors 8 weeks before last frost, give each plant a 5-gallon pot and full sun, and wait 75 days."
-date: 2026-11-19
-updated: 2026-11-19
+date: 2026-11-20
+updated: 2026-11-20
 eyebrow: "City apartment growing"
 read: 7
 answer: "Peppers and eggplant grow from seed on a city balcony that gets at least six hours of direct sun, one plant per 5-gallon pot. Sow indoors about 8 weeks before last frost, move out 2 weeks after it once nights stay above 50 degrees F, and expect fruit 75 to 85 days later."
