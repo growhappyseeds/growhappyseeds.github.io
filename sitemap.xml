@@ -18,6 +18,12 @@
     <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/farmer-pepper.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/radiator-heat-and-indoor-seedlings/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/frostsill-clay.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/best-seed-gifts/</loc>
     <lastmod>2026-11-19</lastmod>
     <priority>0.7</priority>
