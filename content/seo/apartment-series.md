@@ -21,7 +21,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/windowsill-vegetables-from-seed/ `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them) (drafted 2026-11-14)
 - [x] live /blog/leggy-seedlings-indoors/ `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings (drafted 2026-11-16)
 - [x] live /blog/starting-seeds-in-a-small-apartment/ `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18)
-- [ ] `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment
+- [~] `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment (drafted 2026-11-20, pending)
 - [ ] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example)
 - [ ] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting
 - [ ] `grow-carrots-in-a-container-indoors` Can you grow carrots in a pot indoors? (depth, variety, patience)
