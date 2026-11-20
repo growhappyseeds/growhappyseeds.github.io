@@ -692,7 +692,7 @@
    "status": "Draft"
   },
   {
-   "key": "blog-seeds-indoors-v3",
+   "key": "blog-seeds-indoors-v4",
    "ct": "CT-20261118-01",
    "aq": "AQ-20261120-03",
    "angle": "blog",
@@ -701,11 +701,11 @@
    "caption": "When should you start seeds indoors?\nSix to eight weeks before your last frost for tomatoes, peppers and eggplant. Carrots, beets, turnips and spinach go straight in the ground.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/when-to-start-seeds-indoors\n\n#gardeningtips #seedstarting #seedstartingindoors #growyourown #balconygarden",
    "canva": "chatgpt https://chatgpt.com/c/6afdbb7c-93c0-83ea-b778-419dae761fbf",
    "note": "Remake of AQ-20261103-03 with the new branded farmer (ChatGPT, Drive file 1hdDYuK2MFcVHgLuypsmCa-4q5i11zpZA).",
-   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seeds-indoors-v3.jpg",
-   "status": "Pending"
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-seeds-indoors-v4.jpg",
+   "status": "Published"
   },
   {
-   "key": "blog-new-gardener-gifts-v3",
+   "key": "blog-new-gardener-gifts-v4",
    "ct": "CT-20261118-02",
    "aq": "AQ-20261120-04",
    "angle": "blog",
@@ -714,8 +714,8 @@
    "caption": "What do new gardeners actually use?\nA seed kit with a guide, a watering can, a trowel, a few pots and a notebook. Skip the gadgets.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/gifts-for-new-gardeners\n\n#gardeningtips #giftideas #newgardener #seedstarting #balconygarden",
    "canva": "chatgpt https://chatgpt.com/c/6afdbb3e-8b40-83ea-9e00-a99abf0ba799",
    "note": "Remake of AQ-20261104-01 with the new branded farmer (ChatGPT, Drive file 1pef8ibq_J-gQaNol-Pru1YCIH5_-1NQi).",
-   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-new-gardener-gifts-v3.jpg",
-   "status": "Pending"
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-new-gardener-gifts-v4.jpg",
+   "status": "Published"
   },
   {
    "key": "blog-start-a-garden-v2",
@@ -728,7 +728,7 @@
    "canva": "chatgpt https://chatgpt.com/c/6afdbb7c-93c0-83ea-b778-419dae761fbf",
    "note": "Remake of AQ-20261104-02 with the new branded farmer (ChatGPT, Drive file 1w4fJuM6n4uJLaV4c4hb19mS0-8j48mFu).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-start-a-garden-v2.jpg",
-   "status": "Pending"
+   "status": "Published"
   }
  ]
 }
