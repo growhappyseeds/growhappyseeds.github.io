@@ -12,6 +12,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/how-deep-to-plant-seeds/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/blog-beginner-sowing.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/peppers-and-eggplant-on-a-balcony/</loc>
     <lastmod>2026-11-20</lastmod>
     <priority>0.7</priority>
