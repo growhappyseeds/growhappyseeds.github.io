@@ -22,7 +22,7 @@ pdfmetrics.registerFont(TTFont('Lilita', A + 'LilitaOne.ttf'))
 
 SUN = HexColor('#F6CC46'); RED = HexColor('#BF3629'); INK = HexColor('#26211A')
 MUTED = HexColor('#6B6254'); CREAM = HexColor('#FFF6DB'); LINE = HexColor('#E7D6A6')
-BLUE = HexColor('#5CC8EA'); CHIP = HexColor('#E9A93A')
+BLUE = HexColor('#4FCBE7'); CHIP = HexColor('#E9A93A')
 W, H = letter
 L, R = 36, W - 36
 
@@ -45,7 +45,7 @@ KITS = {
         body2=('No spinner rack, no wall of packets. A $24.99 ticket in the footprint of a paperback, '
                'on a gift wall, a counter, or an endcap.'),
         chips=['Non-GMO', 'Lab tested', 'All natural'],
-        spec=['MSRP $24.99', '6.3 x 3.7 x 2.4 in  ·  Case of 10'],
+        spec=['MSRP $24.99', 'Box 6 x 3.5 x 2 in  ·  Case of 10'],
         why=['Ten units display in under one square foot: two stacks of five, face out. No rack.',
              '$249.90 in revenue per case at full price.',
              'Herbs grow year round on a windowsill, so the kit sells in every season, not just spring.',
@@ -59,13 +59,22 @@ KITS = {
                    'Thyme English (Winter)', 'Dill Bouquet'],
         detail_p1=('1,000+ seeds in total, lab tested for purity and germination. 24-page grow guide with '
                    'the story and step-by-step growing instructions for every variety. Slide-out keepsake '
-                   'box with foam insert, 6.3 x 3.7 x 2.4 inches.'),
+                   'box with foam insert, 6 x 3.5 x 2 inches.'),
         detail_p2=('Herbs suit apartment gardeners: a sunny windowsill is enough, '
                    'and they grow year round.'),
-        img_box=A + 'herb_box.png', img_guide=A + 'herb_growguide.jpg', img_trust=A + 'herb_trust.jpg',
-        cap_box="What's included: box, drawer, 10 packets, 24-page grow guide",
+        img_box=A + 'herb_box.png', img_varieties=A + 'herb_varieties.jpg',
+        img_included=A + 'herb_included.jpg', img_guide=A + 'herb_growguide.jpg',
+        img_trust=A + 'herb_trust.jpg', img_gift=A + 'herb_gift.jpg',
+        cap_included="What's included: slide-out box with foam insert, 10 packets, 24-page grow guide",
         cap_guide='The grow guide: history and growing instructions for every variety',
         cap_trust='Lab tested for purity and germination. Non-GMO, all natural.',
+        cap_gift='A gift for beginners, seasoned gardeners and anyone who loves fresh food',
+        specs=[('Box', '6 x 3.5 x 2 in, slide-out drawer, foam insert'),
+               ('Seed packets', '10 paper packets, 3.5 x 2 in each'),
+               ('Seeds', '1,000+ in total, lab tested for purity and germination'),
+               ('Grow guide', '24 pages, 5.2 x 2.7 in'),
+               ('Retail', 'MSRP $24.99  ·  case pack of 10')],
+        specs_url='growhappyseeds.com/herb-kit-specs.html',
     ),
 }
 
@@ -104,13 +113,16 @@ def blue_panel(c, x, ytop, w, h):
 
 def page1(c, k):
     frame(c, k, 'WHOLESALE PRICING GUIDE', k['season'], 1)
-    # left art panel
+    # left art panel: Jared's "10 curated herb seed varieties" graphic (Nov 22 2026) carries its own title and note
     px, py, pw, ph = L, 96, 300, 276
     blue_panel(c, px, py, pw, ph)
-    c.setFillColor(white); c.setFont('Lilita', 18)
-    c.drawString(px + 14, T(py + 26), k['panel_title'][0]); c.drawString(px + 14, T(py + 46), k['panel_title'][1])
-    fit_image(c, k['img_box'], px + 10, py + 56, pw - 20, 176)
-    para(c, k['panel_note'], px + 14, py + 250, pw - 28, 'Helvetica-Bold', 7.5, 10, white)
+    if k.get('img_varieties'):
+        fit_image(c, k['img_varieties'], px, py, pw, ph)
+    else:
+        c.setFillColor(white); c.setFont('Lilita', 18)
+        c.drawString(px + 14, T(py + 26), k['panel_title'][0]); c.drawString(px + 14, T(py + 46), k['panel_title'][1])
+        fit_image(c, k['img_box'], px + 10, py + 56, pw - 20, 176)
+        para(c, k['panel_note'], px + 14, py + 250, pw - 28, 'Helvetica-Bold', 7.5, 10, white)
     # right column
     x, w = 356, R - 356
     c.setFillColor(RED); c.setFont('Lilita', 21); c.drawString(x, T(116), k['name'])
@@ -167,27 +179,28 @@ def page1(c, k):
 
 def page2(c, k):
     frame(c, k, 'PRODUCT DETAIL', k['detail_sub'], 2)
-    gw, gh = 262, 236
-    # top-left: what's included
-    blue_panel(c, L, 96, gw, gh)
-    c.setFillColor(white); c.setFont('Lilita', 15); c.drawCentredString(L + gw / 2, T(118), "WHAT'S INCLUDED")
-    fit_image(c, k['img_box'], L + 12, 126, gw - 24, gh - 40)
-    para(c, k['cap_box'], L, 96 + gh + 14, gw, size=7.5, lead=9.5, color=MUTED)
-    # top-right: grow guide
+    # 2 x 2 grid of Jared's product graphics (Nov 22 2026)
+    gw, gh, gap = 262, 218, 24
     rx = R - gw
-    fit_image(c, k['img_guide'], rx, 96, gw, gh)
-    para(c, k['cap_guide'], rx, 96 + gh + 14, gw, size=7.5, lead=9.5, color=MUTED)
-    # bottom-left: trust panel
-    fit_image(c, k['img_trust'], L, 366, gw, gh)
-    para(c, k['cap_trust'], L, 366 + gh + 14, gw, size=7.5, lead=9.5, color=MUTED)
-    # bottom-right: in every kit
-    c.setFillColor(RED); c.setFont('Lilita', 14); c.drawString(rx, T(384), 'In every kit')
-    y = 402
-    for v in k['varieties']:
-        c.setFillColor(RED); c.setFont('Helvetica-Bold', 8.5); c.drawString(rx + 2, T(y), '•')
-        c.setFillColor(INK); c.setFont('Helvetica', 9); c.drawString(rx + 14, T(y), v); y += 13.5
-    y = para(c, k['detail_p1'], rx, y + 8, gw, size=8.5, lead=11.5)
-    para(c, k['detail_p2'], rx, y + 6, gw, size=8.5, lead=11.5)
+    tiles = [(k['img_included'], k['cap_included'], L, 88), (k['img_guide'], k['cap_guide'], rx, 88),
+             (k['img_trust'], k['cap_trust'], L, 88 + gh + gap + 4), (k['img_gift'], k['cap_gift'], rx, 88 + gh + gap + 4)]
+    for img, cap, x, y in tiles:
+        fit_image(c, img, x, y, gw, gh)
+        c.setFillColor(MUTED); c.setFont('Helvetica', 7.5); c.drawCentredString(x + gw / 2, T(y + gh + 11), cap)
+    # specs strip
+    y0 = 88 + 2 * (gh + gap + 4) + 4
+    c.setFillColor(CREAM); c.roundRect(L, T(y0 + 126), R - L, 126, 10, stroke=0, fill=1)
+    c.setFillColor(RED); c.setFont('Lilita', 13); c.drawString(L + 14, T(y0 + 20), 'Product specs')
+    c.setFont('Helvetica-Bold', 7.5); txt = 'Full specs: ' + k['specs_url']
+    c.drawRightString(R - 14, T(y0 + 19), txt)
+    tw = c.stringWidth(txt, 'Helvetica-Bold', 7.5)
+    c.linkURL('https://' + k['specs_url'], (R - 14 - tw, T(y0 + 22), R - 14, T(y0 + 12)), relative=0)
+    y = y0 + 36
+    for label, val in k['specs']:
+        c.setFillColor(RED); c.setFont('Helvetica-Bold', 8.5); c.drawString(L + 14, T(y), label)
+        c.setFillColor(INK); c.setFont('Helvetica', 8.5); c.drawString(L + 96, T(y), val); y += 12.5
+    c.setFillColor(RED); c.setFont('Helvetica-Bold', 8.5); c.drawString(L + 14, T(y + 2), 'Varieties')
+    para(c, ', '.join(k['varieties']) + '.', L + 96, y + 2, R - L - 110, size=8, lead=10.5)
 
 
 def build(key):

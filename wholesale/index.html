@@ -96,6 +96,11 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
   footer{padding:36px 24px;text-align:center;font-size:14px;color:var(--muted)}
   footer a{color:var(--muted)}
   @media (max-width:900px){.why,.kits,.split,.fgrid,.kitpick{grid-template-columns:1fr}.band{padding:52px 0}}
+  .kit img.contain{object-fit:contain;background:#4FCBE7}
+  .speclink{font-weight:600;color:var(--ink)}
+  .hkgal{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-top:26px}
+  .hkgal figure{margin:0}.hkgal img{width:100%;border-radius:22px;box-shadow:0 10px 22px rgba(38,33,26,.12)}
+  @media (max-width:900px){.hkgal{grid-template-columns:repeat(2,1fr)}.hkgal figure:last-child{grid-column:1/-1;max-width:50%;justify-self:center}}
 </style>
 </head>
 <body>
@@ -149,7 +154,7 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
         </div>
       </article>
       <article class="kit">
-        <img src="/media/site/herb-packets.webp" width="1440" height="1080" loading="lazy" alt="The ten Herb Garden Kit seed packets">
+        <img class="contain" src="/media/site/herb-kit/varieties.webp" srcset="/media/site/herb-kit/varieties.webp 700w, /media/site/herb-kit/varieties@2x.webp 1400w" sizes="(max-width:900px) 92vw, 560px" width="1400" height="1400" loading="lazy" alt="The Herb Garden Kit: 10 curated herb seed varieties beside the open green box">
         <div class="body">
           <span class="pill soon">Coming soon · reserve an opening order</span>
           <h3>Herb Garden Kit</h3>
@@ -157,11 +162,26 @@ src="https://www.facebook.com/tr?id=1606389660991888&ev=PageView&noscript=1"/></
             <li><span>Varieties</span><b>10 culinary herbs</b></li>
             <li><span>Seeds</span><b>1,000+, lab-tested, non-GMO</b></li>
             <li><span>Inside</span><b>24-page grow guide, keepsake box</b></li>
+            <li><span>Box</span><b>6 x 3.5 x 2 in · case of 10</b></li>
             <li><span>Suggested retail</span><b>$24.99</b></li>
           </ul>
           <a class="btn" href="#pricing" data-kit="herb">Wholesale pricing</a>
+          <a class="speclink" href="/herb-kit-specs.html">Herb kit product specs &rarr;</a>
         </div>
       </article>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="herb-kit-closeup" style="padding-top:0">
+  <div class="wrap">
+    <div class="story"><p class="eyebrow">Herb Garden Kit, up close</p><h2>What your customers get.</h2><p>Box 6 x 3.5 x 2 in, ten 3.5 x 2 in seed packets, a 24-page grow guide. <a href="/herb-kit-specs.html">See the full product specs</a>.</p></div>
+    <div class="hkgal" aria-label="Herb Garden Kit product images">
+      <figure><img src="/media/site/herb-kit/included.webp" srcset="/media/site/herb-kit/included.webp 700w, /media/site/herb-kit/included@2x.webp 1400w" sizes="(max-width:640px) 92vw, (max-width:900px) 46vw, 280px" width="1400" height="1400" loading="lazy" alt="What is included in the Herb Garden Kit, with dimensions: box 6 x 3.5 x 2 in, packets 3.5 x 2 in, grow guide 5.2 x 2.7 in"></figure>
+      <figure><img src="/media/site/herb-kit/varieties.webp" srcset="/media/site/herb-kit/varieties.webp 700w, /media/site/herb-kit/varieties@2x.webp 1400w" sizes="(max-width:640px) 92vw, (max-width:900px) 46vw, 280px" width="1400" height="1400" loading="lazy" alt="The ten Herb Garden Kit seed packets beside the open green box"></figure>
+      <figure><img src="/media/site/herb-kit/growguide.webp" srcset="/media/site/herb-kit/growguide.webp 700w, /media/site/herb-kit/growguide@2x.webp 1400w" sizes="(max-width:640px) 92vw, (max-width:900px) 46vw, 280px" width="1400" height="1400" loading="lazy" alt="The Herb Grow Guide booklet: history and growing instructions for every variety"></figure>
+      <figure><img src="/media/site/herb-kit/trust.webp" srcset="/media/site/herb-kit/trust.webp 700w, /media/site/herb-kit/trust@2x.webp 1400w" sizes="(max-width:640px) 92vw, (max-width:900px) 46vw, 280px" width="1400" height="1400" loading="lazy" alt="Lab tested for purity and germination; non-GMO, high yield, all natural, high purity"></figure>
+      <figure><img src="/media/site/herb-kit/gift.webp" srcset="/media/site/herb-kit/gift.webp 700w, /media/site/herb-kit/gift@2x.webp 1400w" sizes="(max-width:640px) 92vw, (max-width:900px) 46vw, 280px" width="1400" height="1400" loading="lazy" alt="The Herb Garden Kit box with a red bow beside its ten seed packets"></figure>
     </div>
   </div>
 </section>
