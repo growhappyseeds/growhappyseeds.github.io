@@ -455,7 +455,7 @@
    "canva": "MAHaPI-T-ig",
    "note": "Independent reviewer 8/10 (pass): hummingbird with yellow flower, wheat sprig, mustache, rosy cheeks, bandana, cream shirt, overalls with yellow buttons and brown boots visible; adult face and lean build. Low angle from the soil; farmer 276 px against a Tomato 'Floradade' plant that runs past the frame top (23 percent or less of the visible plant, judged inside the band), reaching up to the lowest blossom cluster. Tomato only; strongly clay; no text. Hook 6 words, unused; CTA exactly 'Free Grow Helper, link in bio'; Grow Helper claims inside the allowed list. Reviewer flag: 'flowers before it fruits' is general botany, not a Product fact; the red hatband reads as a patch and the wheat sprig tangles with the raised arm. Made in Canva (ChatGPT browser unavailable this run).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-tomato-flower.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   },
   {
    "key": "blog-window-direction-v2",
@@ -481,7 +481,7 @@
    "canva": "MAHaVO0gmAA",
    "note": "Independent reviewer 8/10 (pass): hummingbird with flower, hat band, bandana, crossed straps, yellow buttons and brown boots all visible from behind; farmer 42 percent of the basil pot (herb rule: about half a pot); basil, flowering chives, sage and rosemary sculpted as chunky clay per the herb style sheet; no herb packaging of any kind; no text. Points off: he holds the can at his side rather than pouring. Herb-kit claims limited to 'coming soon' per facts.html. Made in Canva (ChatGPT browser unavailable this run).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-herbs-watering.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   },
   {
    "key": "farmer-gift-pots",
@@ -494,7 +494,7 @@
    "canva": "MAHaVERwbA0",
    "note": "Independent reviewer 8/10 (pass): hummingbird and flower, wheat sprig, mustache, bandana, yellow buttons, brown boots; high angle; reaching for the ribbon end counts as tending; Kale 'Red Russian' and Tomato 'Floradade' only; clay look; ribbons and snowy window read as gift styling, nothing implies they ship. Points off: farmer on the large side at 23 percent of the visible pot-plus-plant. Made in Canva (ChatGPT browser unavailable this run).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-gift-pots.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   },
   {
    "key": "blog-seed-kit-for-kids",
@@ -832,6 +832,45 @@
    "canva": "chatgpt https://chatgpt.com/c/6b03b52e-271c-83ea-baa2-0569c4b4a728",
    "note": "Remake of AQ-20261107-02 with the new branded farmer. Promotes https://growhappyseeds.com/blog/fall-vegetables-to-plant-in-late-summer/. Independent reviewer 8/10 (pass, first round): best farmer of the batch, back view matching the character sheet (crossed straps, bandana knot, hatband, hummingbird, boots, wheat sprig in profile), lean (head plus hat 29 percent); 225 px = at most 21 to 22 percent of the kale, beet and turnip; Kale 'Red Russian', Spinach 'Bloomsdale', Carrot 'Danvers 126', Beet 'Chioggia' and Turnip 'Purple Top' all recognisable and healthy; matte clay, autumn light, no text or packaging; not the post's hero (farmer-spinach); caption matches the post, hook 8 words. Points off: the carrot row beside him is only about twice his height; a few corn-like stalks behind the beet; walking with a basket reads as harvesting more than tending. Camera angle: back view at ground level, head turned to the side. ChatGPT https://chatgpt.com/c/6b03b52e-271c-83ea-baa2-0569c4b4a728, Drive file 1vF4UueVTHOZvB0-_8N_acWpKNd-wiPfP.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-fall-harvest-v2.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-tomato-flower-v3",
+   "ct": "CT-20261123-01",
+   "aq": "AQ-20261123-03",
+   "angle": "grow_helper",
+   "hook": "The first flower on the tomato.",
+   "time": "2026-11-24 15:30",
+   "caption": "The first flower on the tomato.\nTomato 'Floradade' flowers before it fruits. Photograph each milestone in the free Grow Helper and follow it from seed to plate.\nFree Grow Helper, link in bio\n\n#seedstarting #balconygarden #giftideas #floradadetomato #happygrowhelper",
+   "canva": "chatgpt https://chatgpt.com/c/6b042bf9-7d64-83ea-a761-3b2500cd370f",
+   "note": "Remake of AQ-20261107-03 with the new branded farmer. Independent reviewer 9/10 on the second round (first round 6: farmer 321 px, 25.5 percent of the visible plant; regenerated smaller). New branded farmer in profile with a defined jaw, mustache, wheat sprig, bandana, two yellow buttons, brown cowboy boots, lean long-legged build; hummingbird with red throat and yellow flower on the crown. Farmer 236 px = at most 18.8 percent of the visible tomato (plant runs off the top). Admiring pose; Tomato 'Floradade' only, healthy and staked; clay look, no text or packaging. Hook 6 words; CTA exactly 'Free Grow Helper, link in bio'; 'flowers before it fruits' matches the Grow Helper flowering tip. Points off: the cluster shows two open blossoms, not one; the figure is smooth and slightly glossy; scale near the top of the band. ChatGPT https://chatgpt.com/c/6b042bf9-7d64-83ea-a761-3b2500cd370f, Drive file 1x53ga0pFOk5KDtxenu04GzSqovRAiuKt.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-tomato-flower-v3.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-herbs-watering-v3",
+   "ct": "CT-20261123-02",
+   "aq": "AQ-20261123-04",
+   "angle": "herbs",
+   "hook": "Basil next. He's already watering.",
+   "time": "2026-11-25 11:30",
+   "caption": "Basil next. He's already watering.\nThe Happy Farmer sizes up a Sweet Basil 'Genovese' four times his height, watering can in hand. The Herb Garden Kit is next.\nHerb kit coming soon, link in bio\n\n#seedstarting #balconygarden #giftideas #herbgarden #genovesebasil",
+   "canva": "chatgpt https://chatgpt.com/c/6b042bfb-4d9c-83e9-a429-08cc840e5688",
+   "note": "Remake of AQ-20261108-02 with the new branded farmer. Independent reviewer 8/10 on the second round (first round 5: farmer 311 px, 61 percent of the pot; regenerated smaller). New branded farmer matching the three-quarter back view of the character sheet: hat with red band, hummingbird with yellow flower, mustache, wheat sprig, bandana knot, crossed straps, brown cowboy boots, lean build. Farmer 240 px = 46 percent of the 525 px pot (herb rule: about half) and at most 18.3 percent of pot plus basil. Tending pose (pouring); basil, chives, sage and rosemary only, healthy; chunky clay per the herb style sheet; no herb box, packet or guide; no text. Hook 5 words; herb CTA exact; 'Genovese' and 'coming soon' are on facts.html. Points off: he is about 3.5 times the height of the seedling he waters; the back view hides the face and yellow buttons; the caption says he sizes up the basil while he looks at the seedling; basil a little glossy. ChatGPT https://chatgpt.com/c/6b042bfb-4d9c-83e9-a429-08cc840e5688, Drive file 1m4Z8tKkmQfwfGCd0oyod2X17yMD0W2CJ.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-herbs-watering-v3.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "farmer-gift-pots-v3",
+   "ct": "CT-20261123-03",
+   "aq": "AQ-20261123-05",
+   "angle": "gift",
+   "hook": "A first garden, gift-wrapped.",
+   "time": "2026-11-25 15:30",
+   "caption": "A first garden, gift-wrapped.\nTen named packets, 1,000+ seeds and a 24-page grow guide in a keepsake box, for the one who hasn't started yet.\nSave for your first garden\n\n#seedstarting #balconygarden #giftideas #redrussiankale",
+   "canva": "chatgpt https://chatgpt.com/c/6b042b6c-c33c-83e8-a391-dbadd2b41c13",
+   "note": "Remake of AQ-20261108-03 with the new branded farmer. Independent reviewer 8/10 on the second round (first round 4: farmer 284 px, 25.4 percent of a fully visible tomato; regenerated smaller with taller plants). Every character item present: hat with red band, hummingbird with yellow flower, mustache, rosy cheeks, wheat sprig, bandana, two yellow buttons, brown cowboy boots. Farmer 247 px = at most 19.1 percent of the kale and 19.3 percent of the tomato, pots included (plants run off the top). Admiring pose with a hand on the kale pot; Kale 'Red Russian' and Tomato 'Floradade' only, healthy and upright; clay look; ribbon and kraft paper are styling, no box or packets; no text. Hook 4 words; caption claims all in Product facts. Points off: face a little rounder and softer-jawed than the character sheet, slight belly; scale at the top of the band; leaves finely veined; the caption describes the box while the picture shows ribbon-tied pots, and a fruiting tomato sits by a snowy window. ChatGPT https://chatgpt.com/c/6b042b6c-c33c-83e8-a391-dbadd2b41c13, Drive file 1RbbYkegFzpGH4maPkKyeMm2_ECOKIArK.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/farmer-gift-pots-v3.jpg",
    "status": "Pending"
   }
  ]
