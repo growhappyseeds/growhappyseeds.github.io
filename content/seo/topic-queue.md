@@ -16,8 +16,8 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 ## Ring 2: beginner questions
 - [x] `easiest-vegetables-to-grow-from-seed` covered by /blog/best-vegetable-seeds-for-beginners/ (ranked table of the easiest crops from seed)
 - [x] `do-seeds-expire` Do seeds expire? How long seeds last by crop and how to store them (drafted 2026-11-18, live /blog/do-seeds-expire/)
-- [~] `how-deep-to-plant-seeds` How deep to plant vegetable seeds (the 2-to-3-times rule, table by crop) (drafted 2026-11-20, parked in content/blog/_pending/ awaiting Jared's approval)
-- [ ] `why-are-my-seeds-not-germinating` Why your seeds are not germinating: 9 causes and fixes
+- [x] `how-deep-to-plant-seeds` How deep to plant vegetable seeds (the 2-to-3-times rule, table by crop) (drafted 2026-11-20, live /blog/how-deep-to-plant-seeds/)
+- [~] `why-are-my-seeds-not-germinating` Why your seeds are not germinating: 9 causes and fixes (drafted 2026-11-23, parked in content/blog/_pending/ awaiting Jared's approval)
 - [ ] `direct-sow-vs-transplant` Direct sow vs transplant: which vegetables go straight in the ground
 - [ ] `how-to-harden-off-seedlings` How to harden off seedlings in 7 days
 - [ ] `how-much-sun-do-vegetables-need` How much sun vegetables need (full sun, part sun, what grows on a north-facing balcony)
