@@ -39,7 +39,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/cucumbers-on-a-balcony-railing-trellis/ `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed (drafted 2026-11-17)
 - [x] live /blog/peppers-and-eggplant-on-a-balcony/ `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience (drafted 2026-11-19)
 - [x] live /blog/hot-balcony-heat-island-vegetables/ `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures (drafted 2026-11-21)
-- [ ] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor
+- [~] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor (drafted 2026-11-23, pending)
 - [ ] `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in
 - [ ] `balcony-garden-plan-month-by-month` A 12-month balcony garden plan from seed for a city apartment
 
