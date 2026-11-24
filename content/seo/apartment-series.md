@@ -17,13 +17,13 @@ Slugs below are suggestions; keep them unless the research shows people search a
 ## No balcony (windows, counters, shelves)
 - [x] live /blog/apartment-vegetable-garden-from-seed/ `apartment-vegetable-garden-from-seed` How to grow vegetables from seed in an apartment with no balcony (the series anchor: light, space, which crops, a 30-day starter plan; moved here from topic-queue.md Ring 1) (drafted 2026-11-04)
 - [x] live /blog/best-window-direction-for-growing-vegetables/ `best-window-direction-for-growing-vegetables` Which window is best for growing vegetables indoors: south, east, west or north (what each direction can grow) (drafted 2026-11-06)
-- [~] `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims) (drafted 2026-11-08, pending)
-- [ ] `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them)
-- [ ] `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings
-- [ ] `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots
-- [ ] `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment
-- [ ] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example)
-- [ ] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting
+- [x] live /blog/grow-lights-for-apartment-seedlings/ `grow-lights-for-apartment-seedlings` Do you need a grow light to start seeds in an apartment? (when a window is enough, what a basic light setup looks like, no brand claims) (drafted 2026-11-08)
+- [x] live /blog/windowsill-vegetables-from-seed/ `windowsill-vegetables-from-seed` 5 vegetables you can grow from seed on a windowsill (the kit's cool-season five as the worked example, plus why tomatoes are not one of them) (drafted 2026-11-14)
+- [x] live /blog/leggy-seedlings-indoors/ `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings (drafted 2026-11-16)
+- [x] live /blog/starting-seeds-in-a-small-apartment/ `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18)
+- [x] live /blog/radiator-heat-and-indoor-seedlings/ `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment (drafted 2026-11-20)
+- [~] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example) (drafted 2026-11-22, pending)
+- [~] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting (drafted 2026-11-24, pending)
 - [ ] `grow-carrots-in-a-container-indoors` Can you grow carrots in a pot indoors? (depth, variety, patience)
 - [ ] `beet-greens-and-beets-indoors` Growing beets indoors from seed: greens first, roots if you have the light
 - [ ] `indoor-seed-starting-without-a-mess` Starting seeds indoors without the mess: soil, water and drainage in a rental
@@ -32,14 +32,14 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [ ] `apartment-gardening-with-pets` Growing vegetables from seed in an apartment with cats or dogs (placement and which plants to keep out of reach; cite the ASPCA list)
 
 ## With a balcony (or a small patio, terrace or roof deck)
-- [~] `start-indoors-move-to-balcony` Start indoors, finish on the balcony: moving apartment seedlings outside without losing them (drafted 2026-11-05, pending)
-- [~] `balcony-weight-limits-for-containers` How heavy is a wet planter? Balcony weight limits and container gardening in apartments (drafted 2026-11-07, pending)
-- [ ] `balcony-garden-lease-and-building-rules` Can you have a vegetable garden on a rental balcony? Lease rules, drips and neighbors
-- [ ] `tomatoes-on-a-small-balcony` Growing tomatoes from seed for a small balcony (Floradade as the worked example)
-- [ ] `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed
-- [ ] `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience
-- [ ] `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures
-- [ ] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor
+- [x] live /blog/start-indoors-move-to-balcony/ `start-indoors-move-to-balcony` Start indoors, finish on the balcony: moving apartment seedlings outside without losing them (drafted 2026-11-05)
+- [x] live /blog/balcony-weight-limits-for-containers/ `balcony-weight-limits-for-containers` How heavy is a wet planter? Balcony weight limits and container gardening in apartments (drafted 2026-11-07)
+- [x] live /blog/balcony-garden-lease-and-building-rules/ `balcony-garden-lease-and-building-rules` Can you have a vegetable garden on a rental balcony? Lease rules, drips and neighbors (drafted 2026-11-13)
+- [x] live /blog/tomatoes-on-a-small-balcony/ `tomatoes-on-a-small-balcony` Growing tomatoes from seed for a small balcony (Floradade as the worked example) (drafted 2026-11-15)
+- [x] live /blog/cucumbers-on-a-balcony-railing-trellis/ `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed (drafted 2026-11-17)
+- [x] live /blog/peppers-and-eggplant-on-a-balcony/ `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience (drafted 2026-11-19)
+- [x] live /blog/hot-balcony-heat-island-vegetables/ `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures (drafted 2026-11-21)
+- [~] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor (drafted 2026-11-23, pending)
 - [ ] `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in
 - [ ] `balcony-garden-plan-month-by-month` A 12-month balcony garden plan from seed for a city apartment
 

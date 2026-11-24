@@ -2,8 +2,8 @@
 title: "Housewarming Gifts for a Gardener: What to Give a New Home"
 slug: "housewarming-gift-for-a-gardener"
 description: "Housewarming gift ideas for a gardener or plant lover, most under $25: what suits an apartment, a rental or a first yard, what to pair them with, what to skip."
-date: 2026-11-02
-updated: 2026-11-02
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "Gift guide"
 read: 6
 answer: "The best housewarming gift for a gardener is one that waits until they are ready: a complete vegetable seed kit, a good pair of pruners or a set of pots for the space they actually have. Skip live plants that need care in the first week and anything that assumes a yard they may not have."

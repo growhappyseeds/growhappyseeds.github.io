@@ -2,8 +2,8 @@
 title: "Stocking Stuffers for Gardeners: 15 Small Gifts Under $25"
 slug: "stocking-stuffers-for-gardeners"
 description: "Stocking stuffers for gardeners under $25 that get used: seeds, hand tools, gloves, labels, a journal and more, with what to check on each and what to skip."
-date: 2026-11-04
-updated: 2026-11-04
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "Gift guide"
 read: 6
 answer: "The best stocking stuffers for gardeners are small, durable and still useful in spring: a vegetable seed kit, bypass pruners, sturdy gloves, metal plant labels, twine, a soil thermometer or a pocket journal. Skip novelty tool sets, scented gifts and anything that needs a yard they may not have."

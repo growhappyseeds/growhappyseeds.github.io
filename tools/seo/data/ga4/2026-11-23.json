@@ -1,0 +1,701 @@
+{
+ "pulled": "2026-11-23",
+ "property": "558625133",
+ "range": [
+  "2026-10-26",
+  "2026-11-22"
+ ],
+ "by_date_channel": [
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 43,
+   "totalUsers": 21,
+   "engagedSessions": 28,
+   "keyEvents": 8
+  },
+  {
+   "date": "20261103",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 19,
+   "totalUsers": 7,
+   "engagedSessions": 9,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261105",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 19,
+   "totalUsers": 16,
+   "engagedSessions": 6,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261120",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 19,
+   "totalUsers": 17,
+   "engagedSessions": 7,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261104",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 17,
+   "totalUsers": 6,
+   "engagedSessions": 12,
+   "keyEvents": 2
+  },
+  {
+   "date": "20261026",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 10,
+   "totalUsers": 9,
+   "engagedSessions": 5,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261121",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 10,
+   "totalUsers": 9,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 9,
+   "totalUsers": 7,
+   "engagedSessions": 4,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261101",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 9,
+   "totalUsers": 9,
+   "engagedSessions": 7,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261117",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 8,
+   "totalUsers": 7,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261122",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 7,
+   "totalUsers": 7,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261106",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 6,
+   "totalUsers": 4,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261122",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 6,
+   "totalUsers": 5,
+   "engagedSessions": 3,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261101",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 5,
+   "totalUsers": 5,
+   "engagedSessions": 3,
+   "keyEvents": 2
+  },
+  {
+   "date": "20261120",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 5,
+   "totalUsers": 5,
+   "engagedSessions": 3,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261121",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 5,
+   "totalUsers": 5,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261030",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "totalUsers": 3,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261111",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "totalUsers": 3,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261122",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "totalUsers": 4,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261028",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261107",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261116",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "totalUsers": 2,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261117",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Email",
+   "sessions": 2,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261104",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261113",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261114",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 1,
+   "engagedSessions": 2,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261115",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261115",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261119",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261120",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261027",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261028",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Referral",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261103",
+   "sessionDefaultChannelGroup": "Email",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261105",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261109",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261109",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261110",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261111",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 2
+  },
+  {
+   "date": "20261113",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261114",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261116",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261116",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261118",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  }
+ ],
+ "organic_landing_28d": [
+  {
+   "landingPagePlusQueryString": "/blog/best-seed-gifts/",
+   "sessions": 5,
+   "engagedSessions": 4,
+   "averageSessionDuration": 167.83989720000002,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/",
+   "sessions": 4,
+   "engagedSessions": 3,
+   "averageSessionDuration": 78.157387,
+   "keyEvents": 3
+  },
+  {
+   "landingPagePlusQueryString": "/facts.html",
+   "sessions": 4,
+   "engagedSessions": 0,
+   "averageSessionDuration": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/what-germination-rate-means/",
+   "sessions": 2,
+   "engagedSessions": 0,
+   "averageSessionDuration": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "(not set)",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "averageSessionDuration": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/non-gmo-vs-heirloom-vs-organic-seeds/",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "averageSessionDuration": 573.129171,
+   "keyEvents": 0
+  }
+ ],
+ "all_landing_7d": [
+  {
+   "landingPagePlusQueryString": "/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 25,
+   "engagedSessions": 7,
+   "keyEvents": 1
+  },
+  {
+   "landingPagePlusQueryString": "/facts.html",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 9,
+   "engagedSessions": 3,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/best-seed-gifts/",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 5,
+   "engagedSessions": 4,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/facts.html",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 4,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/planting/new-jersey.html",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "(not set)",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "landingPagePlusQueryString": "/blog/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/what-germination-rate-means/",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/grow/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "(not set)",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR8ucJ5FuAAeM1P-X7jmytLXSTQRBGK-cy31qc2rHK4HTEhIk4myNUJWElgNTQ_aem_9XziueaxXS0cZ_uifiH-1w",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJmZGlkFlErLqhrKYNmi5y2RGnZg7cVjNQj5mlzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadndIY3OBaYLOCp36yqfrxZENFvFDfBAQnmK6-ht8mFuZLPsYntOL5Gt7sQYA_aem_k082yXYRcKgz5PmzVikUGQ",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR-FkW-Sqe5aOucG_p8zOKuW_Ztpo7JtNiJizoDITLiJiwgkZmnVGamSKPSCGw_aem_GaMbo4pU-c0FclDUlcsMMQ",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJmZGlkFlEpEgtCeevdChznPUo66GZY6WnZd-5zcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadK5zVqfahY9XYg32MZQgmjE6rmn7sTqUIJhjmOQDywgRUUf94_m3c5kyEQYw_aem_qN3EwD8tpw1Lxr3-7jaHwg",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/apartment-vegetable-garden-from-seed/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR_BTRU_Dh19xnwCmVFg3KnxN-t_Xthr028gdFeujphQyIjeXDwi_wrRgkcooA_aem_DklWgLwBwwugTOt1PSA3-Q",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/balcony-weight-limits-for-containers/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/best-seed-gifts/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR8y1skDO-kUxc6Q3Ju5kWzmxur31H1R8Vc7YyycEhNTzyF76TLZyxNoPdQsTQ_aem__tmAoY56E8yCzoqs88ZSgQ",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/best-vegetable-seeds-for-beginners/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR_1F3hDP8phMiKlNyvWYaxwSDoIhSToJ2Kf9DICRluHPqPF-rNnFA-kneu-_g_aem_bV7XkqUgb4wBDIqyjoZ7rw",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/best-vegetables-to-grow-on-a-balcony/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR_cIN8AeNOt1Wf_kmvtQM5nE7-fSnd4X46xyQxiqklW4yK85Ke_WqbgnynN4A_aem_8jQW-14eGV92kDBSq88Duw",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/gifts-for-new-gardeners/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR8L7PYLqe0TAF90-HD3hZDQqK08n8wYJOQuWs1CeDPIuNR0e6lpeLjnClRu-g_aem_O0FWaXWqjmn7OPwYubF56w",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/how-to-start-a-vegetable-garden-for-beginners/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR-_YlElt3aCcrIMS-V3Zdi1P8eu_YHghNZXetmSIVGpK80cV_e3lSEJJkmTbw_aem_bqav24oqa3R_MgUO1LcHjA",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/non-gmo-vs-heirloom-vs-organic-seeds/",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/seed-kit-vs-seed-packets/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR-lWn6EXAoCrCuSNduiZn4QvNO6ZeCRh9JxHCvzGLRmviZS8aFCmxT3fw5YBA_aem_XkKIRRyuXJC6cqEh0oPDig",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/seed-kit-vs-seed-packets/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR_-OBl_bG_79VW3nSDCFrX2sRgvGAZWjmGcX8Kvcqox6jzQAm8g4VlNCspPzg_aem_0Kuc1FU9i3KnhKMDayNCEA",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/start-indoors-move-to-balcony/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/what-germination-rate-means/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR8FN5ru10kF2M5ELBg3yuQMFIh1tAjmW6ipKEsnJoK5pqzmPRrIZhVfGojoeg_aem_7BMvIY8fLUTaCQgwGpVNkw",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/what-germination-rate-means/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR9NDILeTCTDYzpMcfzfo8yrZAEWOWbmVCZIpCe8ziSQdFUbdPDCidzuSSI8qg_aem_q4a6gf8aVzDUI7mNXCtVlw",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/when-to-start-seeds-indoors/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR91zvJ02hFNMUbG9X9Wn-FGjXnIpxTmqgx4mQ9Eki7Lb5diQQ4k7p75l40s4w_aem_La0_7muQNyUVb_-X835viw",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/when-to-start-seeds-indoors/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR9mXSg1iuRNRvjKnlGneHIgE2flECFe_vBrUghVKNUqjO6bSknoJChBX7DIow_aem_tpfNJI5PRk9brW5Y2LU9rg",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/planting/maryland.html",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/planting/pennsylvania.html",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  }
+ ],
+ "key_events_28d": [
+  {
+   "eventName": "amazon_click",
+   "eventCount": 20
+  },
+  {
+   "eventName": "generate_lead",
+   "eventCount": 3
+  }
+ ],
+ "sources_7d": [
+  {
+   "sessionSource": "(direct)",
+   "sessionMedium": "(none)",
+   "sessions": 47
+  },
+  {
+   "sessionSource": "google",
+   "sessionMedium": "organic",
+   "sessions": 14
+  },
+  {
+   "sessionSource": "facebook.com",
+   "sessionMedium": "referral",
+   "sessions": 7
+  },
+  {
+   "sessionSource": "m.facebook.com",
+   "sessionMedium": "referral",
+   "sessions": 7
+  },
+  {
+   "sessionSource": "ig",
+   "sessionMedium": "social",
+   "sessions": 2
+  }
+ ]
+}

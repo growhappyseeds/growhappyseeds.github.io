@@ -2,8 +2,8 @@
 title: "How to Harden Off Seedlings on an Apartment Balcony"
 slug: "start-indoors-move-to-balcony"
 description: "How to harden off apartment seedlings on a balcony: where the shade is, a 10-day schedule with a workday version, cold limits and the move into big pots."
-date: 2026-11-05
-updated: 2026-11-05
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "City apartment growing"
 read: 7
 answer: "Harden off apartment seedlings over 7 to 14 days: begin with a few afternoon hours in shade on the balcony floor, then add sun and time each day. Bring them in at night until the last few days, and keep them inside on windy days or below 45 degrees F, 50 for peppers, eggplant and melon."

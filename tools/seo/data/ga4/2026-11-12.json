@@ -1,0 +1,424 @@
+{
+ "pulled": "2026-11-12",
+ "property": "558625133",
+ "range": [
+  "2026-10-15",
+  "2026-11-11"
+ ],
+ "by_date_channel": [
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 43,
+   "totalUsers": 21,
+   "engagedSessions": 28,
+   "keyEvents": 8
+  },
+  {
+   "date": "20261103",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 19,
+   "totalUsers": 7,
+   "engagedSessions": 9,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261105",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 19,
+   "totalUsers": 16,
+   "engagedSessions": 6,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261104",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 17,
+   "totalUsers": 6,
+   "engagedSessions": 12,
+   "keyEvents": 2
+  },
+  {
+   "date": "20261025",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 13,
+   "totalUsers": 10,
+   "engagedSessions": 4,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261023",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 12,
+   "totalUsers": 10,
+   "engagedSessions": 5,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261026",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 10,
+   "totalUsers": 9,
+   "engagedSessions": 5,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261022",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 9,
+   "totalUsers": 5,
+   "engagedSessions": 5,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 9,
+   "totalUsers": 7,
+   "engagedSessions": 4,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261101",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 9,
+   "totalUsers": 9,
+   "engagedSessions": 7,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261024",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 8,
+   "totalUsers": 7,
+   "engagedSessions": 2,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261021",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 6,
+   "totalUsers": 5,
+   "engagedSessions": 3,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261106",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 6,
+   "totalUsers": 4,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261101",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 5,
+   "totalUsers": 5,
+   "engagedSessions": 3,
+   "keyEvents": 2
+  },
+  {
+   "date": "20261030",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "totalUsers": 3,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261111",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "totalUsers": 3,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261028",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 2,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261107",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 3,
+   "totalUsers": 3,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261017",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261020",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261021",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261022",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Email",
+   "sessions": 2,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261104",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 2,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261019",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261020",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261023",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261024",
+   "sessionDefaultChannelGroup": "Referral",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261027",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261028",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261029",
+   "sessionDefaultChannelGroup": "Referral",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261102",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261103",
+   "sessionDefaultChannelGroup": "Email",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261105",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261109",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261109",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "date": "20261110",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "date": "20261111",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "totalUsers": 1,
+   "engagedSessions": 1,
+   "keyEvents": 2
+  }
+ ],
+ "organic_landing_28d": [
+  {
+   "landingPagePlusQueryString": "/",
+   "sessions": 3,
+   "engagedSessions": 2,
+   "averageSessionDuration": 98.09760466666665,
+   "keyEvents": 2
+  }
+ ],
+ "all_landing_7d": [
+  {
+   "landingPagePlusQueryString": "/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 26,
+   "engagedSessions": 7,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/blog/best-window-direction-for-growing-vegetables/",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 4,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 2,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "landingPagePlusQueryString": "(not set)",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  },
+  {
+   "landingPagePlusQueryString": "/",
+   "sessionDefaultChannelGroup": "Organic Search",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 2
+  },
+  {
+   "landingPagePlusQueryString": "/?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJmZGlkFlEawxQ9332dHIkHlY4fNX8xHJtfW1VzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaezy0IVzVRU-zrn2EqToKcdciCr4VJVOkFQAn7C4Lz6wM6a8f5Ze8J6fnSg9A_aem_ixIxFbIp1FDAufwtkzoPzg",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "landingPagePlusQueryString": "/?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJmZGlkFlEeRFSxe2QujdFmmSvTmI2abUSBRMBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAac92t1Ek_erri7tG3F3e1yOZXEPQGwTxMTwvGBq8Baf0Vmi2On2EjknmXNQDg_aem_oY0N717zI0IIWE-Vo4YaJA",
+   "sessionDefaultChannelGroup": "Organic Social",
+   "sessions": 1,
+   "engagedSessions": 1,
+   "keyEvents": 1
+  },
+  {
+   "landingPagePlusQueryString": "/herb-kit.html",
+   "sessionDefaultChannelGroup": "Direct",
+   "sessions": 1,
+   "engagedSessions": 0,
+   "keyEvents": 0
+  }
+ ],
+ "key_events_28d": [
+  {
+   "eventName": "amazon_click",
+   "eventCount": 18
+  },
+  {
+   "eventName": "generate_lead",
+   "eventCount": 3
+  }
+ ],
+ "sources_7d": [
+  {
+   "sessionSource": "(direct)",
+   "sessionMedium": "(none)",
+   "sessions": 34
+  },
+  {
+   "sessionSource": "ig",
+   "sessionMedium": "social",
+   "sessions": 2
+  },
+  {
+   "sessionSource": "google",
+   "sessionMedium": "organic",
+   "sessions": 1
+  }
+ ]
+}

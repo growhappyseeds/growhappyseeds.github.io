@@ -2,8 +2,8 @@
 title: "How Much Does a Wet Planter Weigh? Balcony Weight Limits"
 slug: "balcony-weight-limits-for-containers"
 description: "How much a wet planter weighs, what building codes assume a balcony holds, where heavy pots belong, and how to lighten a container garden on a rental balcony."
-date: 2026-11-07
-updated: 2026-11-07
+date: 2026-11-12
+updated: 2026-11-12
 eyebrow: "City apartment growing"
 read: 7
 answer: "A 5-gallon pot of wet potting mix weighs roughly 30 to 45 pounds, and a 20-inch pot can reach 100 pounds. US building codes commonly design residential balconies for 40 pounds per square foot spread evenly, so keep heavy pots against the building wall, use soilless mix, and ask your building before adding large planters."
