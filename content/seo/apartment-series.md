@@ -23,7 +23,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/starting-seeds-in-a-small-apartment/ `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18)
 - [x] live /blog/radiator-heat-and-indoor-seedlings/ `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment (drafted 2026-11-20)
 - [~] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example) (drafted 2026-11-22, pending)
-- [ ] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting
+- [~] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting (drafted 2026-11-24, pending)
 - [ ] `grow-carrots-in-a-container-indoors` Can you grow carrots in a pot indoors? (depth, variety, patience)
 - [ ] `beet-greens-and-beets-indoors` Growing beets indoors from seed: greens first, roots if you have the light
 - [ ] `indoor-seed-starting-without-a-mess` Starting seeds indoors without the mess: soil, water and drainage in a rental
