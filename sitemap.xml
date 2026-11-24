@@ -18,6 +18,12 @@
     <image:image><image:loc>https://growhappyseeds.com/media/2026-10/statics/kale.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://growhappyseeds.com/blog/high-rise-balcony-gardening/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/blog-balcony-tomato-v2.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://growhappyseeds.com/blog/hot-balcony-heat-island-vegetables/</loc>
     <lastmod>2026-11-21</lastmod>
     <priority>0.7</priority>

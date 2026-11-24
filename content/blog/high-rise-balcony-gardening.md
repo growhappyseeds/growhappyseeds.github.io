@@ -2,8 +2,8 @@
 title: "High-Rise Balcony Gardening: Wind, Pollination and Pots"
 slug: "high-rise-balcony-gardening"
 description: "How to grow vegetables from seed on a high-rise balcony: why wind grows with height, how to anchor and shelter pots, who pollinates up there and what to plant."
-date: 2026-11-23
-updated: 2026-11-23
+date: 2026-11-24
+updated: 2026-11-24
 eyebrow: "City apartment growing"
 read: 7
 answer: "Vegetables grow on a high-rise balcony if you plan for wind first: heavy low pots, a permitted screen or trellis, and daily watering. Tomatoes, peppers and eggplant pollinate themselves in moving air, while cucumbers and melons usually need your help, with a male flower or a small brush, because fewer bees reach high floors."
