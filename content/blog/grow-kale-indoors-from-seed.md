@@ -2,8 +2,8 @@
 title: "How to Grow Kale Indoors From Seed in a City Apartment"
 slug: "grow-kale-indoors-from-seed"
 description: "How to grow kale indoors from seed in an apartment with no balcony: the window or lamp it needs, pot depth, sowing steps, room temperature and harvesting."
-date: 2026-11-22
-updated: 2026-11-22
+date: 2026-11-24
+updated: 2026-11-24
 eyebrow: "City apartment growing"
 read: 7
 answer: "Kale grows indoors from seed in a pot about 10 inches deep by a south or west window, or under a lamp giving 10 to 12 hours of light. Keep the room between 60 and 75 degrees F, and cut outer leaves from about four weeks on."
