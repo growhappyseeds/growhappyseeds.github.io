@@ -2,8 +2,8 @@
 title: "Why Are My Seeds Not Germinating? 9 Causes and Fixes"
 slug: "why-are-my-seeds-not-germinating"
 description: "Seeds not germinating? Nine usual causes, from cold soil and overwatering to planting too deep and old seed, how to tell which you have, and the fix for each."
-date: 2026-11-23
-updated: 2026-11-23
+date: 2026-11-24
+updated: 2026-11-24
 eyebrow: "Seed starting"
 read: 7
 answer: "Seeds usually fail to germinate because the soil is too cold, too wet or too dry, the seed was buried too deep, or the seed is old. Check the soil temperature and moisture first, then wait out the full germination window for that crop before you resow a little shallower in fresh mix."
