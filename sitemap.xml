@@ -8,8 +8,20 @@
   </url>
   <url>
     <loc>https://growhappyseeds.com/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/fall-and-winter-balcony-greens/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/firstfrost.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://growhappyseeds.com/blog/how-much-sun-do-vegetables-need/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://growhappyseeds.com/media/2026-11/statics/blog-fall-vegetables.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://growhappyseeds.com/blog/grow-kale-indoors-from-seed/</loc>

@@ -41,6 +41,8 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 - [Happy Grow Helper](https://growhappyseeds.com/grow/): free plant tracker; photograph each milestone from seed to plate, see readiness, get email reminders
 
 ## Guides
+- [Fall and Winter Greens on a Balcony: What Survives the Cold](https://growhappyseeds.com/blog/fall-and-winter-balcony-greens/): Which greens survive fall and winter in balcony pots, the frost each one tolerates, how to protect the roots in a cold wind, and when to bring the pots inside.
+- [How Much Sun Do Vegetables Need? Hours of Light by Crop](https://growhappyseeds.com/blog/how-much-sun-do-vegetables-need/): How many hours of direct sun vegetables need: 6 to 8 for tomatoes, peppers and cucumbers, 3 to 4 for leafy greens, and how to measure the sun your garden gets.
 - [How to Grow Kale Indoors From Seed in a City Apartment](https://growhappyseeds.com/blog/grow-kale-indoors-from-seed/): How to grow kale indoors from seed in an apartment with no balcony: the window or lamp it needs, pot depth, sowing steps, room temperature and harvesting.
 - [How to Grow Spinach Indoors From Seed Without Bolting](https://growhappyseeds.com/blog/grow-spinach-indoors-from-seed/): How to grow spinach indoors from seed in a city apartment: the cool room, window or lamp, pot depth and sowing plan that keep Bloomsdale from bolting.
 - [High-Rise Balcony Gardening: Wind, Pollination and Pots](https://growhappyseeds.com/blog/high-rise-balcony-gardening/): How to grow vegetables from seed on a high-rise balcony: why wind grows with height, how to anchor and shelter pots, who pollinates up there and what to plant.
@@ -137,6 +139,218 @@ Do not describe the kit as organic or heirloom-certified; it is non-GMO and open
 
 
 # Full article text
+
+
+---
+
+---
+title: "Fall and Winter Greens on a Balcony: What Survives the Cold"
+slug: "fall-and-winter-balcony-greens"
+description: "Which greens survive fall and winter in balcony pots, the frost each one tolerates, how to protect the roots in a cold wind, and when to bring the pots inside."
+date: 2026-11-25
+updated: 2026-11-25
+eyebrow: "City apartment growing"
+read: 6
+answer: "Kale and turnips keep going in balcony pots through frosts below 28 degrees F, spinach usually does, and beets and carrots tolerate light frosts to about 28 degrees F. Pot roots freeze sooner than garden roots, so group the pots against the building, insulate them and cover the leaves on the coldest nights."
+image: "media/2026-11/statics/firstfrost.jpg"
+image_alt: "Claymation scene: a smiling red tomato character in a red scarf stands beside a yellow Happy Seeds Veggie Garden box in a frosted raised bed of dark soil, with a blue watering can, a trowel and bare frosty trees under a grey winter sky"
+image_caption: "The first frost ends the tomatoes and sweetens the kale. The cool-season packets are the ones for a late-season balcony."
+subtitle: "A balcony garden does not have to end at the first frost. The hardy greens carry on, if you protect the pots rather than the plants."
+kit_heading: "Which of the ten packets belong on a cold balcony"
+about: "growing fall and winter greens in containers on a city apartment balcony: frost tolerance of kale, spinach, beets, turnips and carrots, protecting pot roots from cold, wind, covers and when to bring pots inside"
+faq:
+  - q: "What temperature kills kale in a pot?"
+    a: "Kale survives heavy frost below 28 degrees F in the ground, according to Oregon State Extension, and SDSU puts it in the group that tolerates 24 to 28 degrees F. In a pot the roots are the weak point, so wrap the container and group it against the building when nights fall into the twenties."
+  - q: "Can spinach survive winter on a balcony?"
+    a: "Spinach is one of the hardiest greens, listed by Oregon State among vegetables that take frost below 28 degrees F, though the leaves can be damaged when they freeze. Cover the plants on nights below 36 degrees F and insulate the pot. Growth slows to almost nothing in deep winter and picks up again in late winter."
+  - q: "Should I bring balcony vegetables inside for the winter?"
+    a: "Not into a heated room if they are hardy greens. Oklahoma State Extension says it is better to shelter pots from brief cold snaps than to move plants between a warm apartment and the cold. Pull pots against the wall, wrap them, cover the leaves, and bring them into a cool room only for a severe night."
+  - q: "Why do plants in pots freeze before plants in the ground?"
+    a: "A pot holds a small volume of mix with cold air on every side, so the roots get far colder than roots in garden soil. University of Illinois Extension says that is why potted plants should be hardier than your zone. Moist mix freezes more slowly than dry mix, so do not let winter pots dry out."
+  - q: "When should I plant fall greens for a balcony?"
+    a: "Count back from your first fall frost: kale, beets and turnips 8 to 10 weeks before it, spinach 6 to 8 weeks before, carrots 10 to 12 weeks before. That is late summer in most of the Northeast and Midwest. Confirm the date with your county extension office or the state planting pages on this site."
+  - q: "Does the whole vegetable kit grow on a balcony in winter?"
+    a: "No. The five cool-season packets, kale, spinach, carrot, beet and turnip, are the ones that handle a cold balcony. Tomato, cucumber, pepper, eggplant and melon are warm-season crops that a light frost kills, so they belong to the summer balcony and come down at the first frost."
+---
+
+This guide is for the apartment with a balcony, terrace or roof deck the building allows you to use, in a place where fall brings frost. The constraint is cold, and it is harder on a balcony than in a garden: small pots, more wind, and no soil around the roots.
+
+The answer is to grow the right greens and protect the containers, not to haul everything indoors. Kale, spinach and turnips can keep producing into winter, and beets, carrots and chard hold through the first light frosts. The warm-season crops come down the week the forecast first shows a frost.
+
+## Which greens survive frost in a balcony pot?
+
+Kale, spinach, turnips, collards and arugula survive heavy frost below 28 degrees F. Beets, carrots, lettuce and chard tolerate only light frosts of 28 to 32 degrees F. Those groupings come from Oregon State Extension's guide to [cold-hardy vegetables](https://extension.oregonstate.edu/news/plant-cold-hardy-vegetables-now-spring-harvest), which adds that cold does not kill hardy vegetables, it only slows them.
+
+[South Dakota State Extension's frost tolerance list](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables) puts kale and turnips with the crops that take moderate freezes of 24 to 28 degrees F. It places spinach, beets, carrots and chard with the crops that take light freezes of 28 to 32 degrees F. The two sources differ on spinach, so cover its leaves on frosty nights and count on the roots only into the high twenties.
+
+| Crop in the kit | Frost tolerance in the ground | On a balcony, protect the pot at |
+| --- | --- | --- |
+| Kale (Red Russian) | Heavy frost, below 28 degrees F | Low twenties |
+| Turnip (Purple Top White Globe) | Heavy frost, below 28 degrees F | Low twenties; harvest roots before the mix freezes solid |
+| Spinach (Bloomsdale) | Heavy frost by one source, light frost by another | Cover the leaves below 36 degrees F; wrap the pot in the twenties |
+| Beet (Chioggia) | Light frost, 28 to 32 degrees F | Below 32 degrees F; harvest before a hard freeze |
+| Carrot (Danvers 126) | Light frost, 28 to 32 degrees F | Below 32 degrees F; harvest before the mix freezes |
+
+## Why is a balcony pot colder than a garden bed?
+
+A pot is colder because the roots sit in a small volume of mix with cold air on every side. Michigan State Extension notes that root crops are [insulated from light frosts](https://www.canr.msu.edu/news/can_i_harvest_garden_vegetables_after_a_frost) only by the ground around them. University of Illinois Extension's guide to [overwintering potted plants](https://extension.illinois.edu/blogs/good-growing/2020-11-18-overwintering-potted-plants) says pot mix gets much colder than garden soil, and suggests plants hardy to two zones colder than yours.
+
+A kale plant that shrugs off the mid-twenties in a bed can lose its roots at the same temperature in a small pot. Wind makes it worse, because moving air strips heat from the pot walls as well as the leaves. The series post on [high-rise balcony gardening](/blog/high-rise-balcony-gardening/) covers why a high floor is colder than the street.
+
+## How do you protect the pots, not just the plants?
+
+Protect the pots by grouping them against the building wall, wrapping them, and keeping the mix moist, because that is where the cold does its damage. Oklahoma State Extension's guide to [fall and winter container gardens](https://extension.okstate.edu/announcements/horticulture-tips/hort-tips-2026/early-to-mid-november/fall-and-winter-container-gardens) recommends a pot of 10 to 12 inches or larger. A pot that size is slower to dry out and slower to freeze solid.
+
+1. Pull every pot back against the wall of the building, out of the wind, and push them together so they shield each other.
+2. Wrap each pot in bubble wrap or burlap, or set a plastic pot inside a larger one with leaves or crumpled newspaper between.
+3. Water when the top inch of mix is dry, and water the afternoon before a hard frost, because moist mix holds heat and freezes more slowly than dry mix.
+4. Keep a piece of row cover or an old sheet by the door to drape over the leaves on cold nights. Michigan State says plastic sheeting and tarps are not effective covers.
+5. Move clay and terracotta pots out of the freeze if you can, because wet clay cracks; plastic, fabric and wood planters take winter better.
+
+## When should you bring the pots in?
+
+Bring hardy greens into a heated apartment only for a night or two of severe cold, not for the season, because a warm room is the wrong climate for them. Oklahoma State advises sheltering pots during cold snaps below 28 degrees F in an unheated garage, shed or covered porch. It says buffering short dips beats shuttling plants between a warm house and the cold.
+
+An apartment has no garage, so for a forecast of the teens use a cool room by the window, away from the radiator. The series post on [radiators and indoor seedlings](/blog/radiator-heat-and-indoor-seedlings/) finds that spot. Never stage pots on a fire escape, which is an emergency exit, and keep them out of shared hallways unless the building allows it.
+
+For the light-frost crops, the better answer is to harvest, and beets and carrots should come out before the mix freezes solid. Michigan State notes that lettuce and spinach leaves turn to mush once frozen, so cover them when the forecast drops below 36 degrees F. Kale and turnip greens are the ones worth nursing to midwinter, and both get sweeter after frost.
+
+## What does a cold-season balcony look like week to week?
+
+A cold-season balcony is sown in late summer, picked through fall, and protected rather than planted in winter. The packet timing is the plan: kale, beets and turnips 8 to 10 weeks before the first fall frost, spinach 6 to 8, carrots 10 to 12. Confirm that frost date with your county extension office, or start with the [state planting calendars](/planting/).
+
+| Weeks before first fall frost | What to do on the balcony |
+| --- | --- |
+| 10 to 12 | Sow carrots in a pot at least 12 inches deep |
+| 8 to 10 | Sow kale, beets and turnips; beets want a pot 10 inches deep |
+| 6 to 8 | Sow spinach; thin the earlier pots and eat the thinnings |
+| 2 to 0 | Harvest tomatoes, cucumbers and peppers; empty those pots and stack them |
+| First frost | Pull greens against the wall, wrap pots, keep a cover by the door |
+| After | Pick outer leaves; harvest beets and carrots before a hard freeze |
+
+If you missed the late-summer sowing, a sunny window can carry spinach and kale through winter instead; the series posts on [growing spinach indoors](/blog/grow-spinach-indoors-from-seed/) and [growing kale indoors](/blog/grow-kale-indoors-from-seed/) explain how. The hand-built post on [fall vegetables to plant in late summer](/blog/fall-vegetables-to-plant-in-late-summer/) has the crop list for mild-winter states.
+
+## What about the lease, the weight and the neighbors?
+
+Check your lease and building rules before the winter setup, because wrapped pots and a sheet flapping in January are more visible than summer tomatoes. The series post on [lease and building rules](/blog/balcony-garden-lease-and-building-rules/) covers what landlords usually object to, and the one on [balcony weight limits](/blog/balcony-weight-limits-for-containers/) has the numbers for big wet pots. Tie covers down, because a sheet that blows off a balcony lands on someone below.
+
+## Which of the ten packets belong on a cold balcony
+
+Five of the ten packets in the [Happy Seeds Veggie Garden Seed Kit](/) are cool-season crops: kale, spinach, carrot, beet and turnip. Those five are the fall and winter balcony.
+
+The other five, tomato, cucumber, pepper, eggplant and melon, are warm-season crops that a light frost kills. They want a big container and real summer sun, so a balcony grower runs them from late spring to the first frost and hands the space to the greens.
+
+The box holds the ten seed packets, the 24-page grow guide and the keepsake box itself; pots, potting mix, wraps and covers come from you. Happy Seeds is the complete first vegetable garden in one box: ten varieties, 1,000+ lab-tested non-GMO seeds, germination rate printed on every packet, a 24-page grow guide, $24.99.
+
+Sow the greens in late summer and pull the pots to the wall at the first frost, and you will still be cutting kale well after the first frost. The hand-built post on [vegetables for a balcony](/blog/best-vegetables-to-grow-on-a-balcony/) covers pot sizes and sun hours for the rest of the year.
+
+
+---
+
+---
+title: "How Much Sun Do Vegetables Need? Hours of Light by Crop"
+slug: "how-much-sun-do-vegetables-need"
+description: "How many hours of direct sun vegetables need: 6 to 8 for tomatoes, peppers and cucumbers, 3 to 4 for leafy greens, and how to measure the sun your garden gets."
+date: 2026-11-25
+updated: 2026-11-25
+eyebrow: "Beginner questions"
+read: 6
+answer: "Most vegetables need at least 6 hours of direct sun a day, and fruiting crops such as tomatoes, peppers, cucumbers and melons do best with 8 or more. Leafy greens like kale and spinach grow with 3 to 4 hours, and root crops like beets and carrots with about 4, though more slowly."
+image: "media/2026-11/statics/blog-fall-vegetables.jpg"
+image_alt: "Claymation scene: a tiny farmer in a straw hat and blue overalls carries a basket down a sunlit garden path between tall purple-stemmed kale, feathery carrot tops, red-stemmed beet leaves and purple turnips, with a wooden fence, orange autumn trees and a blue sky with white clouds"
+image_caption: "Greens and roots on one side, sun on everything: the cool-season crops are the ones that forgive a shadier spot."
+subtitle: "Six hours of direct sun is the line most vegetables need to cross. What you grow in less depends on whether you want leaves, roots or fruit."
+kit_heading: "The ten packets sorted by how much sun they want"
+about: "how many hours of direct sunlight vegetables need: full sun, part sun and part shade defined, hours for fruiting crops, leafy greens and root crops, and how to measure sun in a garden, balcony or window"
+faq:
+  - q: "What counts as full sun for vegetables?"
+    a: "At least 6 hours of direct, unfiltered sun a day, by the definition used on plant tags and by University of Saskatchewan gardening staff. Partial sun is 4 to 6 hours, partial shade 2 to 4 hours, and shade under 2. The hours can add up across the day; morning sun plus afternoon sun counts as one total."
+  - q: "Can vegetables grow with 4 hours of sun?"
+    a: "Yes, if you choose leaves and roots. Iowa State Extension says lettuce, spinach, chard, collards and kale grow with 3 to 4 hours of sun. UC Master Gardeners add radishes, beets and carrots at about 4 hours. Expect smaller plants and slower growth. Tomatoes, peppers and cucumbers will not fruit well at 4 hours."
+  - q: "Do tomatoes need 8 hours of sun?"
+    a: "Tomatoes fruit best with 8 to 10 hours of sun, according to UC Master Gardeners of Placer County, and 6 is the practical minimum for any fruiting crop. A plant in partial shade grows leaves and sets less fruit. If your best spot gives 6 hours, give it to the tomato and put the greens in the shadier one."
+  - q: "Is morning sun or afternoon sun better for vegetables?"
+    a: "Total hours matter most, but morning sun is easier on plants because the air is cooler, while west-facing afternoon sun is harsh in midsummer. Greens that bolt in heat, such as lettuce and spinach, last longer with morning sun and afternoon shade. Fruiting crops take afternoon sun well in most places, though a very hot west exposure can scald fruit."
+  - q: "How do I measure how much sun my garden gets?"
+    a: "Pick a clear day in late spring, after your last frost, and note every hour from sunrise to sunset whether the spot is in direct sun, dappled light or shade. Add up the hours of direct sun. Repeat in midsummer, because the sun's angle changes, and check again every few years as nearby trees grow."
+  - q: "Can any vegetable grow in full shade?"
+    a: "No. UC Master Gardeners say no vegetable grows in full shade, and below about 3 hours of direct sun even leafy greens stall. Reflected light from a pale wall or fence helps a dim spot, and a basic grow light fixes it indoors. For a shaded yard, choose the brightest 3 to 4 hours and grow greens there."
+---
+
+Six hours of direct sun a day is the figure that separates a vegetable garden that produces from one that only grows leaves. Iowa State Extension's answer on [vegetables for partial shade](https://yardandgarden.extension.iastate.edu/faq/which-vegetables-will-grow-partial-shade) puts it plainly: most vegetables need at least 6 hours of direct sun each day to make a good crop.
+
+That one number hides a useful range. Fruiting crops want more, leafy crops accept less, and the hours can be split across the day. Below are the hours by crop, what happens with less, and how to measure the sun a bed, balcony or window gets.
+
+## How many hours of sun do vegetables need?
+
+Vegetables need at least 6 hours of direct sun for fruit, 4 or so for roots, and 3 to 4 for leaves. The University of Saskatchewan's guide to [assessing sunlight](https://gardening.usask.ca/articles-and-lists/articles-how-to/assess-sunlight.php) defines the terms used on seed packets and plant tags, and they are worth memorizing.
+
+| Term on the packet | Direct sun per day | What it grows |
+| --- | --- | --- |
+| Full sun | 6 hours or more | Everything, and fruiting crops want 8 or more |
+| Partial sun | 4 to 6 hours | Greens, roots, and small harvests of fruiting crops |
+| Partial shade | 2 to 4 hours | Leafy greens at the top of that range, slowly |
+| Shade | Under 2 hours | No vegetables |
+
+The hours are cumulative. Saskatchewan's example is 4 hours of morning sun, a few hours of dappled shade, then 3 more hours in the afternoon, which counts as 7 hours of full sun. A bed that is bright but never in direct sun earns no hours, though reflected light helps at the margin.
+
+## Which vegetables need full sun?
+
+Tomatoes, peppers, eggplant, cucumbers, melons and squash need full sun, and the UC Master Gardeners of Placer County say they do best with [8 to 10 hours](https://ucanr.edu/site/uc-master-gardeners-placer-county/article/growing-vegetables-less-6-hours-sun). The same page calls it unwise to attempt them with less than 6 hours.
+
+Fruit is expensive for a plant to make, and Saskatchewan's guide says any plant that produces one needs at least 6 hours and yields more with much more than that. A tomato in partial shade sets less fruit than one in full sun. The plant will look fine in 5 hours; it will not pay you back.
+
+In the Happy Seeds kit, the five warm-season packets are the full-sun group: Floradade tomato, Marketmore 76 cucumber, Anaheim Chili pepper, Black Beauty eggplant and Honeydew Orange melon. Each also wants a big container if it is not going in the ground. The packets call for 5 gallons for tomato and eggplant, 5 with a trellis for cucumber, 3 to 5 for pepper, and 10 or more for melon.
+
+## Which vegetables grow in partial shade?
+
+Leafy greens grow in partial shade, and root crops manage with a little more light. Iowa State lists leaf lettuce, spinach, collards, Swiss chard and kale as crops that succeed with 3 to 4 hours of sun. It adds radishes, kohlrabi, beets, cauliflower and broccoli as other options.
+
+The Placer County Master Gardeners say about 4 hours is worth trying for radishes, beets, carrots, broccoli, Brussels sprouts and cauliflower, and as little as 3 hours for leafy vegetables. They explain why greens cope: you can pick a leaf at any stage, so a plant that never reaches full size still feeds you. The cost is thinner leaves and a less robust plant.
+
+| Crop in the kit | Sun it wants | What less sun does |
+| --- | --- | --- |
+| Kale (Red Russian) | 6 hours best, 3 to 4 workable | Smaller, slower leaves |
+| Spinach (Bloomsdale) | 6 hours best, 3 to 4 workable | Smaller leaves, but slower to bolt in summer |
+| Beet (Chioggia) | 6 hours best, about 4 workable | Good greens, small or late roots |
+| Turnip (Purple Top White Globe) | 6 hours best, about 4 workable | Good greens, small or late roots |
+| Carrot (Danvers 126) | 6 hours best, about 4 workable | Thin, slow roots |
+
+Shade has one upside. Placer County notes that crops quick to bolt in hot weather, such as lettuce and spinach, last quite a bit longer with some shade, and the beds need less watering. The site also warns that shade under a tree comes with tree roots that take the water and nutrients first.
+
+## What happens when vegetables get less sun than they need?
+
+With less sun than it needs a vegetable grows smaller, matures later and yields less, and a fruiting crop may set almost nothing. Saskatchewan's guide says vegetables with under 6 hours of full sun are smaller and give a smaller crop; the Placer County page says no vegetable grows in full shade.
+
+The symptoms are easy to read. Stems stretch toward the brightest side, leaves come out thin and pale, and flowering crops drop blossoms or hold green fruit for weeks. Seedlings started in a dim window show the same stretch, and the post on [grow lights for apartment seedlings](/blog/grow-lights-for-apartment-seedlings/) explains when a lamp is the fix.
+
+Indoors, direction matters as much as hours, because a window cuts light before it reaches the plant. The post on [the best window direction for vegetables](/blog/best-window-direction-for-growing-vegetables/) ranks south, east, west and north windows, and the hand-built guide to [vegetables for a balcony](/blog/best-vegetables-to-grow-on-a-balcony/) covers a north-facing balcony.
+
+## How do you measure the sun your garden gets?
+
+Measure sun by watching one spot for a full day and adding up the hours it sits in direct light. Saskatchewan's method is to photograph the garden every hour from dawn to dusk, or keep a chart, marking each hour as full sun, partial shade, dappled sun or full shade.
+
+1. Pick a clear day in late spring, after your last frost; Saskatchewan says that is the best time of year to assess a garden.
+2. Every hour, note whether the spot is in direct sun, bright but shaded, dappled under leaves, or fully shaded.
+3. Add the direct-sun hours. Dappled and bright shade are a bonus, not part of the total.
+4. Repeat in midsummer. Placer County reminds gardeners that the sun hits the garden at different angles as the seasons progress.
+5. Check again every few years, because trees and new buildings change the light.
+
+Two refinements help small spaces. Reflected light off a pale building or fence lightens shade, Saskatchewan notes, so a bed against a white wall reads brighter than the hour count suggests. And the Placer County page suggests growing up, with a trellis or hanging containers on a high post, to catch sun that never reaches the ground.
+
+## How do you plan a garden around the sun you have?
+
+Put the fruiting crops in the sunniest spot and the greens where the sun runs out, and time the greens for the cool half of the year. A bed with 6 hours gets the tomato, pepper and cucumber; a bed with 4 hours gets kale, spinach, beets and turnips.
+
+If the whole garden gets 4 hours, skip fruiting crops the first year and grow greens and roots, which is also the honest answer for a shaded balcony. The cool-season crops are direct sown 2 to 6 weeks before the last spring frost and again in late summer. Confirm your frost dates with your county extension office or the [state planting calendars](/planting/) before you sow.
+
+## The ten packets sorted by how much sun they want
+
+The [Happy Seeds Veggie Garden Seed Kit](/) splits cleanly along this line. Kale, spinach, carrot, beet and turnip are the five cool-season packets that accept partial shade and grow in a sunny window or a balcony planter. Tomato, cucumber, pepper, eggplant and melon are the five full-sun packets that want 6 hours at the least, more for a real harvest, and a big container.
+
+The box holds ten seed packets, a 24-page grow guide and the keepsake box, so the sunny spot, the pots and the soil come from you. Happy Seeds is the complete first vegetable garden in one box: ten varieties, 1,000+ lab-tested non-GMO seeds, germination rate printed on every packet, a 24-page grow guide, $24.99.
+
+Count the hours first, then open the packets that match them. For the timing side of the same decision, the hand-built post on [when to start seeds indoors](/blog/when-to-start-seeds-indoors/) covers the calendar.
 
 
 ---
