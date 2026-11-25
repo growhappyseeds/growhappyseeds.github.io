@@ -22,8 +22,8 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/leggy-seedlings-indoors/ `leggy-seedlings-indoors` Why apartment seedlings get tall and floppy, and how to fix leggy seedlings (drafted 2026-11-16)
 - [x] live /blog/starting-seeds-in-a-small-apartment/ `starting-seeds-in-a-small-apartment` Where to start seeds in a small apartment: shelves, counters, the top of the fridge and other warm spots (drafted 2026-11-18)
 - [x] live /blog/radiator-heat-and-indoor-seedlings/ `radiator-heat-and-indoor-seedlings` Radiators, dry winter air and seedlings: growing from seed in a heated city apartment (drafted 2026-11-20)
-- [~] `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example) (drafted 2026-11-22, pending)
-- [~] `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting (drafted 2026-11-24, pending)
+- [x] live /blog/grow-kale-indoors-from-seed/ `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example) (drafted 2026-11-22)
+- [x] live /blog/grow-spinach-indoors-from-seed/ `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting (drafted 2026-11-24)
 - [ ] `grow-carrots-in-a-container-indoors` Can you grow carrots in a pot indoors? (depth, variety, patience)
 - [ ] `beet-greens-and-beets-indoors` Growing beets indoors from seed: greens first, roots if you have the light
 - [ ] `indoor-seed-starting-without-a-mess` Starting seeds indoors without the mess: soil, water and drainage in a rental
@@ -39,8 +39,8 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/cucumbers-on-a-balcony-railing-trellis/ `cucumbers-on-a-balcony-railing-trellis` Growing cucumbers up a balcony trellis from seed (drafted 2026-11-17)
 - [x] live /blog/peppers-and-eggplant-on-a-balcony/ `peppers-and-eggplant-on-a-balcony` Peppers and eggplant on a city balcony: heat, pots and patience (drafted 2026-11-19)
 - [x] live /blog/hot-balcony-heat-island-vegetables/ `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures (drafted 2026-11-21)
-- [~] `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor (drafted 2026-11-23, pending)
-- [ ] `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in
+- [x] live /blog/high-rise-balcony-gardening/ `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor (drafted 2026-11-23)
+- [~] `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in (drafted 2026-11-25, pending)
 - [ ] `balcony-garden-plan-month-by-month` A 12-month balcony garden plan from seed for a city apartment
 
 ## Both
