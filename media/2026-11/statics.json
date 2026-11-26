@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23",
+ "generated": "2026-11-26",
  "design": "DAHY1SD7IiY",
  "statics": [
   {
@@ -598,7 +598,7 @@
    "canva": "MAHa_Jd6kUk",
    "note": "Promotes https://growhappyseeds.com/blog/windowsill-vegetables-from-seed/. Independent reviewer 9/10 (pass, first round): adult face with mustache and defined jaw, rosy cheek, dark hair, cream hat with red hatband, hummingbird with yellow flower on the crown, wheat sprig at the corner of the mouth, red bandana, cream shirt with rolled sleeves, blue overalls with two yellow buttons, brown cowboy boots, lean adult proportions; holding a picked spinach leaf with a basket of leaves at his boots (harvesting); farmer 201 px, 18.5 to 20.6 percent of the visible plant-plus-pot with the plants fully in frame, 61 percent of the pot; beet with red stems, crinkled Bloomsdale-type spinach, carrot with ferny tops and orange shoulder, frilly greens on the right, all kit vegetables; matte sculpted look, not photoreal; no text, no packaging; not the post's hero image (farmer-windowsill.jpg, a different kale-and-spinach window-box scene). Caption claims verified in the post's short answer. Points off: the right-hand greens read more like curly kale than turnip greens; leaves and pots lean toward a smooth render rather than thumb-marked plasticine. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-windowsill-vegetables.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   },
   {
    "key": "blog-seed-count",
@@ -663,7 +663,7 @@
    "canva": "MAHbMFP0WiA",
    "note": "Promotes https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/. Independent reviewer 9/10 (pass, second round): farmer about 173 px vs kale about 975 px (about 18 percent); hummingbird with red throat and yellow flower, red hatband, wheat sprig, mustache, rosy cheeks, bandana, overalls, brown cowboy boots; watering with a tiny can (tending); Kale 'Red Russian' reads correctly (grey-green, purple stems), upright and healthy with no drooping (meets Jared's Nov 15 note); the kale is the only plant; bow and stocking carry no text; no packaging; not the post's hero image (winter.jpg) and not used before. Caption claims verified against the post's short answer; hook 7 words, new. Points off: kale grey-green a little dull against the saturated palette. Round 1 scored 3: off-list houseplants in frame, no wheat sprig, farmer 25 percent of the kale, gift-bow tying pose. Made in Canva today: ChatGPT browser unavailable (scheduled cloud run, no desktop bridge).",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers-v6.jpg",
-   "status": "Pending"
+   "status": "Superseded"
   },
   {
    "key": "blog-leggy-seedlings-v2",
@@ -962,6 +962,45 @@
    "canva": "chatgpt https://chatgpt.com/c/6b06f5ab-2c6c-83e9-999d-b5c3689d9cbd",
    "note": "Remake of AQ-20261116-03 with the new branded farmer. Promotes https://growhappyseeds.com/blog/tomatoes-on-a-small-balcony/. Independent reviewer 8/10 (pass, first round). Side-on view; farmer 310 px, at most 23 percent of a plant that runs out of the frame. Drive file 1nA7K1Khbz5zDmRb3ELu2VVAZjdAHWsYA.",
    "url": "https://growhappyseeds.com/media/2026-11/statics/blog-balcony-tomato-v3.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-windowsill-vegetables-v2",
+   "ct": "CT-20261126-01",
+   "aq": "AQ-20261126-02",
+   "angle": "blog",
+   "hook": "Which vegetables grow in a sunny window?",
+   "time": "2026-11-30 11:30",
+   "caption": "Which vegetables grow in a sunny window?\nKale, spinach, beet greens, turnip greens and carrots, as long as the sill gets a few hours of direct sun. Tomatoes, peppers and cucumbers are not windowsill crops.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/windowsill-vegetables-from-seed\n\n#gardeningtips #apartmentgardening #indoorgarden #bloomsdalespinach",
+   "canva": "chatgpt https://chatgpt.com/c/6b082116-eec8-83ea-b02b-24a003f02f99",
+   "note": "Remake of AQ-20261115-03 with the new branded farmer. Promotes https://growhappyseeds.com/blog/windowsill-vegetables-from-seed/. Independent reviewer 9/10 (pass, first round). New branded farmer seen three-quarter from behind: hummingbird with yellow flower, red hatband, wheat sprig, mustache, bandana, overalls with crossed back straps, brown cowboy boots, lean build matching the proportions reference. Farmer about 198 px against at least 1150 px of plant plus pot (17 percent). Only kit vegetables (Bloomsdale spinach, Chioggia beet, Danvers carrot, Purple Top turnip), all healthy; clay look, no text, no packaging; not the post's hero (farmer-windowsill.jpg) and not the old image. Caption verified in the post. Points off: same idea as the old image (pots on a sill with a city view); about a quarter of the foliage-only height. ChatGPT https://chatgpt.com/c/6b082116-eec8-83ea-b02b-24a003f02f99, Drive file 1Sgn674YVJbJdEpWIW9iyQmge7uSSuXMz.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-windowsill-vegetables-v2.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-stocking-stuffers-v7",
+   "ct": "CT-20261126-02",
+   "aq": "AQ-20261126-03",
+   "angle": "blog",
+   "hook": "What would a gardener buy for themselves?",
+   "time": "2026-11-30 15:30",
+   "caption": "What would a gardener buy for themselves?\nSmall, durable things that are still useful in spring: a vegetable seed kit, bypass pruners, sturdy gloves, metal plant labels, twine or a pocket journal.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/stocking-stuffers-for-gardeners\n\n#gardeningtips #stockingstuffers #giftideas #redrussiankale",
+   "canva": "chatgpt https://chatgpt.com/c/6b082128-d8ac-83ea-8a56-a8b18f8b4a2d",
+   "note": "Remake of AQ-20261117-02 with the new branded farmer. Promotes https://growhappyseeds.com/blog/stocking-stuffers-for-gardeners/. Independent reviewer 8/10 (pass, first round). New branded farmer in low front view: hummingbird with yellow flower, hatband, wheat sprig, mustache, bandana, overalls with two yellow buttons, brown cowboy boots, lean build. Farmer about 242 px against at least 1285 px of kale plus pot (19 percent). Kale 'Red Russian' only, firm and upright; stocking and bow carry no text; clay look, no packaging; not the post's hero (winter.jpg) and none of the earlier versions. Caption verified in the post. Points off: farmer at the top of the size band; face a little rounder than the hero reference. ChatGPT https://chatgpt.com/c/6b082128-d8ac-83ea-8a56-a8b18f8b4a2d, Drive file 10Wtt3wUgk3_1BRuiZkN4sTuQCVo8sgP5.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-stocking-stuffers-v7.jpg",
+   "status": "Pending"
+  },
+  {
+   "key": "blog-how-much-sun-v2",
+   "ct": "CT-20261126-03",
+   "aq": "AQ-20261126-04",
+   "angle": "blog",
+   "hook": "How much sun do vegetables really need?",
+   "time": "2026-12-01 11:30",
+   "caption": "How much sun do vegetables really need?\nMost need at least 6 hours of direct sun a day. Tomatoes, peppers and cucumbers do best with 8 or more; kale and spinach grow with 3 to 4.\nFull guide on the blog. Link in bio.\ngrowhappyseeds.com/blog/how-much-sun-do-vegetables-need\n\n#gardeningtips #vegetablegarden #fullsun #seedstarting #anaheimchili",
+   "canva": "chatgpt https://chatgpt.com/c/6b08213a-72d4-83ea-b452-8b514ba50dbf",
+   "note": "Promotes https://growhappyseeds.com/blog/how-much-sun-do-vegetables-need/. Independent reviewer 9/10 (pass, second round; round one 7: pepper leaves pointed down, low boots, yellow flecks in the background, all fixed). New branded farmer in side profile: hummingbird with yellow flower, hatband, wheat sprig, mustache, bandana, overalls, tall brown cowboy boots, lean build. Farmer about 227 px against at least 1220 px of pepper plant (19 percent). Pepper 'Anaheim Chili' and Spinach 'Bloomsdale' only, leaves firm and upward; clay look, no text, no packaging; not the post's hero (blog-fall-vegetables.jpg). Caption verified in the post's short answer; hook 7 words, new. Points off: stem thick and trunk-like, leaves very regular. ChatGPT https://chatgpt.com/c/6b08213a-72d4-83ea-b452-8b514ba50dbf, Drive file 1ORBLmFK5-OnJ9F1P1rX9rt5PtiPraNwk.",
+   "url": "https://growhappyseeds.com/media/2026-11/statics/blog-how-much-sun-v2.jpg",
    "status": "Pending"
   }
  ]
