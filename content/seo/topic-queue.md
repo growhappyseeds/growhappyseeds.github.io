@@ -20,8 +20,8 @@ Rules for every article: the `answer` field is a two-sentence direct answer; eve
 - [x] `why-are-my-seeds-not-germinating` Why your seeds are not germinating: 9 causes and fixes (drafted 2026-11-23, live /blog/why-are-my-seeds-not-germinating/)
 - [x] `direct-sow-vs-transplant` covered by /blog/when-to-start-seeds-indoors/ (its section on which seeds to sow straight in the ground covers all ten varieties)
 - [x] `how-to-harden-off-seedlings` covered by /blog/start-indoors-move-to-balcony/ (10-day hardening schedule) and /blog/when-to-start-seeds-indoors/
-- [~] `how-much-sun-do-vegetables-need` How much sun vegetables need (full sun, part sun, what grows on a north-facing balcony) (drafted 2026-11-25, parked in content/blog/_pending/ awaiting Jared's approval)
-- [ ] `how-to-grow-tomatoes-from-seed` How to grow tomatoes from seed (Floradade as the worked example)
+- [x] `how-much-sun-do-vegetables-need` How much sun vegetables need (full sun, part sun, what grows on a north-facing balcony) (drafted 2026-11-25, live /blog/how-much-sun-do-vegetables-need/)
+- [~] `how-to-grow-tomatoes-from-seed` How to grow tomatoes from seed (Floradade as the worked example) (drafted 2026-11-27, parked in content/blog/_pending/ awaiting Jared's approval)
 - [ ] `how-to-grow-carrots-from-seed` How to grow carrots from seed (why they are slow to germinate, thinning)
 - [ ] `how-to-grow-kale-from-seed` How to grow Red Russian kale from seed, spring and fall
 - [ ] `how-to-grow-spinach-from-seed` How to grow spinach from seed without it bolting
