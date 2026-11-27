@@ -41,7 +41,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/hot-balcony-heat-island-vegetables/ `hot-balcony-heat-island-vegetables` Growing vegetables on a hot city balcony: heat-island tips for south and west exposures (drafted 2026-11-21)
 - [x] live /blog/high-rise-balcony-gardening/ `high-rise-balcony-gardening` Gardening on a high-rise balcony: wind, pollination and what changes above the 10th floor (drafted 2026-11-23)
 - [x] live /blog/fall-and-winter-balcony-greens/ `fall-and-winter-balcony-greens` Fall and winter greens on a balcony: what survives the cold and when to bring pots in (drafted 2026-11-25)
-- [ ] `balcony-garden-plan-month-by-month` A 12-month balcony garden plan from seed for a city apartment
+- [~] `balcony-garden-plan-month-by-month` A 12-month balcony garden plan from seed for a city apartment (drafted 2026-11-27, pending)
 
 ## Both
 - [ ] `city-apartment-garden-budget` What it costs to start a vegetable garden from seed in an apartment (a realistic shopping list; the kit's $24.99 is the seed line only)
