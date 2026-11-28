@@ -25,7 +25,7 @@ Slugs below are suggestions; keep them unless the research shows people search a
 - [x] live /blog/grow-kale-indoors-from-seed/ `grow-kale-indoors-from-seed` How to grow kale indoors from seed in an apartment (Red Russian as the example) (drafted 2026-11-22)
 - [x] live /blog/grow-spinach-indoors-from-seed/ `grow-spinach-indoors-from-seed` How to grow spinach indoors from seed without it bolting (drafted 2026-11-24)
 - [~] `grow-carrots-in-a-container-indoors` Can you grow carrots in a pot indoors? (depth, variety, patience) (drafted 2026-11-26, pending)
-- [ ] `beet-greens-and-beets-indoors` Growing beets indoors from seed: greens first, roots if you have the light
+- [~] `beet-greens-and-beets-indoors` Growing beets indoors from seed: greens first, roots if you have the light (drafted 2026-11-28, pending)
 - [ ] `indoor-seed-starting-without-a-mess` Starting seeds indoors without the mess: soil, water and drainage in a rental
 - [ ] `fungus-gnats-indoor-seedlings` Fungus gnats on indoor seedlings: why they show up in apartments and how to stop them
 - [ ] `succession-sowing-indoors` Succession sowing on a windowsill: how to keep greens coming in a small space
